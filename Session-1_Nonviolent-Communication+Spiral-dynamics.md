@@ -24,20 +24,26 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 > * Sharing of resources so everyone is able to benefit
 
 ### As Taught by Marshall Rosenberg
+
 * [Giraffe Language and Jackal Language - Nonviolent Communication explained by Marshall Rosenberg](https://www.youtube.com/watch?v=Xov5z_GJ9Zs) (5 minutes)
-* [Marshall Rosenberg Giraffe Fuel for Life CD NVC Nonviolent Communication](https://www.youtube.com/watch?v=RSwEC4yvrb0) (1 hour)
-* [Basics of Nonviolent Communication - San Francisco](https://www.youtube.com/watch?v=l7TONauJGfc) (3 hours)
+* [Giraffe Fuel for Life](https://www.youtube.com/watch?v=RSwEC4yvrb0) (1 hour)
+
+![](https://i.imgur.com/d1y3JIP.png)
+
+* [Basics of Nonviolent Communication - San Francisco Workshop](https://www.youtube.com/watch?v=l7TONauJGfc) (3 hours)
 * [NonViolent Compassionate Communication A Language of Life Marshall Rosenberg AUDIOBOOK](https://www.youtube.com/watch?v=CBZUpt1bmnM) (5 Hours)
 * [NVC Audio Archive](https://anchor.fm/nvc-archive) Marshall Rosenberg Podcast
 * [@MBR_Quotes](https://twitter.com/MBR_Quotes) - Marshall Rosenberg Twitter Quote Bot
 
-### Taught by Others
+### NVC Taught by Others
 
+![](https://i.imgur.com/Nc5ZyXh.png)
+
+* [THE 4 NVC STEPS MADE SIMPLE](https://www.youtube.com/watch?v=NYkgbrZSAY0) (5 minutes) by [Cup of Empathy](https://www.youtube.com/channel/UC2AK8ipP18I0alKXZXJgzbQ) NVC Youtube Channel
 * [Your Complete Non-Violent Communication Guide [2020 Update]](https://positivepsychology.com/non-violent-communication) (Positive Psychology)
   > All human beings have an innate capacity for compassion, but it is easy to become detached from this capacity in our pursuit to get our way. But when we get our way through fear, guilt, shame, or coercion, we are just as likely to suffer as those who give in to our will.
   > 
   > Violent communication need not be malevolent; often, it is automatic and habitual. In this article, we will explore Nonviolent Communication (NVC), a process through which we can learn to express ourselves clearly and honestly while listening to our needs and others.
-* [THE 4 NVC STEPS MADE SIMPLE](https://www.youtube.com/watch?v=NYkgbrZSAY0) (5 minutes) by [Cup of Empathy](https://www.youtube.com/channel/UC2AK8ipP18I0alKXZXJgzbQ) NVC Youtube Channel
 
 **b) [Oren Jay Sofer. Say What You Mean: A Mindful Approach to Nonviolent Communication](https://www.youtube.com/watch?v=GpZMcFzO4eo)** (video)
 

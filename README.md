@@ -1,11 +1,25 @@
-# Graviton Training NVC Study Companion - Token Engineering Commons (TEC)
+# Graviton Training - Study Companion - Token Engineering Commons (TEC)
 
-A collection of resources surrounding the Token Engineering Commons' Graviton Training.
+Resources surrounding the Token Engineering Commons' Graviton Training.
+
+![](https://i.imgur.com/ykGFt7J.jpeg)
+
+[Gravity Training, Voting Underway & Intrinsic Motivation and Rewards](https://medium.com/token-engineering-commons/voting-underway-gravity-training-intrinsic-motivation-rewards-4609dcb10f03)
+
+> this training will include:
+> 1. Nonviolent communication & spiral dynamics — Trust creation
+> 2. Theories of conflict, Antifragility and conflict transformation
+> 3. BATNA, Negotiation and Alternative Dispute Resolution
+> 4. Role plays & simulations for conflict management
+> 5. Soft Governance & culture: Ostrom’s principles for enduring CPR institutions
+> 6. Gravity process deep dive (ADR for DAOs)
+> 
+> Gravitons will receive [POAP certificates](https://www.poap.xyz/) [[POAP on Medium](https://medium.com/@poap)] at the end of each session. After they have completed the course they can take a leadership role in the Gravity Working Group.
 
 ## TOC
 
-* [About Graviton Training](#about)
-* [Course Overview](#plan-of-study)
+* [About Graviton Training](#about-graviton-training)
+* [Course Outline](#plan-of-study)
 * [Token Engineering Commons](#token-engineering-commons)
 
 ## About Graviton Training
@@ -34,12 +48,15 @@ This short course aims to help those in the TEC understand cultural principles w
 5. Gravitons receive a “grade” each class for their answers and their participation.
 6. Resources to read for the next week are promoted
 
-## Course Overview
+## Course Outline
 
 * [Graviton Training Youtube Playlist](https://www.youtube.com/playlist?list=PLusWL9gf0FIRU-QqtwBqIDQnG3NqisJ-l)
 * [Graviton Training Google Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gb62d844da5_2_21)
 
 ### Session 1: Suggested coach - Regis Chapman (21th January)
+
+![](https://i.imgur.com/M0Denaa.png)
+
 #### “Trust creation”, Nonviolent communication & Spiral dynamics
 
 a) NVC Summary (M. Rosenberg): [https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf)
