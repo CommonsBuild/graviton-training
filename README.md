@@ -59,11 +59,11 @@ This short course aims to help those in the TEC understand cultural principles w
 
 #### “Trust creation”, Nonviolent communication & Spiral dynamics
 
-a) NVC Summary (M. Rosenberg): [https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf)
-b) (video) Oren Jay Sofer. Say What You Mean: A Mindful Approach to Nonviolent Communication [https://www.youtube.com/watch?v=GpZMcFzO4eo](https://www.youtube.com/watch?v=GpZMcFzO4eo)
-c) Using Spiral Dynamics to understand development [https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
-d) Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics [http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)
-e) (video) My stroke of insight - Jill Bolte Taylor [https://www.youtube.com/watch?v=UyyjU8fzEYU](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+a) [NVC Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf) (M. Rosenberg)\
+b) (video) Oren Jay Sofer. [Say What You Mean: A Mindful Approach to Nonviolent Communication](https://www.youtube.com/watch?v=GpZMcFzO4eo)\
+c) [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)\
+d) [Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)\
+e) (video) [My stroke of insight - Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU)
 
 #### Questions:
 
@@ -91,12 +91,12 @@ e) (video) My stroke of insight - Jill Bolte Taylor [https://www.youtube.com/wa
 ### Session 3: Suggested Coach: Juan Bell (4th February)
 #### BATNA, Negotiations & Alternative Dispute Resolution mechanisms 
 
-a) [The future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)
-b) [What is a BATNA?](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing)
-c) [Five ways to keep disputes out of court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court)
-d) Rahman, [Mediation and mediator skills: a critical appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)
-e) [Restorative Justice circles](https://oscr.umich.edu/article/restorative-justice-circles) (University of Michigan)
-f) (video) W. Ury, [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)
+a) [The future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)\
+b) [What is a BATNA?](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/)\
+c) [Five ways to keep disputes out of court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court)\
+d) Rahman, [Mediation and mediator skills: a critical appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)\
+e) [Restorative Justice circles](https://oscr.umich.edu/article/restorative-justice-circles) (University of Michigan)\
+f) (video) W. Ury, [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)\
 g) (Español) [Sistemas alternativos de resolución de conflictos: negociación, conciliación, mediación, arbitraje, en el ámbito civil y mercantil](https://dialnet.unirioja.es/descarga/articulo/4182033.pdf)
 
 #### Questions:
@@ -107,17 +107,17 @@ g) (Español) [Sistemas alternativos de resolución de conflictos: negociación,
 
 ### Session 4: Practical cases (individual conflicts) Feb 11th
 
-a) [Understanding the impact of role plays & simulations for conflict management](https://drive.google.com/file/d/1SNiGTwJFb_z4XL4K3Ice5Atnyg68Izjp/view?usp=sharing)
-b) [How exercises, cases and coaching can make you a better negotiator](https://drive.google.com/file/d/1X5lvtT3ha-wvq-JVlfUJJmRn0EZQUrdE/view?usp=sharing)
+a) [Understanding the impact of role plays & simulations for conflict management](https://drive.google.com/file/d/1SNiGTwJFb_z4XL4K3Ice5Atnyg68Izjp/view?usp=sharing)\
+b) [How exercises, cases and coaching can make you a better negotiator](https://drive.google.com/file/d/1X5lvtT3ha-wvq-JVlfUJJmRn0EZQUrdE/view?usp=sharing)\
 c) [Make the most of online negotiations](https://drive.google.com/drive/u/0/folders/1g2rMoMJWcQ-yBH9Qj1yOc937KsvD99VS)
 
 ### Session 5: Suggested Coach: Livia Deschermayer (Feb 18)
 #### Soft Governance & Culture: Ostrom’s principles for enduring CPR Institutions
 
-a) TEC Cultural build: soft Gov [Miro](https://miro.com/signup/) (collaborative whiteboard platform for distributed teams)
-b) [Rebuilding Companies as Communities](https://hbr.org/2009/07/rebuilding-companies-as-communities)
-c) [Ostrom, Governing the Commons](https://wtf.tw/ref/ostrom_1990.pdf)
-d) [Ostrom Summary](https://drive.google.com/file/d/1nLeB-Rmchee9zsyyNCnJdBlgqYulbH1-/view?usp=sharing)
+a) TEC Cultural build: soft Gov [Miro](https://miro.com/signup/) (collaborative whiteboard platform for distributed teams)\
+b) [Rebuilding Companies as Communities](https://hbr.org/2009/07/rebuilding-companies-as-communities)\
+c) [Ostrom, Governing the Commons](https://wtf.tw/ref/ostrom_1990.pdf)\
+d) [Ostrom Summary](https://drive.google.com/file/d/1nLeB-Rmchee9zsyyNCnJdBlgqYulbH1-/view?usp=sharing)\
 e) (Español) [Ostrom Resumen](https://drive.google.com/file/d/1C3XXakFQCKYCaxd8SXeJJJ3Z1IsPLqfX/view?usp=sharing)
 
 #### Questions:
@@ -144,9 +144,9 @@ Gravitons participation in Community management -> focus in the last two session
 ### Session 7: Gravity process (MARCH 4)
 #### Deep dive: forms, graduated sanctions
 
-a) [Gravity initial document](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit?usp=sharing)
-b) [Graduated sanctions -> Soft Gov Miro board](https://miro.com/welcomeonboard/WynOwXI4AgjZbN6wVRdUGfc6loa2lqEaYL4VMEg2ZBaqsiJD8T5lrkbw7Eq47bCz)
-c) [Gravity Wg call notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
+a) [Gravity initial document](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit?usp=sharing)\
+b) [Graduated sanctions -> Soft Gov Miro board](https://miro.com/welcomeonboard/WynOwXI4AgjZbN6wVRdUGfc6loa2lqEaYL4VMEg2ZBaqsiJD8T5lrkbw7Eq47bCz)\
+c) [Gravity Wg call notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)\
 d) [Forms for conciliation process/agreement](https://web.worldbank.org/archive/website01553/archived/www.wbginvestmentclimate.org/uploads/15322_MGPEI_Web.pdf) - Apendix E : from page 88/131
 
 ### Session 8: Practice case (group conflicts) (MARCH 11)
