@@ -29,7 +29,13 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 > * Connect empathically with self and others to have more satisfying relationships
 > * Sharing of resources so everyone is able to benefit
 
-### As Taught by Marshall Rosenberg
+[Feelings and Needs Exercise](/CEG+-+The+_Feelings+and+Needs_+Exercise+030916.pdf)
+
+@solsista shares in [#🕊-tec-gravity](https://discord.gg/rThJFgxqgM):
+>@durgadas' explanation actually how feelings only arise when needs are met or not - was one breakthrough for need-based modeling we use for [Invisible Economy / DADA](https://powerdada.medium.com/the-invisible-economy-db46897d4f07)
+![](https://i.imgur.com/SkWtIR0.png)
+
+### NVC Taught by Marshall Rosenberg
 
 * [Giraffe Language and Jackal Language - Nonviolent Communication explained by Marshall Rosenberg](https://www.youtube.com/watch?v=Xov5z_GJ9Zs) (5 minutes)
 * [Giraffe Fuel for Life](https://www.youtube.com/watch?v=RSwEC4yvrb0) (1 hour)
