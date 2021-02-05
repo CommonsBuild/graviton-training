@@ -2,6 +2,16 @@
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114) Google Slides - Session 2
 
+## TOC
+
+* [What is Conflict?](#what-is-conflict-)
+* [Lederach - Conflict Transformation](#lederach---conflict-transformation)
+* [Antifragile, Nassim Nicholas Taleb](#antifragile--nassim-nicholas-taleb)
+* [Johan Galtung (Father of Peace Studies)](#johan--galtung--father-of-peace-studies-)
+* [Francisco A. Muñoz - Qué son los conflictos](#francisco-a-muñoz---qué-son-los-conflictos)
+* [John Burton - Conflict Resolution](#john-burton---conflict-resolution)
+* [Metamodern Regenaissance](#metamodern-regenaissance)
+
 ## What is Conflict?
 
 ![](https://i.imgur.com/jqCyKcE.png)
@@ -112,7 +122,7 @@ So this is sort of like the idea or the general idea.
 
 ![](https://i.imgur.com/w7rPPqM.png)
 
-## Johan Galtung
+## Johan Galtung (Father of Peace Studies)
 **7. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
 
 > We recognise that there are some similarities and overlaps between the concepts of conflict and violence as both conflict and violence can cause damage and harm. However, there are also some important differences. One of the most important differences is that while VIOLENCE is always negative and harmful, CONFLICT can sometimes be positive, if we respond to it in a constructive way.
@@ -144,7 +154,7 @@ So this is sort of like the idea or the general idea.
 * [PeacePower: Johan Galtung's Transcend Approach: Confederation in Iraq and a Middle East Community for Israel/Palestine](http://calpeacepower.org/0201/galtung_transcend.htm)
   > Transcend believes that all conflicts are born equal and have the same right to transformation; no conflict is "higher level" than another. Whether the solution lies in a shared national park or the creation of a community of six states, this philosophy ensures that each conflict is addressed by Transcend in the same, principled, peaceful and creative way. Galtung's visions for the peaceful solution of these current violent Middle Eastern conflicts represent peaceful, realistic and therefore compelling alternatives.     
 
-## Francisco A. Muñoz
+## Francisco A. Muñoz - Qué son los conflictos
 
 **9. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
 
@@ -161,7 +171,7 @@ So this is sort of like the idea or the general idea.
 
 > Societies remain power-elite dominated. The diversion of resources to provide education and other services on an equitable basis is being increasingly resisted. Funds are being cut. There is a retreat to specialization, and a holistic approach to problems is politically unpopular. But if civilizations are to survive the contemporary trend towards increased crime and violence at all social levels has to be dealt with by means which eliminate it, rather than merely contain it within less privileged regions. Civilizations must, if they are to survive, move from power-elite politics to problem-solving. It is the responsibilities of universities in particular to bring these issues to attention, and to give students in all disciplines the opportunity to question, to explore and to innovate. This new a-disciplinary study, Conflict Resolution, provides an opportunity
 
-## Metamodern
+## Metamodern Regenaissance
 
 (shared, by @durgadas, in chat as related)
 
