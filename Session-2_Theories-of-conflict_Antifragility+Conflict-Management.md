@@ -1,6 +1,6 @@
 # Session 2: Theories of conflict, Antifragility and Conflict Management
 
-[Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114) Google Slides - Session 2
+A selection of quotes, images and other materials gathered from the session notes, [#🕊️-TEC-Gravity](https://discord.gg/rThJFgxqgM), Graviton Training [on Google Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114), and the web. 
 
 ## TOC
 
