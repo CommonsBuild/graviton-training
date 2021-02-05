@@ -16,6 +16,8 @@ Resources surrounding the Token Engineering Commons' Graviton Training.
 > 
 > Gravitons will receive [POAP certificates](https://www.poap.xyz/) [[POAP on Medium](https://medium.com/@poap)] at the end of each session. After they have completed the course they can take a leadership role in the Gravity Working Group.
 
+The trainings are held in the [Gravity-TEC](https://discord.gg/kxTxG8bh37) Discord voice channel.
+
 ## TOC
 
 * [About Graviton Training](#about-graviton-training)
