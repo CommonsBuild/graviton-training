@@ -19,7 +19,7 @@
 > 
 > Conflict transformation is more than a set of specific techniques; it is a way of looking as well as seeing. Looking and seeing both require lenses. So conflict transformation suggests a set of lenses through which we view social conflict.
 
-#### Conflict is... (_according to J.P Lederach_)
+### Conflict is... (_according to J.P Lederach_)
 * Conflict can be understood as *that which keeps relationships and social structures honest, alive, and dynamically responsive to human needs*, aspirations, and growth.
 * Conflict flows from life. Rather than seeing conflict as a threat, we can understand it as providing opportunities to grow and increase our understanding of ourselves, of others, and of our social structures. 
 * Conflicts in relationships at all levels are the way life helps us to stop, assess, and take notice. 
@@ -60,11 +60,11 @@
 >   - Identificar y entender los patrones culturales que contribuyen a la aparición de las expresiones violentas del conflicto.
 >   - Identificar y construir recursos y mecanismos dentro de un escenario cultural para responder constructivamente al conflicto y gestionarlo.
 
-#### J.P. Lederach. Conflict Transformational platform
+### J.P. Lederach. Conflict Transformational platform
 
 ![](https://i.imgur.com/ko6C6PF.png)
 
-#### Framework for conflict analysis
+### Framework for conflict analysis
 
 ![](https://i.imgur.com/FoMdGt1.png)
 
@@ -83,7 +83,7 @@
 > 
 > Antifragility makes us understand fragility better. Just as we cannot improve health without reducing disease, or increase wealth without first decreasing losses, antifragility and fragility are degrees on a spectrum.
 
-#### Antifragile and conflicts / Breaking points
+### Antifragile and conflicts / Breaking points
 
 ![](https://i.imgur.com/zFjwZZ2.png)
 
@@ -106,7 +106,7 @@
 > The robust will have this payoff--it doesn't care--and the anti-fragile will have this payoff where harm is small and the big variations are positive, are favorable.
 So this is sort of like the idea or the general idea.
 
-#### Examples of Antifragile
+### Examples of Antifragile
 
 > “So we tend to over-technologize and underestimate the might of the equivalent of these small wheels on suitcases that will be staring at us for the next millennia.”
 
@@ -123,7 +123,7 @@ So this is sort of like the idea or the general idea.
 
 **8. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
 
-#### Collecting information from world religions ( Galtung’s Transcend Method )
+### Collecting information from world religions ( Galtung’s Transcend Method )
 
 - *following Hindu thought*, remember: Conflict the Destroyer and Conflict the Creator; conflict as a source of violence and conflict as a source of development. The conflict worker has the third role as Preserver, transforming the conflict by avoiding violence, promoting development.
 - *following Buddhist thought*, remember: Codependent origination, everything grows together in mutual causation. Conflicts have no beginning and no end, we all share the responsibility; no single actor (like statesmen) carries all the responsibility (monopoly) and no single actor carries all the guilt.
@@ -132,7 +132,7 @@ So this is sort of like the idea or the general idea.
 - *following Islamic thought*, remember: The strength deriving from submitting together to a common goal, including the concrete responsibility for the wellbeing of all.
 - *following Judaic thought*, remember: The truth lies less in a verbal formula than in the dialogue to arrive at the formula, and that dialogue has no beginning and no end.
 
-#### Conflict management as a political philosophy
+### Conflict management as a political philosophy
 
 * **Conflict itself is not bad**. It is an expression of the diversity of interests, ideas and points of view. It arises in all human relationships and, like crises, can be excellent opportunities to grow, emerge stronger, learn and improve.
 * When assuming conflicts are negative, people and institutions tend to fear them and adopt one of these two attitudes: 
