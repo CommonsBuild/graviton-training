@@ -6,7 +6,7 @@
 
 * [What is Conflict?](#what-is-conflict)
 * [Lederach - Conflict Transformation](#lederach---conflict-transformation)
-* [Antifragile, Nassim Nicholas Taleb](antifragile-nassim-nicholas-taleb)
+* [Antifragile, Nassim Nicholas Taleb](#antifragile-nassim-nicholas-taleb)
 * [Johan Galtung (Father of Peace Studies)](#johan-galtung-father-of-peace-studies)
 * [Francisco A. Muñoz - Qué son los conflictos](#francisco-a-muñoz---qué-son-los-conflictos)
 * [John Burton - Conflict Resolution](#john-burton---conflict-resolution)
