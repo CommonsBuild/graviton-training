@@ -93,7 +93,17 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 
 ![](https://i.imgur.com/Z7QDVnx.png)
 
-A lengthy [PowerPoint](https://www.dropbox.com/s/2bwxv7z6ixwag28/I%20AM%20THE%20PROBLEM-Decolonization-Draft%203.pptx?dl=0) of this in context with Decolonization, which Regis Chapman (Durgadas) presents upon in detail: [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://youtu.be/lxi76vO-hJY).
+Divided and Unified ways of thinking in context of decolonization, which Regis Chapman (@Durgadas) presents upon in detail: 
+
+[I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.dropbox.com/s/2bwxv7z6ixwag28/I%20AM%20THE%20PROBLEM-Decolonization-Draft%203.pptx?dl=0) ([Youtube](https://youtu.be/lxi76vO-hJY)))
+
+e) [My stroke of insight - Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU&feature=emb_logo) (video)
+
+This video describes the experience of having a stroke, which allowed Jill Bolte Taylor, a scientist, direct view to the inner workings of her mind. This experience granted her a "stroke" of insight, regarding the difference between right and left brain thinking, and how our brains define our realities.
+
+> I pictured a world filled with beautiful, peaceful, compassionate, loving people who knew that they could come to this space at any time. And that they could purposely choose to step to the right of their left hemispheres – and find this peace.
+
+![](https://i.imgur.com/ypdmmso.png)
 
 **Tuning to the Unified**
 
@@ -108,11 +118,6 @@ A lengthy [PowerPoint](https://www.dropbox.com/s/2bwxv7z6ixwag28/I%20AM%20THE%20
 * [The Three Gunas Explained - 10 Minutes with Dr. Marc Halpern](https://www.youtube.com/watch?v=XzIRZs-vrVc)
   > These three qualities are called sattva, rajas, and tamas, in sanskrit. These three gunas are responsible for the functioning of your mind, they also do affect the body. They affect everything in nature, but in our conversation, we usually bring it into the conversation about the mind. What is your mind like? Is your mind clear, like sattva? Is it turbulent, like rajas? Is it more inert and darker, like tamas?
 
-e) [My stroke of insight - Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU&feature=emb_logo) (video)
-
-This video describes the experience of having a stroke, which allowed Jill Bolte Taylor, a scientist, direct view to the inner workings of her mind. This experience granted her a "stroke" of insight, regarding the difference between right and left brain thinking, and how our brains define our realities.
-
-> I pictured a world filled with beautiful, peaceful, compassionate, loving people who knew that they could come to this space at any time. And that they could purposely choose to step to the right of their left hemispheres – and find this peace.
 
 ## Questions
 
