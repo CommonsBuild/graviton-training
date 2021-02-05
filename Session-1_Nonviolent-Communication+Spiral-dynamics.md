@@ -2,7 +2,7 @@
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_16) - Session 1
 
-A selection of quotes, images and other materials gathered from the session notes, [#🕊️-TEC-Gravity](https://discord.gg/rThJFgxqgM), [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_16) on Google Slides, and the web. 
+A selection of quotes, images and other materials gathered from the session notes, [#🕊️-TEC-Gravity](https://discord.gg/rThJFgxqgM), Graviton Training [on Google Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_16), and the web. 
 
 ## TOC
 
