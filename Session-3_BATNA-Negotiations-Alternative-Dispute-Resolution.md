@@ -108,7 +108,11 @@ There are different rituals to manage your thoughts. The best decisions are alwa
 
 As Jill Bolte-Taylor's noted, the physiological lifespan of an emotion in the body and brain is 90 seconds. So we can control our emotions by the thoughts we trigger in our minds.
 
-![](https://i.imgur.com/hePmgSZ.png)
+* [Dealing anger effectively](https://satsang.arshavidya.org/wp-content/uploads/media/hhpsds/pdf/dealing_anger_effectively.pdf) Satsang with Swami Dayananda Saraswati and Arsha Vidya Gurukulam
+  > Anger is nothing but an expression of pain and expectation. Çré Saìkaräcärya confirms this in his writings. We expect certain things to happen and there is an obstruction between what to happen and ourselves. In other words, between the desirer and desired, there is an obstruction blocking the fulfillment of what is desirable. Because of this obstruction, this desire is deflected. The deflected form of desire or expectation is called anger.
+* [Anger Management & I Am NOT the Doer – Bhagavad Gītā Meaning (28)](https://www.yesvedanta.com/bg/lesson-28/)
+  > Lesson 28 starts out by visually comparing Mind-Intellect-Ego of a samsari (life controlled by desires) – and of a self-actualized person (jīvanmuktaḥ). Then we correct common false notion of limiting Īśvara (God) to space-time. Finally, we discuss what it means to say “I am NOT the doer”. The real doer is Īśvara's laws-orders. This understanding is key to freedom.
+
 
 ### Being a good third party
 
@@ -117,6 +121,8 @@ As Jill Bolte-Taylor's noted, the physiological lifespan of an emotion in the bo
 * Feel comfortable with strong emotions. In fact, it has been suggested that an important part of becoming a third part is to **become sensitized to the feelings of others as well as self**.
 * Be able to **map and clarify** the situation, helping parties to understand their own interest & risk. and explore all possibilities to conform a satisfactory agreement.
 * Help to make informed decisions, pondering expected costs (ex-ante & ex-post) and expected benefits to a negotiated agreement.
+
+![](https://i.imgur.com/hePmgSZ.png)
 
 ### Empathy is Key
 
