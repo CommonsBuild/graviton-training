@@ -1,20 +1,14 @@
 # Graviton Training - Study Companion - Token Engineering Commons (TEC)
-
-Resources surrounding the Token Engineering Commons' Graviton Training.
+**Resources surrounding the Token Engineering Commons' Graviton Training.**
 
 ![](https://i.imgur.com/ykGFt7J.jpeg)
 
-[Gravity Training, Voting Underway & Intrinsic Motivation and Rewards](https://medium.com/token-engineering-commons/voting-underway-gravity-training-intrinsic-motivation-rewards-4609dcb10f03)
-
-> this training will include:
-> 1. Nonviolent communication & spiral dynamics — Trust creation
-> 2. Theories of conflict, Antifragility and conflict transformation
-> 3. BATNA, Negotiation and Alternative Dispute Resolution
-> 4. Role plays & simulations for conflict management
-> 5. Soft Governance & culture: Ostrom’s principles for enduring CPR institutions
-> 6. Gravity process deep dive (ADR for DAOs)
-> 
-> Gravitons will receive [POAP certificates](https://www.poap.xyz/) [[POAP on Medium](https://medium.com/@poap)] at the end of each session. After they have completed the course they can take a leadership role in the Gravity Working Group.
+* [Why is Gravity relevant in Token Engineering?](https://medium.com/token-engineering-commons/why-is-gravity-relevant-in-token-engineering-e28ae4a5b5a1)
+  > When we talk about Gravity in the context of Token Engineering, we refer to a decentralized group of people that embody a cyber physical force whose ultimate purpose is to pull community members (and DAOs) toward each other.
+  > 
+  > Gravity is the name of a trust creation & conflict management initiative born from the Token Engineering Commons, where we are training individuals to encourage synthesis from dialogue and transform distress into opportunities for improvement.
+  > 
+  > We promote methods for peacefully addressing conflict as something needed for the success of organizations, its continued sustainability and its ongoing evolution.
 
 The trainings are held in the [Gravity-TEC](https://discord.gg/kxTxG8bh37) Discord voice channel.
 
@@ -26,20 +20,29 @@ The trainings are held in the [Gravity-TEC](https://discord.gg/kxTxG8bh37) Disco
 
 ## About Graviton Training
 
-[Juankbell - GRAVITON TRAINING](https://forum.tecommons.org/t/graviton-training/217) - ANN TECommons Forum
-
-The graviton is the hypothetical quantum of gravity, an elementary particle that mediates the force of gravity.
-
-This short course aims to help those in the TEC understand cultural principles we wish to nurture, in the community. It promotes the philosophy of nonviolent communication (NVC) for a deeper understanding conflict and tools to peacefully manage conflict (internally, individually and collectively), with the purpose of promoting trust into our shared rules and boundaries.
-
-### Gravitons shall be able to
-0. Make an effort to be present and accessible to the community, bringing high vibes and improving relationships, bringing the community together.
-1. Separate the people from problems. Making parties identify with themselves and the other as equals, rather than centering on their own conflictive thoughts-feelings.
-2. Self-determinate from all parties and recognize key management points by analyzing the information gathered.
-3. Promote empathy between conflicting parties with emotional intelligence. Building proximity from the abstraction of the problem and the humanization of apparent antithesis.
-4. Adapt their mindset for tolerance to conflictive situations, keeping calm and diplomacy to stand as an independent third party.
-5. Propose alternatives to deal with paradoxes while looking for the coexistence and attraction of opposites.
-6. Act according to institutional regulations while implementing actions to frame unwanted behavior within rules and boundaries (Terms & conditions / Codes of conduct / Graduated sanctions)
+* [Gravity Training, Voting Underway & Intrinsic Motivation and Rewards](https://medium.com/token-engineering-commons/voting-underway-gravity-training-intrinsic-motivation-rewards-4609dcb10f03)
+  > this training will include:
+  > 1. Nonviolent communication & spiral dynamics — Trust creation
+  > 2. Theories of conflict, Antifragility and conflict transformation
+  > 3. BATNA, Negotiation and Alternative Dispute Resolution
+  > 4. Role plays & simulations for conflict management
+  > 5. Soft Governance & culture: Ostrom’s principles for enduring CPR institutions
+  > 6. Gravity process deep dive (ADR for DAOs)
+  > 
+  > Gravitons will receive [POAP certificates](https://www.poap.xyz/) [[POAP on Medium](https://medium.com/@poap)] at the end of each session. After they have completed the course they can take a leadership role in the Gravity Working Group.
+* [Juankbell - GRAVITON TRAINING](https://forum.tecommons.org/t/graviton-training/217) - ANN TECommons Forum
+  > The graviton is the hypothetical quantum of gravity, an elementary particle that mediates the force of gravity.
+  > 
+  > This short course aims to help those in the TEC understand cultural principles we wish to nurture, in the community. It promotes the philosophy of nonviolent communication (NVC) for a deeper understanding conflict and tools to peacefully manage conflict (internally, individually and collectively), with the purpose of promoting trust into our shared rules and boundaries.
+  > 
+  > ### Gravitons shall be able to
+  > 0. Make an effort to be present and accessible to the community, bringing high vibes and improving relationships, bringing the community together.
+  > 1. Separate the people from problems. Making parties identify with themselves and the other as equals, rather than centering on their own conflictive thoughts-feelings.
+  > 2. Self-determinate from all parties and recognize key management points by analyzing the information gathered.
+  > 3. Promote empathy between conflicting parties with emotional intelligence. Building proximity from the abstraction of the problem and the humanization of apparent antithesis.
+  > 4. Adapt their mindset for tolerance to conflictive situations, keeping calm and diplomacy to stand as an independent third party.
+  > 5. Propose alternatives to deal with paradoxes while looking for the coexistence and attraction of opposites.
+  > 6. Act according to institutional regulations while implementing actions to frame unwanted behavior within rules and boundaries (Terms & conditions / Codes of conduct / Graduated sanctions)
 
 ## Plan of Study
 ### Weekly pattern
