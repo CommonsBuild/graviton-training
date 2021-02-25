@@ -159,7 +159,7 @@ d) [Forms for conciliation process/agreement](https://web.worldbank.org/archive/
 
 ## Token Engineering Commons
 
-[Website](https://tokenengineeringcommunity.github.io/website/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb)
+[Website](https://tokenengineeringcommunity.github.io/website/) – [Forum](https://forum.tecommons.org/) – [Discord](https://discord.gg/N6cydb3) – [Medium](https://medium.com/token-engineering-commons) – [Youtube](https://www.youtube.com/c/tokenengineering) – [GitHub](https://github.com/TECommons) – [Twitter](https://twitter.com/tecmns) – [Telegram](https://t.me/tecommons) – [Wiki](https://www.notion.so/TEC-Wiki-0460a521d72940ecad401ae1571b87fb) – [Calendar](https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&ctz=Europe/Berlin&pli=1) – [Working Groups](https://www.notion.so/Working-Groups-e9854f7464904977aeb6bc445a69eee0)
 
 ![](https://i.imgur.com/4IaKG2c.png)
 
