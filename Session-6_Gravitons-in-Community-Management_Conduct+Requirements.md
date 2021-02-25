@@ -4,6 +4,8 @@
 
 Gravitons participation in Community management -> focus in this last two sessions is to understand that the purpose of gravity (and gravitons) is to bring us together.
 
+![](gravity.gif)
+
 - [TEC Code of Conduct](https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit?usp=sharing)
 - Gravity Forum Posts
    - [Role design](https://forum.tecommons.org/t/gravity-role-design/174)\
@@ -104,3 +106,29 @@ c) As both a collective and individuals, to commit to the practice of preventing
 4. Hold admin powers to manage systems of communication (Discord, Telegram, Forum, CV App) on behalf of the individual, the constituent groups and the community as a whole.
 5. Promote community resilience and long-lasting human relationships by proactively co-creating boundaries, discussion and exchange in a system of shared values.
 6. As a group, take decisions regarding the implementation of graduated sanctions and commit to its participation with respect to all individuals, specially the ones that don’t follow to our terms and conditions.
+
+## Guideline for scale of conflicts and graduated sanctions
+
+### Framework for studying conflicts and suggest appropriate actions to correct unwanted behavior.
+* **Small scale conflicts**: The issue involves few people
+* **Mid scale conflicts**: The issue is private but is latent in the community
+* **Big scale conflicts**: The issue is public and manifest in the community
+
+### Suggested actions per management mechanism (graduated sanctions)
+#### Self compositives:
+* **Negotiation**: The conflict manager (graviton) can act as a witness for an issue that is handled directly between parties.
+* **Mediation**: The Graviton acts as a facilitator for the conflict management process, helping to identify key points to reach an agreement, but not directly suggesting a solution.
+* **Conciliation**: The conflict manager (Graviton) proposes and helps to implement a suggested solution that should be taken into consideration for approval between parties.
+
+#### Heterocompositive:
+* **Arbitrage**: An external point of view is needed to address the issue
+
+More info at: [Scale of conflicts - Graduated sanction Guideline](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) (TECommons Forum)
+
+## Conflict Managment for the TEC (Draft)
+
+![](https://i.imgur.com/vXdvm2U.png)
+
+## Meditation TIme
+
+![](https://i.imgur.com/xR2iyVg.png)
