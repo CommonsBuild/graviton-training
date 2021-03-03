@@ -9,3 +9,4 @@ b) Graduated sanctions -> Soft Gov Miro board [https://miro.com/welcomeonboard/
 c) Gravity Wg call notes [https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
 
 d) Forms for conciliation process/agreement - Apendix E : from page 88/131
+
