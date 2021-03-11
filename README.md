@@ -1,4 +1,4 @@
-# Graviton Training - Study Companion - Token Engineering Commons (TEC)
+# Graviton Training - Conflict Management Study Companion - Token Engineering Commons (TEC)
 **Resources surrounding the Token Engineering Commons' Graviton Training.**
 
 ![](https://i.imgur.com/ykGFt7J.jpeg)
