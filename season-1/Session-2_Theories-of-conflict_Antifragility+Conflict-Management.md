@@ -36,7 +36,7 @@ A selection of quotes, images and other materials gathered from the session note
 * One way to truly know our humanness is to recognize the gift of conflict in our lives. *Without it, life would be a monotonously flat topography of sameness and our relationships would be woefully superficial.* 
 * Conflict also creates life: through conflict we respond, innovate, and change.
 
-![](/conflict-is-everywhere.gif)
+![](assets/conflict-is-everywhere.gif)
 
 ### Transformative approach to conflicts
 * Conflict is an opportunity, a gift. Conflict is normal in human relationships, and conflict is a motor of change.
@@ -44,7 +44,7 @@ A selection of quotes, images and other materials gathered from the session note
 * Conflict transformation is to envision and respond to the ebb and flow of social conflict as life-giving opportunities for creating constructive change processes that reduce violence, increase justice in direct interaction and social structures, and respond to real-life problems in human relationships.
 * Transformation’s guiding question is this: How do we end something not desired and build something we do desire?
 
-![](/Embrace.gif)
+![](assets/Embrace.gif)
 
 **2. Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese**
 

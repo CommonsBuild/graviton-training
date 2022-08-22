@@ -4,7 +4,7 @@
 
 Gravitons participation in Community management -> focus in this last two sessions is to understand that the purpose of gravity (and gravitons) is to bring us together.
 
-![](gravity.gif)
+![](assets/gravity.gif)
 
 - [TEC Code of Conduct](https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit?usp=sharing)
 - Gravity Forum Posts
