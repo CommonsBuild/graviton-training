@@ -1,11 +1,16 @@
 # Graviton Training - Season 2 - Conflict Management Study Companion 
 
+- [Second graviton training](https://docs.google.com/presentation/d/1jW2zJhU33HpI8WGvMp33VG-OLo6Bn2_ime6TmAD3x8U)
+  > Second Graviton Training Gravity Voice Channel Sign up Here!
+
 [GRAVITON TRAINING, SEASON 2](https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d) Medium
 “Rather than looking at conflict as a threat, we can see it as providing opportunities to grow and increase our understanding of ourselves, of others, and of our social structures.” — [J.P. Lederach](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
 
 ![](https://i.imgur.com/CjSkj0b.png)
 
 ### [Graviton training Study plan (2nd season)](https://forum.tecommons.org/t/second-graviton-training-study-plan/607) 9-21-2021 thru 11-23-2021
+
+[Graviton Training Study Plan Season 2](https://docs.google.com/document/d/1txyn1dND8xG_ofNG_rxRzvNuBfGl3j20w9Au5N8kq0E/edit) GoogleDocs
 
 > **Methodology:** There is some content that is required to be understood for a full comprehension before each session, that is referred to as **pre-learning.** Each facilitator will lead a **Presentation or a Workshop** and is free to choose if leaving additional information as **Homework**. Our intention is to Give people a study guide (general overview) of processes that need continued education and practice, to foster a culture of competence around solving the problems that can arise.
 
