@@ -1,6 +1,7 @@
 # Session 7: Gravity process deep dive (forms, graduated sanctions) (MARCH 4)
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_136) Google Slides - Session 7
+* [Session #7: TEC Code of conduct, management & benefits/requirements for gravitons](https://www.youtube.com/watch?v=D6oTmDESKbU)
 
 a) Gravity initial document [https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit?usp=sharing 1](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit?usp=sharing)
 

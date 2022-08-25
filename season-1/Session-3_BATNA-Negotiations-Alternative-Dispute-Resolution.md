@@ -1,6 +1,7 @@
 # Session 3: BATNA, Negotiations & Alternative Dispute Resolution mechanisms
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_9) Google Slides - Session 3
+* [Session #3: BATNA, Negotiations & Alternative dispute Resolution mechanisms](https://www.youtube.com/watch?v=Vd00bkV_Y6A) youtube
 
 ## What is Alternative Dispute Resolution (ADR)
 

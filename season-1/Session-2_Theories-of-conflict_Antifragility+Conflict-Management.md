@@ -2,6 +2,8 @@
 
 A selection of quotes, images and other materials gathered from the session notes, [#🕊️-TEC-Gravity](https://discord.gg/rThJFgxqgM), Graviton Training [on Google Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114), and the web. 
 
+* [Session #2: Conflict transformation](https://www.youtube.com/watch?v=7L78Gnrtkic) youtube
+
 ## TOC
 
 * [What is Conflict?](#what-is-conflict)

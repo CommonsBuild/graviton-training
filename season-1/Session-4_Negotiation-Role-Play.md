@@ -1,6 +1,7 @@
 # Session 4: Practical cases (individual conflicts) Feb 11th
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_45) Google Slides - Session 4
+* [Session #4: Roleplays :D](https://www.youtube.com/watch?v=Q7NLvwcijfY)
 
 **a) [Understanding the impact of role plays & simulations for conflict management](https://drive.google.com/file/d/1SNiGTwJFb_z4XL4K3Ice5Atnyg68Izjp/view?usp=sharing)**
   > Many educational theorists believe that learning is context-dependent. In other words, the nature of a student’s learning depends on the context in which the learning takes place. From this perspective, authentic activities—or learning activities that re-create as closely as possible the key dynamics and challenges of real-world activities—are critical to making learning relevant.

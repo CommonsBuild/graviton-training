@@ -1,6 +1,7 @@
 # Session 6: TEC Code of conduct, participation in community management & benefits / requirements for gravitons.
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_110) Google Slides - Session 6
+* [Session #6: TEC Code of conduct, management & benefits/requirements for gravitons](https://www.youtube.com/watch?v=qj_XK9zx0Po) youtube
 
 Gravitons participation in Community management -> focus in this last two sessions is to understand that the purpose of gravity (and gravitons) is to bring us together.
 

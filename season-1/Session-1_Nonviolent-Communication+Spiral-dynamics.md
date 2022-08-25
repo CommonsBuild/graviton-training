@@ -2,6 +2,8 @@
 
 A selection of quotes, images and other materials gathered from the session notes, [#🕊️-TEC-Gravity](https://discord.gg/rThJFgxqgM), Graviton Training [on Google Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_16), and the web. 
 
+* [Session #1: NVC, Spiral dynamics and unified thinking!](https://www.youtube.com/watch?v=K1atKOM4lcE) youtube
+
 ## TOC
 
 * [Nonviolent Communication](#nonviolent-communication)

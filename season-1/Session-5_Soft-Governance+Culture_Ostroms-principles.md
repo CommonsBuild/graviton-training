@@ -1,8 +1,11 @@
 # Session 5: Soft Governance & Culture: Ostrom’s principles for enduring CPR Institutions
 
 ![](https://i.imgur.com/zF1aO1k.png)
+* [Session #5: Soft Gov & Culture](https://www.youtube.com/watch?v=BA97eWuv7lc)
 
 ## [Soft Gov & Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/edit#slide=id.ga98e825200_0_50) Google Slides - Liviade
+
+https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/
 
 ### Three Influential Models
 
