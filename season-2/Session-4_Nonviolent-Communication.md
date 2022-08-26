@@ -1,5 +1,8 @@
 # Session 4 - Nonviolent Communication - David Danforth
 
+- [Gravity Session #4 Season 2 • Marshall Rosenbergs Nonviolent Communication](https://docs.google.com/presentation/d/1FVJQjmhQSHsJJ-OufHdBxpYCVB5PjhLBaoQf_buGJZY)
+  > My interest in NVC and in creating this slide-show stem from my need to connect with the people in my life more compassionately, and I can see how becoming more fluent in these teachings will help to meet that need.
+
 * [Session #4: Nonviolent comunication, led by Dan](https://www.youtube.com/watch?v=f9hroSJ2mMw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=4) youtube
 
 ### PRE-LEARNING
