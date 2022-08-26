@@ -1,0 +1,85 @@
+# Season 1 Session 4
+
+(00:00:00)
+**Speaker 0**:    Really fun experience to see how this exercise went. It's really funny because everyone was at first really lost and first everyone was trying to push for their own interest. Okay. That, Hey everyone, we, we just have one group missing that they still working on the, on the agreement, but it, it was very funny to see that at first, everyone was only defending their interest or their part interest. And then after a time, all of the groups were talking about joint interest and also they were, all of the groups talked about feelings, and I loved that at certain point. Some, all of the groups talked about having an apology between the parts involved and also trying to see deeper into, into, into the conflict. Like not only having the, the, the, the information that is on top and the really basic information, but trying to, to deeper into what caused the, what caused the conflict.  
+
+(00:01:28)
+**Speaker 0**:    And also a lot of the groups about like, having an agreement to have nonviolent communication, because they were like calling their names one another and they were not like having a good communication. Yeah. It, it, it was really nice to see like how everybody at the end also talked about, about the feelings of the parts and how can like they benefit. So I want hear from you, what was your experience? There were five groups I am gonna go in, in order. So I, I am going go first with the group of San Sam. And how did you go? Did you make an agreement?  
+
+(00:02:15)
+**Speaker 1**:    Yes, I can lead. And then I can the word to the part, but we have agreed to integrate the Mr. Gates that showed interest for the new product that, that hacker has been developing, integrate him in the company and lead the marketing and sales area of the company. That way we solve the problem of letting our R and D go away, because it will come back to the company will be part of the company and try to, and try to solve the issues that have lead to the conflict, defining the boundaries of work for R and D in future. And, and basically that's, that's the agreement that we've, we've reached. I, I can give her to the other part.  
+
+(00:03:15)
+**Speaker 2**:    Yeah, we are happy with, with that because we, our client actually is more aligned with he, he never wanted to go out of the, of the company and what, what he actually wanted was to have a more active part in the research and development, which well he's, he's happy with, with having letting star and, and letting the, the Mr. Gates take the other part that he's not that interested. I dunno if, if we want to, and if safety wants to talk,  
+
+(00:04:09)
+**Speaker 3**:    No, you guys pretty much say like everything we discuss in the call, so I'll pass back to one,  
+
+(00:04:16)
+**Speaker 0**:    One question to you guys. Did you talk about changing or restructuring the employment agreement?  
+
+(00:04:28)
+**Speaker 1**:    We talked about defining the boundaries. Go ahead, Sam.  
+
+(00:04:36)
+**Speaker 2**:    Exactly. We, we talked about having a defined budget and we didn't went very much into, into that, but San was saying that it's, it's important in order to work in the future.  
+
+(00:04:51)
+**Speaker 0**:    Yes. Its important option to rewrite employment agreement to avoid future disputes because maybe you can solve this dispute, but it arises again. So we can try to like avoid having the same dispute in the future. And also like, including some of these things into new agreement. You and I, the question that I am going to make to you is what were the feelings that you identified from each of the parts?  
+
+(00:05:45)
+**Speaker 4**:    Yeah. I have some notes here that I'll read. We came to an agreement. Yeah. This was quite the process. It got very heated, there was a lot of name calling at the beginning. So that was one of the first things we came to is we both parties had to agree to come to a level of professionalism and maturity and no more name calling and mutual respect. So I'll read what we have here. We offer an investment deal to gates. Hacker requires that the team have a dedicated marketing and sales person. Hacker also requires a recognition of mistakes and attribution that the business side was not properly executed. And that hacker gets creative credit for the production power screen. Hacker will have a research and development role from now on. And hacker will engage with maturity and professionalism. Hacker will also receive an increase in royalties. And so, yeah, as for feelings, I can say it was quite heated. I think the majority, the bulk of this case is about feelings. Particularly me and Tamara were representing hacker. And we could see in the agreement there that he, he wasn't the finances, weren't his first goal. His first mission was to just have proper recognition for what he had created. So I think that was a really big part of it.  
+
+(00:07:10)
+**Speaker 0**:    Yes. Feelings are, I wouldn't say always, but most of the times key to solving this because as we saw in, in earlier sessions, when people don't feel recognized or, or feel that their feelings are being ignored or, or they they're being hurt, they tend to close or to react. I rationally just to defend themselves. So I think that the position of hacker like, yes, Sue me, that is just a position that he, he took because of defend, like trying to defend himself. But it was not like the most rational decision. Because if, if, if we Sue this case, it's gonna be very complex and, and both of the parts have, have a good point in, in, in the, in the argument, but there is also an employment agreement. So it's, it's, it's a case, but it shows how sometimes what we need to reach a better solution is just to communicate. And, and how sometimes, even though that the direct parts involved are not having the, the dialogue, maybe the two third parts that are professional professionally responsible can like make an agreement for, for, for when two parts are having communication issues. I wanna know if TA have to say something,  
+
+(00:08:58)
+**Speaker 5**:    I grew up a lot during that call. I, I I'll be honest. I, you know, people kept dropping in and I kept telling the star side of the story and maybe I was being a little, you know, emotional about it. And I, I, I learned to keep a calm head, you know, I went to the balcony and I, and, and so we could build the bridge and, yeah, that was my side. But, but no, I, I, I, I think we just, we, we, we had to kind of rush it near the end. It would've been, it was tough. We needed more time really to debate the finer points. But I think we can come around to a place where both parties can be like civil. I, I do worry about like the long term success of staying together. And I feel like we might need to add like extra relationship counseling of some sort, but we didn't get to that. We didn't really get to discuss it  
+
+(00:10:07)
+**Speaker 0**:    Include in your  
+
+(00:10:15)
+**Speaker 7**:    Sorry, missed. I had missed a little bit of that. Yeah. I thought it was a very, it was an amazing exercise. What you said about including something into the, the new employment contract. We didn't get either, but that's  
+
+(00:10:40)
+**Speaker 0**:    With Jose, my brother with levy and Matt, how did you go  
+
+(00:10:48)
+**Speaker 6**:    Han? Okay. I think we got to make an agreement. We decided to do a joint recommendation from both the lawyers to the, to the client in which they should appreciate the common ground and the, the, the fundamental thing that the products work and that have market fit and that they can continue be successful. So we said they should not end the company. They should provide the rules. So even if a comp, if an employee works over time after hours, that continues being an intellectual property of the company. So this case doesn't present again, but we also included an apology from star to hacker for not recognizing the power screen potentials in the beginning. And we offered a hacker at 25, or we think both group of lawyers, we think that hacker should get at 25% of the royalties. And yeah, I think that, that was it. I don't know if Livia Matt went add something else.  
+
+(00:12:05)
+**Speaker 9**:    I thought it was interesting by listening to everyone's cases, how, what it was so given at first that made us not want to push that much. She was like, oh yeah, that sounds great, actually. And then I'm thinking now, if there was more of a push, if that would have incentivized, the more fair and like very thought out solution should come up.  
+Speaker 10    00:12:39    Yeah. I agree with that. We were like P being pretending to be lawyers. So Hostly said something and we said, yeah, that, that sounds cool. We can go with that. So, yeah, that's a really nice interaction we had there.  
+
+(00:12:56)
+**Speaker 0**:    One question to you guys on the restraints of on choice, did you get to think what was going to be the, the most common criticism you may receive on the agreement?  
+
+(00:13:13)
+**Speaker 6**:    I, I, I think we didn't actually get there, but if, to think you fast, I think maybe the easier criticism would be that we gave too much royalties to hack. Maybe 15% of 20% would've been enough, but yeah, we didn't really get that that far.  
+
+(00:13:40)
+**Speaker 0**:    It, it is something that sometimes we miss, but it's, it's very important to give solidity to our, to our ideas, to have this quick re to prepare a quick response to the most common criticism. Like, yes, if, if people tell you, Hey, you, you, you gave too much. Maybe you can say, okay, but he he's my friend. And I wanted to continue the relationship rather than losing a relationship with my friend, just because of money. And that is a quick response that you're, that you can say to people when they tell you, Hey, you made a bad agreement and you say, no, the, the, the agreement wasn't just for money. I wanted to keep my relationship and keep my company. So, yes, it's important. Also always like quick did go, Jake just did  
+Speaker 11    00:14:54    The, yeah. Oh, sorry. I was, I was, I was waiting for get digital because he, he kinda worded it the best for our, our proposal ideas to hacker.  
+Speaker 12    00:15:06    I, I had to have some notes. So we had, we, we didn't maybe get quite as far along as some of the groups, but we have a couple potential options. One is to propose a buyout and then admit that we didn't acknowledge the value of the product, but that our need to properly market existing products interfered with our ability to appreciate it. If we go forward together that hacker could have full creative control of development, as long as our client Stanley could have full control of business operations, because that was that hacker was sort of, roadblocking some of the business operations and just let him hack cuz that's what he loves. And then if that's, if we can't come to an agreement, then just let the venture capital buy out and, and give up control, but get paid. But I don't think that's what hacker wants  
+
+(00:16:45)
+**Speaker 0**:    Jake. Yes.  
+Speaker 13    00:16:48    Yeah. I guess our group, we were pretty neutral in our approach. Maybe a little too neutral, but yeah, we weren't sure if they could continue in the same house or not, we were maybe a bit doubtful that the tensions, you know, would be solved, but yeah, we saw, okay, if we can't live in the same house, then some, somebody might have to buy the other person out and go their separate ways. But we were trying to like, yeah, just get, get to the core needs, which like another group said was like, the acknowledgement was so big. So like it, like you said, Juan, maybe, you know, it doesn't need to go as far as a lawsuit, just sometimes people want to feel heard and acknowledged and the communication wasn't there.  
+
+(00:17:40)
+**Speaker 0**:    Yes. This shows that there is not one way to solve this conflict. A buyout is also like a possible, a possible exit to the conflict and it's not bad. It's not really bad, but on this, like, like this tool that like, what if the, what if I say no? What if the other part says no to, to that proposal, you're going to go to, to litigation or what or what? Because it's also really important always to ask ourselves what if the other part says, no,  
+Speaker 13    00:18:32    Yeah, this was another thing we identified was in this case. I don't think either party would want to go to litigation. Like it's not such a crazy, huge issue. It would be bad for both parties and very expensive.  
+
+(00:18:56)
+**Speaker 0**:    Okay. And I, I am going with the last group that is with decentralized and RA. How did you guys go just to, to, to have this last group?  
+Speaker 14    00:19:14    Yeah. I mean, we had a nice discussion just, but basically on the, on the merits and the, and the inherent justice issues at stake, then we tried to analyze the strength and weaknesses of both sides and came to conclusion that, you know, there were each side was gonna come in with thinking, you know, fully to their strength. But I think then we tried to see some of the potential weaknesses that if it went to litigation or arbitration, that it might, it creates sort of an uncertainty for either party. And to mitigate that uncertainty, we were looking then for common solutions and we discussed at least what, you know, what could be shared, sort of like if you're thinking about a divorce, what, what then is the joint custody? Is it, is it a creative commons license of the software that was developed? The parties can part ways more amicably and the competition was lonely limited maybe to a year. So you make very clear in the settlement agreement as to what the, sort of the terms of divorce are, what the sharing of, of that software could look like only what was developed at that moment, sort of a U a shared use, and then maybe moving on. But this is a bit where we've, this is where this is at least my one view. Maybe other colleagues wanna share views. Thank you.  
+Speaker 15    00:20:49    Yeah. It didn't seem like in spite of being Star's attorney reading through the employment agreement carefully, I think he should have had me draft it and not whatever fly by night guy he had do it. It doesn't say anything about intellectual property in the agreement. So it was really difficult for me to negotiate heavily for him. And what we did manage to come away with was that since my client is so incredibly unhappy with making a profit in software his first four years in business and thinks that he should be like mooning with it somehow and thinks that somehow two products are enough in four years, that you can tell I'm a little prejudice here that I was going to talk with my client and convince him that he should be happy with having the rights to use the latest software that hacker had developed.  
+Speaker 15    00:21:41    Like we weren't even sure if it fell into the, if it was even covered under the employment agreement, because it had to do with software controlling other devices or something. I don't have the exact wording in front of me. We don't even know if that's what the software is, but that I would convince my client to be happy with the right, to use that software and point out that he'll be able to use it as part of a suite of software that he already has from hacker. And that hacker won't have the rights to the two pieces of software he already has, and that he should drop the noncompete and just walk away from it and stay friends and let hacker hack that. That's me trying to convince my client to do this. I mean, he's welcome to take it to court, but I don't think that his employment agreement is well drafted.  
+
+(00:22:29)
+**Speaker 0**:    Well, if Rafa wants to say something, I, I want to say some finishing remarks on the exercise and also, yes,  
+Speaker 16    00:22:40    No, you're fine. You're fine. Thank you.  
+
+(00:22:43)
+**Speaker 0**:    Okay. Now I hope everyone has enjoyed this exercise. This, this role plays are really important into the formation and the training of mediators. And the idea of graviton is to be able to do this exact same work that we did today. Like maybe if there are two people that are having a conflict and that they don't have a good communication between themselves, like we, as gravitons representing them, can like get into agreements and, and propose things to benefit the best of, of them all and to like calm and keep to help people keep calm and building bridges, to like make good decisions and, and, and good negotiations and foster the wellbeing of our community. So with that said, I want to thank you all for coming. I will be sending the pops by DM, and also I want to invite you all to the next week session that we are going to have leading it and talking us a little bit about soft go and of, of strong principles. And why are they so important in, in, in, in the wellbeing of communities and in the, for the endurance of common pool resources. 
