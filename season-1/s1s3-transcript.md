@@ -1,184 +1,327 @@
 # Season 1 Session 3
 
+![](https://i.imgur.com/sQgjQtC.png)
+
 (00:00:02)
-**Speaker 0**:    Okay. Okay. So, well, thank you for joining today's third session of the, of this training in the two first sections, we talked about trust creation. We talked about non-violent communication and we talked about theories of conflict and, and how to see conflict as something not bad and as something transformative. But in this session, we are going to go more practical in how to manage disputes and what are some of the alternative dispute resolution mechanisms that we can apply to our decentralized context. And also some of the, the, the mechanisms and techniques to address conflict the, the most peaceful way and in the, the best way possible. So you can deliver your answers in the type form, but still I will send the, the link to the pop to the participants. So we are going to start with how, how to manage disputes. As I told before, the two se sessions to previous sessions, where to prevent disputes, to create trust and to see, and to change the mindsets of how we see disputes into something that is not negative or something that we are not close to, but something that we need to address and manage.  
+**Juan Carlos**:    Okay. Okay. Well, thank you for joining today's third session of the, of this training in the two first sections, we talked about trust creation. We talked about non-violent communication and we talked about theories of conflict and how to see conflict as something not bad and as something transformative.
 
-(00:02:01)
-**Speaker 0**:    So what is alternative dispute resolution? And it means any method or mechanism of resolving disputes other than litigation.  
+### BATNA, Negotiations & Alternative Dispute Resolution mechanisms
 
-(00:02:20)
-**Speaker 0**:    And that is based on communication and of trust and in the, and in legitimacy on the agreement, those are the three pillars of alternative dispute, resolution, communication trust, and, and legitimacy on the actions taken. So litigation is one form of solving conflict, but it is a form that is costly both and in human resources. And in time to address a conflict litigation is depending on the, on the, on the country can take you several years. And these way of, of handling disputes through litigation does not encourage so much communication or trust rather than the respect of an, of an external authority taking a decision. But the base of alternative dispute resolution is that the solution of the decision can come from the parties involved. So there are many alternative dispute solution techniques in the world and each country like the limits it with loss in, in a particular matter.  
+a) [The future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)
+b) [What is a BATNA?](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing)
+c) [Five ways to keep disputes out of court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court)
+d) [The 6 Steps necessary in the mediation process](https://www.pon.harvard.edu/daily/mediation/dispute-resolution-how-mediation-unfolds/)
+e) [Rahman, Mediation and mediator skills: a critical appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)
+f) [Restorative Justice circles](https://oscr.umich.edu/article/restorative-justice-circles): 
+g) (video) [Getting to Yes in Challenging Times W. Ury](https://youtu.be/-2lcXp-MiVQ?t=749)
+h) (Español) [Sistemas alternativos de resolución de conflictos: negociación, conciliación, mediación, arbitraje, en el ámbito civil y mercantil](https://dialnet.unirioja.es/descarga/articulo/4182033.pdf) 
 
-(00:03:48)
-**Speaker 0**:    So there are some of ADR alternative solution that are like common between Spanish speaking countries. And there are other alternative dispute solution that are framed differently in, in speaking in other languages. So it's like they have these same basis of, of the, the different techniques of ADR have these same base basis of communication, trust and legitimacy, but they are handled differently and presented differently in, in each of these techniques. So there is arbitration mediation, conciliation justice cycle cycle circle rent, a judge pro program summary jury trial mini trial. And the, there can be like combined forms and hybrid to a particular dispute or, or legal jurisdiction. So what I am telling you is that yes, ADR have like this core mechanisms that are like arbitration mediation reconciliation, but there are different varieties and like approaches to, to handling a dispute with, or, or an alternative dispute resolution to, to that, to that dispute, sorry, and handled with the sufficient skill ADR can bring an, an opponent into the venture as well as south parties joining in a non adversarial search for a mutual, beneficial outcome and the chances of success for any of the, I AVRs rely on the premises that the parties are committed to the idea of managing the issue, pay peacefully and willing to act in good faith.  
+In this session, we are going to go more practical in how to manage disputes and what are some of the alternative dispute resolution mechanisms that we can apply to our decentralized context. Also some of the mechanisms and techniques to address conflict the most peaceful way and in the best way possible.
 
-(00:05:53)
-**Speaker 0**:    I mean, if, if, if there is like a war that is, or, or like if the parties are harming each other, there is very difficult that that ADR will have success ADR will have, is, is based on that the parties recognize the issue and that they both are trying to put from themselves to solve this, this case in good faith. So, so I am going to have an example that is that the negotiation process, that the, for peace in Colombia, that we had like some years ago, and we had this, we still have our conflict that has like over 60 years of existence is, is I think the longest civil war in the world. And in Colombia, there's been several negotiation processes to, to, to build peace. And one, one was in 1998 and we had other one in, in 2014. And even though that the, we, we still have our conflict and our civil war, like war in, in Columbia, the negotiation process that we have for that we have for building peace, like set the, set the ground for some changes that, that are being made still in the, in the country. And some challenges that we still have to face, because like that negotiation process that we had is not that like, yes, we ended war and we are not gonna have more conflicts anymore, as we explained in, in last session. But it was like an agreement for, for some basis that that needed to be addressed in the country so that all parties can benefit.  
+![](https://i.imgur.com/lLf3TsX.png)
 
-(00:08:10)
-**Speaker 0**:    And I, I am going to go from in, in, in these techniques that I seen that are several, I am going to go over two big groups that you can separate them. And one are, and one are self alternative dispute resolution mechanisms that are why, why they are self. They are self because they involved parts that are, that are participants in the conflict. They, they involve those parts in the composition of the, of the, of, of an agreement or, or on a solution. So in the self ADR mechanisms, I want to highlight two that are the ones that we are going offers, and those are mediation and consideration. The difference between mediation and consideration is that in mediation, the third part acts like a facilitator for, for the communication of the parties involved and adopts them to fit, to, to ease the looking for solutions.  
+We are going to start with how, how to manage disputes. As I told before, the two se sessions to previous sessions, where to prevent disputes, to create trust and to see, and to change the mindsets of how we see disputes into something that is not negative or something that we are not closed to, but something that we need to address and manage. 
 
-(00:09:34)
-**Speaker 0**:    But the, in the mediation, the, the third part does not propose a solution, just the, the pro the process, but the solution has to come from the part is involved. And instead of that, in the third part is invested with the ability to propose decisions regarding the issue. But in conciliation, the, the, this decision is not taken as a, as a bar of a jury, but instead it's taken as a proposal for the parts to accept if the parts like, so like that is why this ADR needs so much the commitment of the people, because maybe in a consideration process, a ator can give a, a, can propose a solution. And then the, if the two parts, or if the parts involved are not, don't, don't agree with that decision, then they will need to scale the, the conflict or, or the solution of the conflict to a higher institution. And that is when it comes the hetero AVR. That is arbitration. That is when, when neither the mediation or neither the conciliation work, then you ask for a group of external parties. That should be third.  
+### What is Alternative Dispute Resolution (ADR)
+
+> ADR means **any method or mechanism of resolving disputes** other than litigation. The theory behind ADR is that settling disputes as painlessly as possible requires good communication, that good *communication* requires some degree of *trust*, and that trust can be built where there is legitimacy on the actions taken.  
+> 
+> There are **many ADR techniques**: arbitration, mediation, conciliation, Justice circles, the rent-a-judge program, summary jury trial, and minitrial, although techniques can be combined to form hybrids suited to a particular dispute or legal jurisdiction.
+> 
+> Handled with sufficient skill, ADR can bring an opponent into the venture as well, as all parties join in a **nonadversarial search for a mutually beneficial outcome**.
+> 
+> The chances of success for any kind of ADR rely on the premises that parties are committed to the idea of managing the issue peacefully and willing to act in good faith.
+
+It means any method or mechanism of resolving disputes other than litigation, that is based on communication and of trust and in legitimacy of the agreement, those are the three pillars of alternative dispute, resolution, communication trust, and legitimacy on the actions taken. 
+
+Litigation is one form of solving conflict, but it is a form that is costly both and in human resources. In time to address a conflict litigation is depending on the, on the, on the country can take you several years. These way of handling disputes through litigation does not encourage so much communication or trust rather than the respect of an external authority taking a decision. 
+
+The base of alternative dispute resolution is that the solution of the decision can come from the parties involved. There are many alternative dispute solution techniques in the world and each country like the limits it with loss in a particular matter.  
+
+There are some of ADR alternative solution that are like common between Spanish speaking countries. There are other alternative dispute solution that are framed differently in speaking in other languages. The different techniques of ADR have these same base basis of communication, trust and legitimacy, but they are handled differently and presented differently in each of these techniques. 
+
+There is arbitration mediation, conciliation justice cycle cycle circle rent, a judge program summary jury trial mini trial. There can be like combined forms and hybrid to a particular dispute or legal jurisdiction. 
+
+What I am telling you is that yes, ADR have like this core mechanisms that are like arbitration mediation reconciliation, but there are different varieties and like approaches to handling a dispute with, or an alternative dispute resolution. 
+
+Handled with the sufficient skill ADR can bring an, an opponent into the venture as well as south parties joining in a non adversarial search for a mutual, beneficial outcome and the chances of success for any of the, I AVRs rely on the premises that the parties are committed to the idea of managing the issue, pay peacefully and willing to act in good faith.  
+
+If there is like a war that is, or like if the parties are harming each other, there is very difficult that that ADR will have success ADR will have, is based on that the parties recognize the issue and that they both are trying to put from themselves to solve this case in good faith. 
+
+I am going to have an example that is that the negotiation process, that the, for peace in Colombia, that we had like some years ago, and we had this, we still have our conflict that has like over 60 years of existence is I think the longest civil war in the world. 
+
+In Colombia, there's been several negotiation processes to build peace. One was in 1998 and we had other one in 2014. Even though that the, we still have our conflict and our civil war war in Columbia, the negotiation process that we have for that we have for building peace set the, set the ground for some changes that are being made still in the country. 
+
+Some challenges that we still have to face, because like that negotiation process that we had is not that yes, we ended war and we are not gonna have more conflicts anymore, as we explained in last session. But it was like an agreement for, for some basis that that needed to be addressed in the country so that all parties can benefit.  
+
+### Self-compositive ADR Mechanisms
+
+> **Mediation**: It is a mechanism with which the parties involved look for a third party to help them facilitate communication and build bridges for negotiation, however, this *third party does not have decision-making capacity*, since it must reach the solution through common agreement between the parties.
+> 
+> **Conciliation**: In this mechanism, the parties involved also go to a third party to help them resolve the conflict, however, *they invest it with the ability to propose decisions regarding it*. The conciliators have to issue a concept that will directly resolve the matter on which the disagreement is presented, but the proposed solution has to be recognized and accepted by the parts.
+
+I am going to go over two big groups of techniques that you can separate them. One are self-compositive alternative dispute resolution mechanisms. They are self-compositive because they involves involve all their parts in the composition of an agreement or on a solution. 
+
+In the self ADR mechanisms, I want to highlight two that are the ones that we are going offers, and those are mediation and consideration. The difference between mediation and consideration is that in mediation, the third part acts like a facilitator for, for the communication of the parties involved and adopts them to fit, to ease the looking for solutions.  
+
+In the mediation, the third part does not propose a solution, just the process, but the solution has to come from the part is involved. Instead of that, in the third part is invested with the ability to propose decisions regarding the issue. But in conciliation, the, this decision is not taken as a bar of a jury, but instead it's taken as a proposal for the parts to accept if the parts. 
+
+### Hetero-compositive ADR - Arbitration
+
+> *Arbitration* is a private process where disputing parties agree that one or several individuals can make a decision about the dispute after receiving evidence and hearing arguments. Arbitration is different from mediation because the neutral arbitrator has the authority to make a decision about the dispute. 
+> 
+> **Why hetero-compositive?**
+> Because in contrast to conciliation & mediation, the composition of the problem is not build from the agreement of the parts involved, but from the decision of the delegated third part.
+
+That is why this ADR needs so much the commitment of the people, because maybe in a consideration process, a ator can give a, a, can propose a solution. Then the, if the two parts, or if the parts involved are not, don't, don't agree with that decision, then they will need to scale the conflict or the solution of the conflict to a higher institution. That is when it comes the hetero AVR. That is arbitration. That is when, when neither the mediation or neither the conciliation work, then you ask for a group of external parties. That should be third.  
 
 (00:11:21)
-**Speaker 0**:    You invest them with, with the, with the ability to, to make a decision on the dispute. But the, the decision of this arbitration process is, is imposed to the department. So that, that is the difference between hetero composite and, and self composite. So compos is when the parts are involved in the, in the, in the proposed solution and that they have to agree with it. And arbitration is when they rely on the, on the, on the decision that is taken by, by this third part. So in, in, in the gravitons basically are, are going to be mediators. And conciliators in doubt that that is basically what they're going to do. That's like the scope that we have after this training that we can approach to our community and, and offer this service, if people is having disputes, or if the community is having a dispute, then we, we will be able to ease the communication in that, in that dispute, if it's the case of our mediation, or if it's a reconciliation, we can like propose solutions, but our solution, it's not like AIC, or it's not, it's like an advice process and, and some, and like, yes, a solution that can have the, the, the, the problem, but what legitimate the solution is the, the, the commitment of the parties to, to, to agree with that.  
+**Juan Carlos**:    You invest them with the, with the ability to make a decision on the dispute. But the decision of this arbitration process is imposed to the department. that is the difference between hetero composite and self composite. Compos is when the parts are involved in the, in the, in the proposed solution and that they have to agree with it. Arbitration is when they rely on the, on the, on the decision that is taken by, by this third part. In, in the gravitons basically are, are going to be mediators. Conciliators in doubt that that is basically what they're going to do. That's like the scope that we have after this training that we can approach to our community and offer this service, if people is having disputes, or if the community is having a dispute, then we will be able to ease the communication in that, in that dispute, if it's the case of our mediation, or if it's a reconciliation, we can like propose solutions, but our solution, it's not like AIC, or it's not, it's like an advice process and some, and yes, a solution that can have the problem, but what legitimate the solution is the commitment of the parties to agree with that.  
+
+### Steps for a mediation process
+
+1. **Planning**: Before the mediation process begins, the mediator helps the parties decide the communication mechanics, introduces the participants, outlines the mediation process, ams and **observate** with them who should be present in the process.
+2. **Introduction**: With the parties gathered together, the mnd lays out ground rules. And presents the goal for the mediation process: to help the parties come to the Best Alternative To a Negotiated Agreement (BATNA).
+3. **Opening remarks**: Following the mediator’s introduction, each side has the opportunity to present its view of the dispute without interruption. In addition to describing the issues they believe are at stake, they may also take time to express their **feelings**.
+4. **Joint discussion**: After each side presents its remarks, the mediator and the disputants ask questions with the goal of arriving at a better understanding of each party’s **needs** and concerns. If parties reach an impasse, mediators diagnose the obstacles and work to get the discussion back on track.
+5. **Caucuses**: If emotions run high during a joint session, the mediator might split the two sides into separate rooms for private meetings, or caucuses.
+6. **Negotiation**. At this point, it’s time to begin formulating ideas and **requests** that meet each party’s core interests. The mediator can lead with all parties in the same room, or can engage in “shuttle diplomacy,” moving back and forth between the teams, gathering ideas, proposals, and counterproposals.
 
 (00:13:03)
-**Speaker 0**:    And with that, I pass to some of the steps of mediation process. And as I was saying before, as there are many ADR techniques, there are also many frameworks or, or that, that steps for ation process or for reconciliation process, or for acting as a third part, or some of them have like three steps that are like cycling, cycling, and post cycling. That that is the cycle of justice circles. Some of them have four steps like non-violent communication. Some of them have six, six steps, and yes, so this framework is not fixed. It's not like it doesn't matter so much how many steps they are, but what is the process that they are trying to, to, to show and the, the, the process and with the steps that I am mentioning here that are sick, basically starts with planning. And it's like before the, the mediation process begins, the mediator has to help the parties decide how are going to be the com the communication mechanisms that they are going to have, how, how it's going to be their, the communication, if they're going to communicate one another directly, or if they are going to have the, the third part acting like as, as a, as a, as a person who, who has to approach one each of them individually, and then like, communicate the intentions of the other.  
+**Juan Carlos**:    With that, I pass to some of the steps of mediation process. As I was saying before, as there are many ADR techniques, there are also many frameworks or that steps for mediation process or for reconciliation process, or for acting as a third part. 
 
-(00:14:50)
-**Speaker 0**:    And basically that relates a lot to observation to knowing who should be present in the process, who are the important stakeholders in the process, and, and who should, who are the person that, that also should not be like too much involved in the conflict. And then we go to an introduction that is like, when the parties are gathered together, the mediators should introduce the participants, the process, and should outline how are they going to be working and how are they going to be like, addressing this issue? And like having this, this formal, like, acceptance on, on the process, because the, the goal of the mediation process is to help the parties, to, to have the best alternatives to a negotiated agreement. So we are going to present to them, our, our intentions to help them to get to an agreement. And that, that is like an, an introductory moment for, for, for a mediation process.  
+Some of them have three steps that are like cycling, cycling, and post cycling. That that is the cycle of justice circles. Some of them have four steps like non-violent communication. Some of them have six, six steps, so this framework is not fixed. 
 
-(00:16:02)
-**Speaker 0**:    And then you, when, when, when you start that mediation process, you will need to have this moment of opening remarks. And this, this can, this is something that it's best when it's done with the presence of the, of, of both parts, because it's important for the other part to listen. And it's also important for this to have like a previous process talking with the, with the, with each of this parts, asking them to, to try to explain their points of view without judgment, because if each of the, if the parts starts like talking about judgements, and then the other part start judging the other, and then the communication is broken. So it's, it's, it's up an, a task of the mediator to, to have the communication on track and to keep the communication nonviolent so that the dialogue can prosper and not turn into a, into an, an antagonist process. And in, in this moment, it's important for, for the parts involved and for the mediator to, to understand the feelings of, of the parts involved as, as I, as we are seeing here, these four words are the, the, the, the key words of, of nonviolent communication. So it's related to this process that we've been talking since the first session of like observating feelings, like identifying the needs and making request is some of the it's like, is some of that, like, idea, but framed into, into steps, like in, in a mediation process.  
+It's not like it doesn't matter so much how many steps they are, but what is the process that they are trying to show and the process and with the steps that I am mentioning here that are sick, basically starts with planning. 
 
-(00:18:14)
-**Speaker 0**:    And when, when, when each of those parts like express their, their, their, their view of the disputes, then you can like map some of the, the feelings and some of the interest around the, the, the  
+Before the mediation process begins, the mediator has to help the parties decide what communication mechanisms that they are going to have, how, how it's going to be their, the communication, if they're going to communicate one another directly, or if they are going to have the third part acting like as a person who has to approach one each of them individually, and then communicate the intentions of the other.  
 
-(00:18:50)
-**Speaker 0**:    Has to ask. And also that the participant has to ask questions. What, what, what does the other person want, and how can they arrive to, to a better understanding for, for each one of the parties needs. And, and if the parties reach any path, the mediator has to diagnose the obstacles and work to get the discussion back on track. Because as I was telling you, it is normal that when people is talking about a dispute, they like start scaling and, and then like the communication can be broken. And at any moment, if they start like judging or having, or using a strong language, but the mediator has to diagnose these obstacles and try to, to, to have always the discussion back on track.  
+Basically that relates a lot to observation to knowing who should be present in the process, who are the important stakeholders in the process, and who should, who are the person that also should not be like too much involved in the conflict. 
 
-(00:19:50)
-**Speaker 0**:    Then in this step that we are seeing, we, we have the Cocos. And if like these small groups where you will have to like, communicate to all of the parts involved, like, what are the benefits and what are the risks of each of the solutions that are proposed? I, I liked a lot what, what Ostrom said that we have to have ex Antico and cost costs. So we should have, like, we should measure the costs of implementing at the decision, but also the costs of sustaining a decision. And in these ES the, the idea is that we can like gather favor F F our F like willingness to put an agreement in place, and like trying to have like these communication between the collectives, so that they ha like work with, with, with the decision that is, that is being taken. And then we have the negotiation process that is like, when you start formulating ideas and request to meet the, each party score interest, and the mediator can read with all parties in the same room, or engage in such shuttle diplomacy that is moving back and forth between the teams gathering ideas, proposal, and proposals.  
+Then we go to an introduction that is when the parties are gathered together, the mediators should introduce the participants, the process, and should outline how are they going to be working and how are they going to be addressing this issue? 
 
-(00:21:39)
-**Speaker 0**:    So this is not like a thick thing that you have to go like that it's six steps, or it's like a, a, a process that you have to understand that is like gathering information, understanding, mapping the conflict, helping to ease the situation, not like seeing, going through the branches of the conflict, but trying to see the root of the conflict, and then trying to make request that meet the, the, the, the expectations and the interest of the parties.  
+Having this formal acceptance on the process, because the goal of the mediation process is to help the parties, to have the best alternatives to a negotiated agreement. We are going to present to them our intentions to help them to get to an agreement. That is an introductory moment for a mediation process.  
+
+When you start that mediation process, you will need to have this moment of opening remarks. This is best when it's done with the presence of both parties, because it's important for the other part to listen. 
+
+It's also important for this to have like a previous process talking with the, with the, with each of this parts, asking them to try to explain their points of view without judgment, because if each of the, if the parts starts like talking about judgements, and then the other part start judging the other, and then the communication is broken. 
+
+It's a task of the mediator to have the communication on track and to keep the communication nonviolent so that the dialogue can prosper and not turn into an antagonist process. In this moment, it's important for, for the parts involved and for the mediator to understand the feelings of the parts involved as we are seeing here, these four words are the key words of nonviolent communication. 
+
+It's related to this process that we've been talking since the first session of observations, feelings, identifying the needs and making request, but framed into steps of the mediation process. When each of those parts like express their view of the disputes, then you can like map some of the feelings and some of the interest around the needs.  
+
+Also the mediator has to ask questions what does the other person want, and how can they arrive to a better understanding for, for each one of the parties needs. If the parties reach any path, the mediator has to diagnose the obstacles and work to get the discussion back on track.
+
+It is normal that when people is talking about a dispute, they like start scaling and then like the communication can be broken. At any moment, if they start like judging or having, or using a strong language, but the mediator has to diagnose these obstacles and try to have always the discussion back on track.  
+
+In this step we have the caucuses. These small groups where you will have to communicate to all of the parts involved what are the benefits and what are the risks of each of the solutions that are proposed? I liked a lot what Ostrom said that we have to have ex-ante and exposed costs. 
+
+We should have we should measure the costs of implementing at the decision, but also the costs of sustaining a decision. The idea is that we can like gather our willingness to put an agreement in place, and like trying to have like these communication between the collectives, so that they work with the decision that is being taken. 
+
+Then we have the negotiation process that is when you start formulating ideas and request to meet each party score interest, and the mediator can read with all parties in the same room, or engage in such shuttle diplomacy. That is moving back and forth between the teams gathering ideas, proposal, and counter-proposals.  
+
+This is a process that you have to understand that is like gathering information, understanding, mapping the conflict, helping to ease the situation, not like seeing, going through the branches of the conflict, but trying to see the root of the conflict, and then trying to make request that meet the expectations and the interest of the parties.  
+
+### Negotiations & BATNA (building a bridge)
+
+![](https://i.imgur.com/w8WQLc5.png)
 
 (00:22:19)
-**Speaker 0**:    So with that, now that we are talking about making agreements negotiations, I, I want to explain this, this like, word that, that is bad. That is the best alternative to a negotiated agreement. And this is like a very easy, like graph of how always we have most desired outcomes that sometimes differ and are far from the other one. And we have least decide least acceptable agreement that we, that we are not going to, that we are not so much willing to make. But when, even though there, there are most, most desired outcomes, or yes, even though there are more, most  
+**Juan Carlos**:    Now that we are talking about making agreements negotiations, I want to explain this word that is **BATNA**. That is the Best Alternative To a Negotiated Agreement. This is like a very easy graph of how always we have most desired outcomes that sometimes differ and are far from the other one. 
 
-(00:23:15)
-**Speaker 1**:    Outcomes  
+We have least decide least acceptable agreement that we, that we are not going to, that we are not so much willing to make. Even though there more desired outcomes, we also have this mutual motivation zone that is of possible. 
 
-(00:23:15)
-**Speaker 0**:    Or least agreements, we also have this mutual motivation zone that is of possible where even though you are not up again,  
+The idea of negotiation is to try to build a bridge. What is building a bridge is when you, each of these and very separate from each other to get to that. Where you try to connect them. that is like what we say of building a bridge building a bridge association is to try to approach that are far from each other soon of possible agreement. 
 
-(00:23:55)
-**Speaker 2**:    Juan, you're breaking up a lot to Juan  
-
-(00:24:05)
-**Speaker 0**:    Hear.  
-
-(00:24:07)
-**Speaker 2**:    So I didn't hear you for like a whole minute there.  
-
-(00:24:12)
-**Speaker 0**:    Okay. That, but not the best alternative agreement. And the idea of negotiation is to try to build a bridge. And what is building a bridge is when you, each of these and very separate from each other to get to that. So where you try, like connect them. And that, that is like what we say of building a bridge building a bridge association is to try to approach that are far from each other soon of possible agreement. So now that we are building a bridge, that that is takes us to a best alternative to that is like meeting halfway between parts or approaching and building like communication between, between these two parts between parts that are, that are from, from each other. I, I would like to, to use a framework that in one of the videos that I send with William UDI, because I think it's really practical for a purpose.  
+Now that we are building a bridge, that that is takes us to a best alternative to that is like meeting halfway between parts or approaching and building like communication between, between these two parts between parts that are, that arefrom each other. I would like to use a framework that in one of the videos that I send with William UDI, because I think it's really practical for a purpose.  
 
 (00:25:39)
-**Speaker 0**:    And he he's, he's saying how to sustain the bridge here. We are be building a bridge. We, we are bringing together people that are far, far away from each other and trying to take them to, to a agreement and bring them to hospital agreement. And here, yes, we can have, we can build that possible agreement, but the collapse doesn't have to be robust for, for, for a sustainable bridge. Sustainable are the balcony and the third side. And what, what, what do we mean when we say the balcony? The balcony is state of mind, like going to the balcony is when you stress and when, when you don't know like how to solve this conflict, sometimes you just need a pause. Sometimes if we are having a conflict and we don't know how to manage it, and we keep arguing and arguing, we are not going to, we are not favoring the conflict stand, like the conflict solution.  
 
-(00:26:55)
-**Speaker 0**:    Instead we are favoring like the, the, the discussion and, and maybe an antagonist position. But it's very important to, to, to understand balcony, like a state of mind where we, where we can like make a, if, if it it's a strategic, we can like 10 months making an agreement and building a bridge, but maybe in one moment of anger, we can throw the agreement to the garbage. So it's important. No, not only to make agreement as a bridge, but to like, have this, this calm state of mind, to know that the decisions that we're taking are like the best decisions and that we are handling the, the issue, trying to handle the issue, that to, to have the best outcome from it. And also when you go to the balcony, you can also remember, what is the price that you wanted? What, what, what is the thing that you are fighting for?  
+### How to Sustain the Bridge
 
-(00:28:10)
-**Speaker 0**:    And maybe you can like calm down without cause. And, and then like, understand that if, if you want to have your PR, if you want to have your price, maybe you can like feed with some of the things that the, that the other part wants. And also going to the balcony is something that gives us a different perspective. We are like too much into a travel and, and sometimes we are spending on it too much, and we are seeing it from the same point of view. We have to like go to the balcony and then we can see that same email from a different perspective. So like here value, it's not like a physical place. It's more like a state of mind where you have to keep yourself like understanding and having the ice on the price and having, and understanding different perspectives. And that if the conflict is not resolving, it's sometimes it's good to give time to think. Sometimes you want to like the things to, to get addressed really quickly. And that harms the conflict. Sometimes we have to let things like calm down and talk to the parties so that, so that the communication can come through.  
+![](https://i.imgur.com/JXykjUG.png)
+
+He's saying how to sustain the bridge here. We are be building a bridge. We are bringing together people that are far away from each other and trying to take them to a agreement and bring them to hospital agreement. Here, yes, we can have, we can build that possible agreement, but the collapse doesn't have to be robust for a sustainable bridge. 
+
+Sustainable are the balcony and the third side. what, what do we mean when we say the balcony? The balcony is state of mind going to the balcony is when you stress and when, when you don't know like how to solve this conflict, sometimes you just need a pause. Sometimes if we are having a conflict and we don't know how to manage it, and we keep arguing and arguing, we are not going to, we are not favoring the conflict stand the conflict solution.  
+
+Instead we are favoring like the discussion and maybe an antagonist position. But it's very important to understand balcony a state of mind where, it it's a strategic, we can like 10 months making an agreement and building a bridge, but maybe in one moment of anger, we can throw the agreement to the garbage. 
+
+It's important not only to make agreement as a bridge, but to have this calm state of mind, to know that the decisions that we're taking are like the best decisions and that we are handling the issue, trying to handle the issue, that to have the best outcome from it. 
+
+![](https://i.imgur.com/okJ9oBU.png)
+
+Also when you go to the balcony, you can also remember, what is the price that you wanted? what, what is the thing that you are fighting for? Maybe you can like calm down without cause. Then understand that if you want to have your price, maybe you can like feed with some of the things that other part wants. 
+
+Also going to the balcony is something that gives us a different perspective. We are like too much into a travel and sometimes we are spending on it too much, and we are seeing it from the same point of view. We have to like go to the balcony and then we can see that same email from a different perspective. 
+
+Like here value, it's not like a physical place. It's more like a state of mind where you have to keep yourself like understanding and having the ice on the price and having, and understanding different perspectives. That if the conflict is not resolving, it's sometimes it's good to give time to think. 
+
+Sometimes you want to like the things to get addressed really quickly. That harms the conflict. Sometimes we have to let things like calm down and talk to the parties so that, so that the communication can come through.  
 
 (00:29:47)
-**Speaker 0**:    And this is why it's so important to go to the balcony. Because when you go to the balcony and you take this, you, you can change from a hyper to an optimum, to an optimum arousal. Also, this is something that a psychologist like, like talk about and, and is like the window of tolerance, and that we all have this window of tolerance where sometimes we are hyper aroused, or sometimes we're hyper aroused. And we have to try to keep ourselves in, in the optimal arousal zone for managing conflict. Because as I said before, maybe you can spend months trying to get into an agreement. And, and then you come to a, to a hyper arousal zone where you are emotional reactivity and like, and you have a disorganized co cognitive process, and you can take an irrational decision just because you were in a, in a hyper arousal zone, or maybe you are in a hyper, hyper arousal zone, and you like numb your emotions, or you like de disable your cognitive processing, or you like need yourself from sensations.  
+### Window of Tolerance
 
-(00:31:20)
-**Speaker 0**:    So to manage a conflict, it it's strateg to, to keep yourself in, in the optimal arousal zone and help to keep the parts in the optimal arousal zone. If you're, if you see that one of the parts is hyper aroused, maybe you can like listen to them and like take notes from what they are saying, but also to invite them to, to, to calm down a little bit. And then you can also talk to them later when they are more calm and you can see like, the difference between the statements that they make. And also when, when, when someone is like inhibiting to seeing the conflict, it is a for, for, for the, for the conflict manager to like show the conflict and, and to show some of the, the, and to, to talk about, about some of the, the, the feelings that like maybe she or he is not like trying to feel so that they can calm again into their optimal arousal zone and be able to take a, a, a good decision.  
+![](https://i.imgur.com/kgV0xXj.png)
 
-(00:32:33)
-**Speaker 0**:    And when we understand that we know of tolerance, we understand is happening to us when we are experiencing distress. And we can ask ourselves and ask the, the, the, the conflicting parties when managing a situation, am I hyper aroused or hyper aroused? Maybe you are angry about something and you are angering. You're angry, just take a bath. And like that, that, that would, would help you very easily to like calm yourself down. And when, and after you take a bath, or after you take a run, or after you meditate, then you will have like another perspective of the, of the conflict. So that is why it's so important to go to the balcony. And each, each of us has different ways to go to the balcony. There, there are people like they like to have time alone, or there are people that like to sleep, or there are people that, that like to go out with friends.  
+> Pat Ogden describes: we need to understand the window of tolerance so that we can better understand what is happening to us when we are experiencing distress.
+> 
+> Ask yourself when managing a situation, am I hypo-aroused or hyper-aroused?
+
+This is why it's so important to go to the balcony. Because when you go to the balcony and you take this, you, you can change from a hyper-arousal to an optimum arousal. Also, this is something that a psychologist like talk about and is like the window of tolerance, and that we all have this window of tolerance where sometimes we are hyper aroused, or sometimes we're hypo aroused. 
+
+We have to try to keep ourselves in the optimal arousal zone for managing conflict. Because as I said before, maybe you can spend months trying to get into an agreement. Then you come to a hyper arousal zone where you are emotional reactivity and and you have a disorganized cognitive process. 
+
+You can take an irrational decision just because you were in a hyper arousal zone, or maybe you are in a hyper, hyper arousal zone, and you like numb your emotions, or you like de disable your cognitive processing, or you like need yourself from sensations.  
+
+To manage a conflict, it's strategy to keep yourself in the optimal arousal zone and help to keep the parts in the optimal arousal zone. If you see that one of the parts is hyper aroused, maybe you can like listen to them and like take notes from what they are saying, but also to invite them to calm down a little bit. 
+
+Then you can also talk to them later when they are more calm and you can see the difference between the statements that they make. Also when, when someone is like inhibiting to seeing the conflict, it is for the conflict manager to like show the conflict and to talk about some of the feelings that like maybe she or he is not like trying to feel so that they can calm again into their optimal arousal zone and be able to take a good decision.  
+
+When we understand that window of tolerance, we understand is happening to us when we are experiencing distress. We can ask ourselves and ask the conflicting parties when managing a situation, am I hyper aroused or hyper aroused? Maybe you are angry about something and you are angering. 
+
+You're angry, just take a bath. That would help you very easily to like calm yourself down. When, and after you take a bath, or after you take a run, or after you meditate, then you will have like another perspective of the conflict. That is why it's so important to go to the balcony. Each, each of us has different ways to go to the balcony. There, there are people like they like to have time alone, or there are people that like to sleep, or there are people that like to go out with friends.  
+
+### Keeping a Calm Mind
+
+> There are different rituals to manage your thoughts. The best decisions are always taken when you are in your [optimal arousal zone](https://worthit2bme.com/fightflightimmobolize/therapeutic-window-of-tolerance/). That is, Neither Hyper nor hypo aroused.
+> 
+> [Ho’oponopono](https://www.youtube.com/watch?v=OAuWRuU4uzA) ([is a technique that works for me](https://www.youtube.com/watch?v=brRYPC5y954)), but everyone can find the best way to return to its optimal arousal zone when being in distress. Meditation, exercise, walking, playing an instrument, game or sport, going out, sleeping, etc.
+> 
+> As Jill Bolte-Taylor's noted, the physiological lifespan of an emotion in the body and brain is 90 seconds. So we can control our emotions by the thoughts we trigger in our minds.
 
 (00:33:39)
-**Speaker 0**:    Those, all of those are mechanisms for keeping a calm mind so that there are different rituals. And each of you, each of you have to like, recognize what are the rituals that they can, that one can like practice when, when, when they want to return to, to their optimal arou. Also, and as I was talking before, there is meditation, there is like playing video games. All, all those stuff is, is good. If, if, if you are using it to like calm yourself down, or maybe if you are hyper aroused, you can go make some exercise, or you can like talk with another person so that you can like, understand your own feelings. And as Joe bolted, Taylor noted the physiological life of an emotion in the body and brain is 90 seconds. So we can control our emotions by the thought with triggers, with trigger in our mind.  
+Those, all of those are mechanisms for keeping a calm mind. There are different rituals. Each of you have to recognize what are the rituals that one can like practice when, when they want to return to their optimal arousal. Also, and as I was talking before, there is meditation, there is playing video games. 
 
-(00:34:50)
-**Speaker 0**:    That means if you're hyper aroused and you only keep thinking hyper aroused, you will only have hyper aroused thinking, and you will like keep yelling stuff at yourself or to the other person mentally. But if you go to the balcony, you are going to be able to change the lifespan of that emotion. And this is a practice that I have shared here in the community that works for me, that is called Ono, but everyone can find, can find the best way to return to this, to its optimal arousal. Also, you can see this video, it's really good. It takes like a minute, two minutes of your time. And it's very easy because it, it shows that sometimes when, when we charge our memory, we don't let like things go through with our lives. So it's good sometimes to let things go. And when you let things go and you like calm your mind, then like life can go through yourself.  
+All those stuff is good, if you are using it to like calm yourself down, or maybe if you are hyper aroused, you can go make some exercise, or you can like talk with another person so that you can understand your own feelings. As Joe bolted, Taylor noted the physiological life of an emotion in the body and brain is 90 seconds. We can control our emotions by the thought with triggers, with trigger in our mind.  
 
-(00:36:02)
-**Speaker 0**:    And I say, it's a technique that works for me because I practice it. Like when I, when I'm in distress, I try to close my mind and say, I'm sorry, forgive me. Thank you. I love you several times. And after some of of minutes, I am calm again. And I also like make these wristbands that I give to my friends. And that reminds me also of, of these words when I see them in my, in, in my, in my, in my hands or in my friend hands. So it's, you, you have to search what is the best technique for you to go to the balcony?  
+That means if you're hyper aroused and you only keep thinking hyper aroused, you will only have hyper aroused thinking, and you will like keep yelling stuff at yourself or to the other person mentally. But if you go to the balcony, you are going to be able to change the lifespan of that emotion. 
+
+This is a practice that I have shared here in the community that works for me, that is called [Ho’oponopono](https://www.youtube.com/watch?v=OAuWRuU4uzA), but everyone can find the best way to return to optimal arousal. Also, you can see this video, it's really good. It takes like a minute, two minutes of your time. 
+
+It's very easy because it shows that sometimes when, when we charge our memory, we don't let like things go through with our lives. It's good sometimes to let things go. When you let things go and you like calm your mind, then like life can go through yourself.  
+
+I say, it's a technique that works for me because I practice it. Like when I, when I'm in distress, I try to close my mind and say, I'm sorry, forgive me. Thank you. I love you several times. After some of of minutes, I am calm again. 
+
+I also like make these wristbands that I give to my friends. That reminds me also of these words when I see them in my, in my, in my, in my hands or in my friend hands. It's, you, you have to search what is the best technique for you to go to the balcony?  
+
+![](https://i.imgur.com/uPuHVRO.png)
 
 (00:36:48)
-**Speaker 0**:    And now we are going the other base of our build of our bridge. We have the balcony and we have the bridge, and now we have the third side and who is the third side. The third side can be outsiders and insiders, but the third side that we want to be as gravitons, we want to be insiders that bring the sides together. We here, these insiders are the one that, that are trying to build a bridge and to be a good third side in a conflict. Sometimes you have to keep the communication confidential. So that outsiders don't influence on the DEC on the conflict management process that is being held between the sides.  
+Now we are going the other base of our bridge. We have the balcony and we have the bridge, and now we have the third side and who is the third side. The third side can be outsiders and insiders, but the third side that we want to be as gravitons, we want to be insiders that bring the sides together. 
 
-(00:37:46)
-**Speaker 0**:    So, yes, that is the formula. That is the formula balcony bridge, and third side. And the formula is like the, the way, not just to, to get to an agreement, but to sustain an agreement with a common mind, and also to have a third side that helps to build, to, to bring the parts together. And also the third side also helps to bring, as I was before, in the example of, for the negotiation process that we had, we had several countries being a third side amongst them. There was Norway and Cuba, and actually the peace negotiation process was held in Cuba. So Cuba and Norway, where this third site that helped Colombia and to, to have this sex space, to, to have this dialogue, because if, if we had this dialogue, like in Colombia, some of the people that were from the far could have been like, or, or something, and this was like a neutral were, were both the, the government and both like, felt that they could have a dialogue in peace.  
+These insiders are the one that are trying to build a bridge and to be a good third side in a conflict. Sometimes you have to keep the communication confidential. That outsiders don't influence on the DEC on the conflict management process that is being held between the sides.  
 
-(00:39:23)
-**Speaker 0**:    And Norway was also one of the, was also one of the, the third site that gave legitimacy to the, but I, I want to show that sometimes like an agreement, even though that it has like a balcony or a third site is very difficult to keep, because this is a new that says like countries that are third part or warranties from the peace agreement in Colombia, ask the government to reforce security, to leaders and people who, who left like the, the gorilla. So yes, Cova and Norway expressed their pupation for, for the growing number of, of murders of, of ex guerrillas and social leaders in the country. So these third side are the, are the people who try to mind the legitimacy of the agreement, because what happened? We, we made this agreement with the, the past president and now the new president said, okay, I don't like those agreements.  
+That is the formula. That is the formula balcony bridge, and third side. The formula is like the way, not just to get to an agreement, but to sustain an agreement with a common mind, and also to have a third side that helps to build, to bring the parts together. Also the third side also helps to bring, as I was before, for the negotiation process that we had several countries being a third side amongst them. 
 
-(00:40:53)
-**Speaker 0**:    I am not gonna, so it's like this, how can we like make an agreement? And within our inner self, like try to not follow that agreement or by any internal change that the are those like, can argue to defend what the agrees that they, the, the, the parts themselves, they are not like complying to. So that's why Norway like sent a letter to the Columbia government saying, saying like, Hey, we, you take these decisions and now you are not like making them. So please, like, as we are like testimonies of those, like we can, we, we can ask you to like, follow what you said, and we can say that you are not doing what you said you were, you were gonna do. So, so the third side is very important in a negotiation and in, in like managing a dispute and are going, be like third siders are going be these third siders who may approach the conflict, but with the intention of helping to build that bridge and to keep that like robust. And so it doesn't like breaking parts.  
+There was Norway and Cuba, and actually the peace negotiation process was held in Cuba. Cuba and Norway, where this third site that helped Colombia and to have this safe space, to have this dialogue, because if we had this dialogue in Colombia, some of the people that were from the far could have been or something, and this was like a neutral were both the government and both felt that they could have a dialogue in peace.  
+
+Norway was also one of the, was also one of the third site that gave legitimacy to the, but I want to show that sometimes like an agreement, even though that it has like a balcony or a third site is very difficult to keep, because this is a new that says like countries that are third part or warranties from the peace agreement in Colombia, ask the government to reforce security, to leaders and people who left like the gorilla. 
+
+Yes, Cova and Norway expressed their pupation for, for the growing number of murders of ex guerrillas and social leaders in the country. These third side are the people who try to mind the legitimacy of the agreement, because what happened? We made this agreement with the past president and now the new president said, okay, I don't like those agreements.  
+
+How can we like make an agreement? And within our inner self try to not follow that agreement or by any internal change that the are those can argue to defend what the agrees that they, the parts themselves, they are not like complying to. That's why Norway and Cuba sent a letter to the Columbia government saying, saying we helped you to take these decisions and now you are not like making them. 
+
+Please as we are like testimonies of those we can ask you to follow what you said, and we can say that you are not doing what you said you were gonna do. the third side is very important in a negotiation and in like managing a dispute and are going, be like third siders are going be these third siders who may approach the conflict, but with the intention of helping to build that bridge and to keep that like robust. So it doesn't break apart.  
+
+### Being a good third party
+
+* Be able to procure safe *spaces for each part to trust in the process and to open themselves* as a way to dive deeper on the issue and collect valuable information.
+* Take into account the **feelings** of each part, as ignoring the feelings can prevent a dispute from being resolved. It may be the biggest issue in mediation.
+* Feel comfortable with strong emotions. In fact, it has been suggested that an important part of becoming a third part is to *become sensitized to the feelings of others as well as self*.
+* Be able to **map and clarify** the situation, helping parties to understand their own interest & risk. and explore all possibilities to conform a satisfactory agreement.
+* Help to make informed decisions, pondering expected costs (ex-ante & ex-post) and expected benefits to a negotiated agreement.
 
 (00:42:40)
-**Speaker 0**:    So what, what is being a good third part, being a good third part is to be able on the issue and collect valuable information. Also a good third part should take into account the feelings of each part, because ignoring the, from being unsold, a third part should feel comfortable with strong emotions. In fact, it has been suggested that an important part of becoming a third part is to become SENSIT sensitized, to the feelings of others, as well as health and a good third part should be able to map and clarify the situation, helping the parties to understand their own interest and, and explore all the possible, all the possibilities to confirm as a agreement. Also a third part part can also help to make informance from their expected costs, unexpected benefits to, to a negotiated agreement. Any question until now, how are you feeling? How is the CLA how is the, the training going  
 
-(00:44:03)
-**Speaker 2**:    Great. It's a little bit hard to hear you at times because you're breaking up so much, but good. Otherwise,  
+What is being a good third party? To be supportive on the issue and collect valuable information. Also a good third part should take into account the feelings of each part. A third part should feel comfortable with strong emotions. In fact, it has been suggested that an important part of becoming a third part is to become sensitized to the feelings of others, as well as health. 
 
-(00:44:13)
-**Speaker 0**:    Sorry, my, this is really bad today. Okay. So I will  
+A good third part should be able to map and clarify the situation, helping the parties to understand their own interest and explore all the possible, all the possibilities to confirm as a agreement. Also a third part part can also help to make informance from their expected costs, unexpected benefits to a negotiated agreement. Any question until now, how are you feeling? How is the CLA how is the training going?
 
 (00:44:20)
-**Speaker 3**:    Just one thing this, just to kinda clarify, so like, this is more sort of formal structure that like NBC can work within and is a part of as like a component.  
+**Speaker 3**:    Just one thing this, just to kinda clarify, so this is more sort of formal structure that like NVC can work within and is a part of as like a component? 
 
 (00:44:41)
-**Speaker 0**:    Yes, yes, yes. That is why we started with, with NBC in the first session, because NBC is like a PA pillar from which ADR alternative dispute solution is built. We cannot have alternative dispute solution without, without, without nonviolent communication. It's very important that through the whole process and to be able to, to formally help in the, in the search of solutions for conflict, it is very important to, to be able to, to apply non-violent communication and to also to understand conflict as something that can be transformative, rather some rather than something negative just by itself.  
+**Juan Carlos**:    Yes. That is why we started with NVC in the first session, because NVC is like a pillar from which ADR alternative dispute solution is built. We cannot have alternative dispute solution without, without, without nonviolent communication. 
+
+It's very important that through the whole process and to be able to formally help in the, in the search of solutions for conflict, it is very important to be able to apply non-violent communication and to also to understand conflict as something that can be transformative, rather some rather than something negative just by itself.  
+
+### Empathy is the key
+
+> Empathy is necessary to be able to apply certain principles of negotiation, as: 
+> - Separate people from problems 
+> - Ease communication between conflicting parties
+> - Focus in interest and not in positions 
+> - Generate variety of alternative paths to propose solutions
+> - Use objective or “credibly neutral” criteria to generate legitimacy and impartiality
+> Empathy brings us together and helps us to take rational and pacific decisions, because individuals who feels underappreciated or ignored are more prone to fall in irrationality just to defend themselves.
 
 (00:45:43)
-**Speaker 0**:    So empathy is the key empathy is the key to be a good third part. And empathy is the key to be a good mediator. And empathy is necessary to be able to apply certain principles of negotiation. So such as separate people from problems, ease communication between conflicting parties, focus in the interest and not in positions of the people generate variety of alternative paths to propose solutions and use objective of, or incredibly neutral criteria to generate legitimacy and impartiality. Empathy is something that brings us together and help us to take rational and Pacific decisions because individuals who feel underappreciated or ignored are more prone to fall in irrationality just to defend themselves.  
+Empathy is the key empathy is the key to be a good third part. Empathy is the key to be a good mediator. Empathy is necessary to be able to apply certain principles of negotiation. Such as separate people from problems, ease communication between conflicting parties, focus in the interest and not in positions of the people generate variety of alternative paths to propose solutions and use incredibly neutral criteria to generate legitimacy and impartiality. 
 
-(00:46:44)
-**Speaker 0**:    So RA right now we went and, and we saw what is alternative dispute solution. And we saw that the idea of graviton is to be able to provide mediation and conation to dos. And that the idea is to build a bridge, but that, but to sustain that bridge with the third side, that the third side is going to be like rabbits. We are going to be this third side who can add legitimacy to the agreement. And we are going to have this balcony that is to provide the calm state of mind, to can, to, to be able to, to sustain nonviolent communication and the, to sustain the review on the, on the price that we, that, that we can have as, as an agreement and to yes, to, to, to have a, a common state of mind to address the issue and to, and to sustain the, the negotiation.  
+Empathy is something that brings us together and help us to take rational and Pacific decisions because individuals who feel underappreciated or ignored are more prone to fall in irrationality just to defend themselves.  
+
+So RA right now we went and we saw what is alternative dispute solution. We saw that the idea of graviton is to be able to provide mediation and conation to dos. That the idea is to build a bridge, but that, but to sustain that bridge with the third side, that the third side is going to be like rabbits. We are going to be this third side who can add legitimacy to the agreement. 
+
+We are going to have this balcony that is to provide the calm state of mind, to can, to be able to sustain nonviolent communication and the, to sustain the review on the, on the price that we, that we can have as, as an agreement and to yes, to have a, a common state of mind to address the issue and to, and to sustain the negotiation.  
+
+### Ethical Standards and requirements for Gravitons (1/2)
+
+> **Voluntary Process**: All members in the Gravity group participate without coercion from any actor.
+> **Self-Determination**: Recognize the ability to promote voluntary agreements. The mediator facilitates the management of disputes but the outcomes belong to the parties.
+> **Conflict of interest**: Recognize when they are not capable of facilitating a conversation for any possible reason, personal or professional.
+> **Competence**: As we are a community of experts, the mediator, besides being trained in Alternative Dispute Resolution, should be able to prove deep understanding of the specific topics that the dispute may be about.
 
 (00:47:56)
-**Speaker 0**:    So right now, I want to share with you, what are the ethical standards that are also requirements for the gravitons all of you that have been attending to these classes, to these trainings have received some pops. And the idea of is that if you have three or more pops, then you can become the first generation of that would like be able to be this third part, this to, to others. But we, we will have standards that are requirements to join and to stay in the collective. So that maybe we, you can have like your, your pop-ups, and you can become the first generation of Gravitant. But if you somehow violate one of these standards, then that is a reason for exclusion from, from the group. So these are very important, and that is why I wanted to, to like, finish with this part of the, of this train, with telling this and that S and mediators have to understand, and, and the process of ADR as a voluntary process.  
+**Juan Carlos**:    Now, I want to share with you, what are the ethical standards that are also requirements for the gravitons. All of you that have been attending to these trainings have received some poaps. If you have three or more poaps, then you can become the first generation of Gravitons that would like be able to be this third part, this to others. 
 
-(00:49:30)
-**Speaker 0**:    And it's a voluntary process, both from the graviton and also for the parts involved, the parts involved can go with, with the, with this process on, as far as they feel comfortable, if they feel they're not comfortable with, with, with this, then the legitimacy of the grid that we are going to ease in doubt. And that makes that the whole process, it ma is difficult's more difficult. So we, we have to understand that we cannot coerce people into, into managing their disputes through these mechanisms. This should be something voluntary and that, and then we should also respect self, self determination, and it's the ability to promote voluntary agreements. And the, that outcome of the dispute belongs to, to the parties and not to the mediator and that each of the, those parties can self determinate and autonomously. And that there is no like external coercion that, that, that the, the, that it are like putting pressure in the parts. Each part can like terminate autonomously.  
+We will have standards that are requirements to join and to stay in the collective. That maybe we, you can have like your, your pop-ups, and you can become the first generation of Gravitant. But if you somehow violate one of these standards, then that is a reason for exclusion from the group. 
 
-(00:51:05)
-**Speaker 0**:    It's really important to recognize when there is conflict on of interest. And it, it, it would be normal. Like if a graviton says, I am not capable of facilitating a conversation in this moment because the parts are hyper aroused, and maybe I will give some time to this issue. So, so that maybe the conflict of interest that is, that is happening right now can ease a little bit so that we can like have a conversation and a volunt, like a process of handling the dispute and also mediators and graviton should, should state competent and should be competent with, with the cases they are involved. Because as we are a community of experts, the mediator besides being trained in alternative dispute solution should be able to prove deep understanding of the specific topics that the dispute may be about. So maybe I am not like a, an smart contract expert.  
+These are very important, and that is why I wanted to finish with this part of the, of this train, with telling this and that S and mediators have to understand, and the process of ADR as a voluntary process.  
 
-(00:52:22)
-**Speaker 0**:    So maybe if, if the issue is very related to, to like a code or something, maybe I, even though I am an expert in alternative dispute resolution, maybe I, I, I will not be able to understand or to, or to, or to be competent in, in that case. So it's really important for the graviton and to, to, to state competent competence on the issue, and to have like this professional responsibility with the role that if, if they feel that they are not capable of handling the issue or that they, if they feel that other person would be better handling the issue, it's it, it's, it's very much encouraged to say so. And because that, that would help the whole process itself.  
+It's a voluntary process, both from the graviton and also for the parts involved, the parts involved can go with this process as far as they feel comfortable, if they feel they're not comfortable with this, then the legitimacy of the grid that we are going to ease in doubt. 
+
+That makes that the whole process more difficult. We have to understand that we cannot coerce people into managing their disputes through these mechanisms. This should be something voluntary and that, and then we should also respect self determination, and it's the ability to promote voluntary agreements. 
+
+That outcome of the dispute belongs to the parties and not to the mediator and that each of the, those parties can self determinate and autonomously. That there is no like external coercion that, that the, that it are like putting pressure in the parts. Each part can like terminate autonomously.  
+
+It's really important to recognize when there is conflict of interest. It would be normal, if a graviton says, I am not capable of facilitating a conversation in this moment because the parts are hyper aroused and maybe I will give some time to this issue. 
+
+Maybe the conflict of interest that is happening right now can ease a little bit so that we can like have a conversation and a process of handling the dispute and also mediators and graviton should, should state competent and should be competent with the cases they are involved. 
+
+As we are a community of experts, the mediator, besides being trained in alternative dispute solution should be able to prove deep understanding of the specific topics that the dispute may be about.
+
+I am not like a, an smart contract expert. Maybe if the issue is very related to like a code or something, maybe I, even though I am an expert in alternative dispute resolution, maybe I will not be able to understand or to be competent in that case. 
+
+It's really important for the graviton and to state competent competence on the issue, and to have like this professional responsibility with the role that if they feel that they are not capable of handling the issue or if they feel that other person would be better handling the issue, it's very much encouraged to say so. That helps the whole process.  
+
+### Ethical Standards and requirements for Gravitons (2/2)
+
+> **Confidentiality**: Information related to these processes should be handled privately, and strategically shared only with the agreement by the parties. Unwanted information filtered by the mediator is a reason to remove from the Gravity group.
+> **Impartiality and neutrality**: The Gravity group members should lead by their example of empathy and acceptance of different points of view, with freedom from favouritism.
+> **Professional Responsibility**: Gravity members should assume the task of mediating in the organization with diplomacy and prudence.
+> **Rotation**: Three times a year, new training and selection processes will be run to encourage members of the community to become part of the Gravity team. One can only be in this group for three years in a row, to avoid accumulation of power.
+> See more: https://forum.tecommons.org/t/gravity-role-design/174
+
 
 (00:53:21)
-**Speaker 0**:    This is another principle that is really important. And it's confidentiality because in the, the information related to these processes should be handled privately and only strategically shared with the agreements of the parties, unwanted information filtered by the mediator is the re reason to remove from the gravity group, because we don't want people in the gravity group like to be people that make a cause for harm by using this information for personal interest or, or, or to, to yes, to, for personal interest. It's not good to, to handle this information publicly because we, that is, that is a key for, for being able to build trust in the process.  
 
-(00:54:30)
-**Speaker 0**:    And the idea here is not to expose anyone, but to help on, on, on reaching for solutions. So, yes, confidentiality is, is something really also because with, with, with conflicts, they may say some things that because of their, of their initial state, of mind, of hyper aroused or hyper aroused, they may something that does not reflect the, the, their point of beyond the conflict and that they could. And that, that, like filtering that, that information could leave them like in a bad place to it really important for the graviton to be able to, to, to keep this information confidential. And we, as, as gravity will only like we will have a database where we keep will keep the registry of the conflict, but we will not keep sensitive information. We will only keep like the registry if there was an agreement, or if there, or if there wasn't, and Gravitant should be an by their example of empathy and acceptance of different point of view with freedom from FISM.  
+This is another principle that is really important. It's confidentiality because in the information related to these processes should be handled privately and only strategically shared with the agreements of the parties, unwanted information filtered by the mediator is the reason to remove from the gravity group. 
 
-(00:56:13)
-**Speaker 0**:    And this is another standard that is professional responsibility, and that mediation is a professional job, and it is something that should be done with diplomacy and prudence. And like, with all the professionality that you could use in a normal job, because it is not like an informal process, this is something that is something that is going to be formal and, and kept for, for, for, for the wellbeing of different communities. And the idea of this, of these GRA of the graviton as well, is to have this group of, of people have having a rotation where new trainings, this is the first training, but the idea is that we repeat this training once or twice a year, and that will encourage new members to become part part of the gravity team. And when, when this is something that we, that we have talked about, but it, it is something that still needs to like, be completely figured out.  
+We don't want people in the gravity group like to be people that make a cause for harm by using this information for personal interest or to yes, for personal interest. It's not good to handle this information publicly because we, that is a key for, for being able to build trust in the process.  
 
-(00:57:38)
-**Speaker 0**:    And this, like the time that the maximum time that you can be in this group, because this rotation was, was said to avoid like centralization of power. And maybe if there is like a graviton who is in, in the gravitate group for like 10 years, maybe he has like too much information or too much power over the group. But the idea of this is to have a, a very relative group. So what we initially said is like, after three years, you cannot like offer the, this anymore, but you can still like maintain in the, in, in the, in the group as a whole, because in, in the, in, in the next sessions, not in the next one, because in the next one, we are going to go over practice over cases. But in the next sessions, I think it's the sixth session we're going to go, like in a deep dive on, on how those gravity like will work. And yes, with that, I think that I finished this first section of this, of this training that was to explain to you about negotiation, BATNA and dispute resolution. Do you have any questions?  
+The idea here is not to expose anyone, but to help on reaching for solutions. Yes, confidentiality is something really also because with conflicts, they may say some things that because of their initial state of mind, of hyper arousal, they may something that does not reflect their point of beyond the conflict and that information could leave them like in a bad place to it really important for the graviton to be able to keep this information confidential. 
 
-(00:59:21)
-**Speaker 2**:    Well done. Thank you.  
+We as gravity will only like we will have a database where we keep will keep the registry of the conflict, but we will not keep sensitive information. We will only keep like the registry if there was an agreement. Gravitons should known by their example of empathy and acceptance of different point of view with freedom from favoritism.
 
-(00:59:24)
-**Speaker 0**:    Okay. I want to have some time then to prepare the next session, because the next session, the idea is that we can have some practical cases. So I would like if we can like, have some pairs or groups of four so that you can like divide these cases and then like, argue, argue that these cases to, to have like more practical session, the next one where, where each one of you can like talk about, how did you rely, how did you went with these cases? And also if you have another case you want to work at, you can tell to me as well, like, okay, I have a case that I can work at and we can, we can, yes. The idea is that in the next session, maybe you are the ones that you can like talk about how did you go by, by handling this case? Well, I have two cases. One is with low complexity. And what is with one is with high complexity. So you can tell me which one do you want, and you can like try to have like, pairs so we can work on this.  
+This is another standard that is professional responsibility, mediation is a professional job, and it is something that should be done with diplomacy and prudence. with all the professionality that you could use in a normal job. 
 
-(01:01:03)
-**Speaker 2**:    I need to go.  
+It's not an informal process, this is something that is something that is going to be formal and kept for the wellbeing of different communities. The idea of the graviton as well, is to have this group of people have having a rotation where new trainings, this is the first training, but the idea is that we repeat this training once or twice a year, and that will encourage new members to become part part of the gravity team. 
 
-(01:01:05)
-**Speaker 0**:    Okay. So I am going here, this list. And how do you feel about selecting your, your pair right now? Or what, what do you think if like, the idea is that I like if, to your case, it's, it would be like three or four pages for you to read and to develop that, like, role play with your pair. If you don't know, I can maybe assign some pairs, but I don't know if, if, if, if that would be like imposing something,  
+When this is something that we have talked about, but it is something that still needs to be completely figured out. This the time that the maximum time that you can be in this group, because this rotation was, was said to avoid like centralization of power. 
 
-(01:02:10)
-**Speaker 5**:    I, I would love if that, if it was like selecting by you or random, somehow, like, it would be nice if you asked for the people who wanted participate and then randomly create the groups that would be, that would create more diversity. I think that's my opinion.  
+Maybe if there is like a graviton who is in the gravitate group for like 10 years, maybe he has like too much information or too much power over the group. But the idea of this is to have a very relative group. What we initially said is after three years, you cannot like offer this anymore, but you can still like maintain in the group as a whole.
 
-(01:02:27)
-**Speaker 6**:    Yeah. IUs, I think it would also be a lot easier if you just paired. Maybe, I don't know if you think it's a group of three to four in case there is somebody that can't be present next week and those groups just find a way to get together next week.  
+In the next sessions, we are going to go over practice over cases. But in the next sessions after that, I think it's the sixth session we're going to do a deep dive on how gravity like will work. 
 
-(01:02:46)
-**Speaker 0**:    Okay. Then that's what I will do. And I will send you, I just took a pick of the, of the person who, who of the list of people that was here. So I am going to divide the cases and I will send the cases by DM. Oh, as well as the is broken. And I am going to send the link to each of you individually.  
-
-(01:03:20)
-**Speaker 4**:    Thank you, Juan.  
-
-(01:03:22)
-**Speaker 0**:    Well, I, I think we, we finished a little bit early. I think it's good that the time that, that we have worked, and I think I explained what I wanted to explain today. So if anyone has any questions, I, I can be here to answer them. If not, you can leave. And, and I really appreciate to come off on this calls.  
-
-(01:03:54)
-**Speaker 7**:    Thank you, Juan. That was fun.  
-
-(01:03:58)
-**Speaker 0**:    Okay. See you, Juan. 
+With that, I think that I finished this first section of this, of this training that was to explain to you about negotiation, BATNA and dispute resolution. 
