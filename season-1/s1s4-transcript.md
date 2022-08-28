@@ -2,7 +2,6 @@
 
 * [Session #4: Roleplays :D](https://www.youtube.com/watch?v=Q7NLvwcijfY)
 
-
 **a) [Understanding the impact of role plays & simulations for conflict management](https://drive.google.com/file/d/1SNiGTwJFb_z4XL4K3Ice5Atnyg68Izjp/view?usp=sharing)**
 **b) [How exercises, cases and coaching can make you a better negotiator](https://drive.google.com/file/d/1X5lvtT3ha-wvq-JVlfUJJmRn0EZQUrdE/view?usp=sharing)**
 **c) [Make the most of online negotiations](https://drive.google.com/file/d/14hg6FZvWFS15ZbK29YgG3i_NU2hLwnBe/view?usp=sharing)**

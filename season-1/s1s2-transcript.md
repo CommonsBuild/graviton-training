@@ -5,6 +5,22 @@
 * [Season 1 Google Presentation](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114)
 * [Session #2: Conflict transformation](https://www.youtube.com/watch?v=7L78Gnrtkic) youtube
 
+## Contents
+
+- [Theories of Conflict, Antifragility and Conflict management](#theories-of-conflict-antifragility-and-conflict-management)
+- [Conflict is... (according to J.P Lederach)](#conflict-is-according-to-jp-lederach)
+- [Transformative approach to conflicts](#transformative-approach-to-conflicts)
+- [The Dialectic Cycle](#the-dialectic-cycle)
+- [J.P. Lederach. Conflict Transformational platform](#jp-lederach-conflict-transformational-platform)
+- [Framework for conflict analysis](#framework-for-conflict-analysis)
+- [Nicolas Taleb - Antifragility](#nicolas-taleb---antifragility)
+  - [Antifragile and conflicts / Breaking points](#antifragile-and-conflicts--breaking-points)
+  - [Examples of antifragile](#examples-of-antifragile)
+- [Collecting information from world religions ( Galtung’s Transcend Method )](#collecting-information-from-world-religions--galtungs-transcend-method-)
+- [J.P. Lederach. Conflict Transformational platform](#jp-lederach-conflict-transformational-platform-1)
+  - [Conflict management as a political philosophy](#conflict-management-as-a-political-philosophy)
+- [Questions \ Comments](#questions--comments)
+
 ## Transcript
 
 (00:00:01)
@@ -135,7 +151,7 @@ That is a stopping point. When you're in the middle of a conflict, you ask yours
 
 I have to understand the other person to build something we desire because of that conflict transformation is like a way to respond to the flow of social conflict. and to create something about, about from this apparent, apparent opposite, and to create something from apparent prop opposites for the better, and that can help us to improve our social structures and to respond to real life problems.  
 
-## The Dialectic Cycle
+### The Dialectic Cycle
 
 ![](https://i.imgur.com/PwFRkbA.png)
 
@@ -204,7 +220,7 @@ We can have a cycle to address a conflict and transform that conflict into somet
 
 With that, I finish this first section of the talk. If you have any question or comments, I would be happy to open mic. After, before jumping into the next section.
 
-## Nicolas Taleb - Antifragility
+### Nicolas Taleb - Antifragility
 
 > “Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder, and stressors and love adventure, risk, and uncertainty. Yet, in spite of the ubiquity of the phenomenon, there is no word for the exact opposite of fragile. Let us call it antifragile. 
 > 
@@ -225,7 +241,7 @@ If it weren't for hunger, results are meaningless. Without effort, joy cannot ex
 
 Because if we see conflict as something that can destroy us, we are being fragile. We are being fragile, or, and we are being resilient if we are having the same problem over and over again, and we are just letting it pass, but we need to be anti as like, if we had a conflict, then we are not going to have that conflict again, we're just gonna improve.  
 
-### Antifragile and conflicts / Breaking points
+#### Antifragile and conflicts / Breaking points
 
 ![](https://i.imgur.com/PlY58xO.png)
 
@@ -243,7 +259,7 @@ We can see the benefits of having that problem. That now we also care for the cu
 
 What we are doing with this cultural builds with this, what I am trying to do with conflict resolution is to help all the ecosystem, to keep themselves in innovating and understanding and learning from past events so that we can use what was wrong in the past to improve in the, in the future. 
 
-### Examples of antifragile
+#### Examples of antifragile
 
 > “So we tend to over-technologize and underestimate the might of the equivalent of these small wheels on suitcases that will be staring at us for the next millennia.”
 
@@ -294,7 +310,7 @@ It is something that I can relate a lot to this because it's something that we, 
 (00:45:42)
 **Juan Carlos**:    so that we are not a monologue in our heads. and reality is our expression of our thinking. But to see this reality as a dialogue and as a process, that constantly is evolving from the interaction with the other person. With this, I want to go with the final section in this of this section of this talk, and is that conflict management can also be seen as a political philosophy because conflict is itself is not bad. It is an expression of the diversity of interest ideas, and points of view. It arises in all human relationships, like crisis can be excellent opportunities to grow, emerge, stronger, learn, and improve. That when assuming that conflicts are negative people and institutions tend to fear them and adopt one of these two attitudes, they refer to force, or they ignore them. Neither of them is trying to transform the conflict into something positive.  
 
-### Conflict management as a political philosophy
+#### Conflict management as a political philosophy
 
 * **Conflict itself is not bad**. It is an expression of the diversity of interests, ideas and points of view. It arises in all human relationships and, like crises, can be excellent opportunities to grow, emerge stronger, learn and improve.
 
@@ -322,7 +338,7 @@ The common pool resources, institutions, and settings, is really critical to how
 
 That is like the main part of this talk that I wanted to present with you. 
 
-## Questions \ Comments
+### Questions \ Comments
 
 If you have any questions or comments, this is the moment.
 
@@ -429,11 +445,7 @@ like you to see this video Lederach to read what is alternative dispute resoluti
 
 the conflict into something constructive. So, yes, that is like then of this session, the invitation to get to the next one, and that we are going to have really practical techniques to address conflict now that we understand that conflict is natural and that conflict is going to arrive always. That then now we are going to yeah. 
 
-Understand How to easily manage conflict. We within other people and to become a negotiator, a negotiator and a mediator that is like the ultimate goal of this, of this trading for you, for these people that we are trading to be trusted people in their communities. to help on the wellbeing of the community as
-### Framework for conflict analysis
-
-![](https://i.imgur.com/we7C68K.png)
- a whole.  
+Understand How to easily manage conflict. We within other people and to become a negotiator, a negotiator and a mediator that is like the ultimate goal of this, of this trading for you, for these people that we are trading to be trusted people in their communities. to help on the wellbeing of the community as a whole.  
 
 (01:16:42)
 **Juan Carlos**:    And don't, don't forget to claim your pop. That's the only thing that I, that I have left to say. Thank you, thank you to all of you for your time, for your listening, for opening, with this sessions, for taking something with you, we all have conflicts. Conflict is natural, and we shouldn't be afraid of, of talking about it and to see something that always has something that we can learn from or improve. Thank you. Thank you one. You're amazing. Thank you. 

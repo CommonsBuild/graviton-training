@@ -2,6 +2,23 @@
 
 ![](https://i.imgur.com/sQgjQtC.png)
 
+## Contents
+- [BATNA, Negotiations & Alternative Dispute Resolution mechanisms](#batna-negotiations--alternative-dispute-resolution-mechanisms)
+- [What is Alternative Dispute Resolution (ADR)](#what-is-alternative-dispute-resolution-adr)
+- [Self-compositive ADR Mechanisms](#self-compositive-adr-mechanisms)
+- [Hetero-compositive ADR - Arbitration](#hetero-compositive-adr---arbitration)
+- [Steps for a mediation process](#steps-for-a-mediation-process)
+- [Negotiations & BATNA (building a bridge)](#negotiations--batna-building-a-bridge)
+- [How to Sustain the Bridge](#how-to-sustain-the-bridge)
+- [Window of Tolerance](#window-of-tolerance)
+- [Keeping a Calm Mind](#keeping-a-calm-mind)
+- [Being a good third party](#being-a-good-third-party)
+- [Empathy is the key](#empathy-is-the-key)
+- [Ethical Standards and requirements for Gravitons (1/2)](#ethical-standards-and-requirements-for-gravitons-12)
+- [Ethical Standards and requirements for Gravitons (2/2)](#ethical-standards-and-requirements-for-gravitons-22)
+
+## Transcript
+
 (00:00:02)
 **Juan Carlos**:    Okay. Okay. Well, thank you for joining today's third session of the, of this training in the two first sections, we talked about trust creation. We talked about non-violent communication and we talked about theories of conflict and how to see conflict as something not bad and as something transformative.
 

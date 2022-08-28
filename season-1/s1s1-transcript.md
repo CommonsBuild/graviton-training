@@ -4,6 +4,25 @@
 
 ![](https://i.imgur.com/KBW8EUp.png)
 
+## Contents
+- [My Relationship with Conflict](#my-relationship-with-conflict)
+  - [Individual](#individual)
+  - [Societal](#societal)
+- [Graviton Training](#graviton-training)
+- [Nonviolent Communication & Spiral Dynamics - Trust Creation](#nonviolent-communication--spiral-dynamics---trust-creation)
+- [ONFR](#onfr)
+- [Questions](#questions)
+- [Spiral Dynamics](#spiral-dynamics)
+  - [(AQAL) All Quadrants, All Levels Spiral](#aqal-all-quadrants-all-levels-spiral)
+  - [Understanding the spiral](#understanding-the-spiral)
+  - [Connecting Spiral with NVC](#connecting-spiral-with-nvc)
+  - [Divided \ Unified Thinking](#divided--unified-thinking)
+- [Questions](#questions-1)
+  - [More on Divided\Unified](#more-on-dividedunified)
+- [Tuning Into The Unified](#tuning-into-the-unified)
+
+## Transcript
+
 (00:00:00)
 **Juan Carlos**:    We are preparing with this knowledge of techniques to understand conflict and to overcome and to transform it into something healthy. That is the purpose of gravity. 
 
