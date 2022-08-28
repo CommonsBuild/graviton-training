@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUa
 - [Three Influential Models](#three-influential-models)
 - [Prisoner's Dilemma](#prisoners-dilemma)
 - [The Logic of Collective Action](#the-logic-of-collective-action)
-- [Ostroms Principles](#ostroms-principles)
+- [Ostrom's Principles](#ostrom's-principles)
 - [Then principal four is monitoring.](#then-principal-four-is-monitoring)
 - [Forgiving Rules](#forgiving-rules)
 - [Questions \ Comments](#questions--comments)
@@ -20,9 +20,9 @@ https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUa
 (00:00:00)
 **Juan Carlos**:    Graviton training session. This is our fifth graviton trainer. We started with theories of non-violent communication of a spiral dynamics of theories, of conflict management, theories of negotiation, and how to reach an agreement. Last session, we had a role play to reach an agreement hearing in the training and in this training. I think it's a very special session because we have Livia with us that is going to be our guest speaker.  
 
-She's someone from whom I've learned so much, and from the work that she's been doing in soft governance and trying to apply Ostroms principles is where like gravity found a place and like got leverage and supported self supported with this working group. 
+She's someone from whom I've learned so much, and from the work that she's been doing in soft governance and trying to apply Ostrom's principles is where like gravity found a place and like got leverage and supported self supported with this working group. 
 
-She's going to talk to us about some of the insights that she has had leading this working group of soft governance and culture, and also some of the insights she has had from, from her experience and from her reading and studying and applying Ostroms principles. Without further ado, Livia.
+She's going to talk to us about some of the insights that she has had leading this working group of soft governance and culture, and also some of the insights she has had from, from her experience and from her reading and studying and applying Ostrom's principles. Without further ado, Livia.
 
 (00:02:17)
 **Livia**:    Thank you so much, Juan. I feel very, very honored to be here and very grateful, also a little bit nervous, and I think this is a good space to feel vulnerable and settle in a little bit with what we're feeling. 
@@ -184,7 +184,7 @@ I also think that she suggests that it's not to say what can be done or what can
 
 I'm taking notes of what you guys said, and we can start experimenting with it. This is the beautiful thing of being in such a like diverse community that we can, we can afford experimenting things until a certain point, especially now in the cultural build and understanding so much what is the outEcomes of the behaviors when they happen? So, yeah. 
 
-### Ostroms Principles
+### Ostrom's Principles
 
 I wanna just quickly introduce the eight principles. I know it's been like hammered in so many people's minds already, but I think it's interesting to like continue to always offer ways of exploring it because they are so rich and they are complex.  
 
