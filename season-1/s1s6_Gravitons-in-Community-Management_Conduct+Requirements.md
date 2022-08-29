@@ -126,7 +126,7 @@ c) As both a collective and individuals, to commit to the practice of preventing
 
 More info at: [Scale of conflicts - Graduated sanction Guideline](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) (TECommons Forum)
 
-## Conflict Managment for the TEC (Draft)
+## Conflict Managment cycle in the TEC (Draft)
 
 ![](https://i.imgur.com/vXdvm2U.png)
 
