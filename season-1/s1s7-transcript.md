@@ -33,7 +33,7 @@ That is like really close to the activities that gravity is doing and that they 
 
 Then we are also also trying to help on the part of accountability and graduate extensions, and on the part of easy access for conflict management. Like gravity is born in the TEC and is nurtured from the other working groups. 
 
-As we have already had Livy from the soft gov working group, presenting a session, both transparency, soft gov legal and gravity are groups that work really close together. With all the working groups. 
+As we have already had Livi from the soft gov working group, presenting a session, both transparency, soft gov legal and gravity are groups that work really close together. With all the working groups. 
 
 Here you can, you can read what was the idea and how we were going to like, measure the scale of the sanctions and the scale of the problems and how we were going to promote a strategic nonviolent communication and the alternative dispute resolution mechanisms.  
 
@@ -100,7 +100,7 @@ Here are also the notes of the working group calls that we had before starting t
 
 You can see that this, what we are doing is the, is the product of work that has been done through several months. 
 
-I really like thank all the people that have been working in these documents like Griff, Livy do. Yes, because it's also the reflect of the advice process that we have in this community. 
+I really like thank all the people that have been working in these documents like Griff, Livi do. Yes, because it's also the reflect of the advice process that we have in this community. 
 
 When you have an idea other people like foster you to improve that idea and give those and give you like idea other ideas to handle, to how to ground your ideas, or give you very good questions that make you reflect on your initial thinking and how you can improve that.  
 

@@ -10,7 +10,7 @@
 (00:00:00)
 **Juan Carlos**:    This session is going to be a deep dive on the conflict management platform that gravity is building. Also what are the requirements for gravity. 
 
-Also it's very important to understand the code of conduct to be framed by the last session with Livy, and following the application Ostrom's principles, we have decided to take care of our rules and boundaries looking for the wellbeing of the community. 
+Also it's very important to understand the code of conduct to be framed by the last session with Livi, and following the application Ostrom's principles, we have decided to take care of our rules and boundaries looking for the wellbeing of the community. 
 
 This code of conduct is a really important document that I think that Gravitons should be familiar with. Instead of defending points of view, we can refer to the code of conduct as a source of legitimacy. 
 
