@@ -4,10 +4,10 @@
 
 ### PRE-LEARNING:
 
-- [Integral Dynamics 25](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)
-- [Polarity wisdom 15](https://www.youtube.com/watch?v=842Kw5RSPug)
-- [My stroke of insight 5](https://www.youtube.com/watch?v=UyyjU8fzEYU&feature=emb_logo) - Jill Bolte Taylor
-- [Deliberately developmental organizations (DDO) 7](https://orghacking.files.wordpress.com/2016/06/thedeliberatelydevelopmentalorganization.pdf)
+- [Integral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)
+- [Polarity wisdom](https://www.youtube.com/watch?v=842Kw5RSPug)
+- [My stroke of insight](https://www.youtube.com/watch?v=UyyjU8fzEYU&feature=emb_logo) - Jill Bolte Taylor
+- [Deliberately developmental organizations (DDO)](https://orghacking.files.wordpress.com/2016/06/thedeliberatelydevelopmentalorganization.pdf)
 
 ### PRESENTATION:
 
