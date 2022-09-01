@@ -37,7 +37,7 @@ In token engineering commons, we often talk about ourselves as a shelling point 
 That is to say, we should become the people who other token engineers turn to and choose by default in the absence of communication or other options.  
 
 (00:04:25)    
-I've basically written this out to say that the idea behind gravity and the future gravity do is to generate within our members and the partner organizations who we service and the DAOs that we speak to: 
+I've basically written this out to say that the idea behind Gravity and the future Gravity do is to generate within our members and the partner organizations who we service and the DAOs that we speak to: 
 
 a proactive anti-fragile organizational culture through robust sensemaking, shared mental models & language systems.
 
@@ -45,7 +45,7 @@ Often we spend a lot of time trying to figure out what let's say, the right prog
 
 Often, because we don't do that, certain kinds of conflict can arise and, or the erosion of trust, which is a huge part of what we are here to do is to create trust. With human and ethical technology and services, that would bring us together even in the absence of communication.  
 
-The whole purpose behind gravity is to find ways to do exactly this.
+The whole purpose behind Gravity is to find ways to do exactly this.
 
 As gravitons, it's important to recognize that all people in our organizations contain a psychological shadow.
 
@@ -139,7 +139,7 @@ I would also say that systems thinking versus complexity thinking is an interest
 
 Now we just are left with the complexity of the system. That's the system stinker and a complexity thinker, people who are willing to go down and down the road of doing experiments and not really knowing exactly what's happening. 
 
-That's actually been the history of the token engineering commons up to now, and with this new gravity DAO and even the commons dao that's coming up, we're doing a lot of **complexity thinking**. 
+That's actually been the history of the token engineering commons up to now, and with this new Gravity DAO and even the commons dao that's coming up, we're doing a lot of **complexity thinking**. 
 
 It's important as gravitons to understand all of these contextual things to grasp what possible things you may find as you participate in conflicts and trust creation processes in the down space.  
 
@@ -158,7 +158,7 @@ Now, as a contextualize, the Aqua model here is what we're looking at. Each of t
 
 What I'll explain to you is there's a narrative framework that I use to talk about this as a person participating in the token engineering commons, you were your self and consciousness, and you were at a certain developmental level of whatever it is. 
 
-Then you say, I'm going to interact with this culture and worldview of the token engineering commons. Then that token engineering commons is going to create a social system and environment and a discord and a forum and all these different things. Even the gravity group itself is one of those social systems.  
+Then you say, I'm going to interact with this culture and worldview of the token engineering commons. Then that token engineering commons is going to create a social system and environment and a discord and a forum and all these different things. Even the Gravity group itself is one of those social systems.  
 
 What basically happens after that is that something says brain and organism here, but really you could say that it is these various mental models and other technologies and processes that we've created. Then those systems interact again with the individuals involved in them. 
 
@@ -188,9 +188,9 @@ It's a bit too complex to describe only in this one thing, but what we'll try to
 > - Get involved to influence and add to the pull of Gravity- It Brings Us Together!
 > - DAO2DAO- finding ways to negotiate and find common trust and ground between DAOs
 
-Now what we're currently working on is we're working on constructing the DAO with the other gravitons and participating DAOs. You guys not only are from getting POAPs, but also get to influence the future direction of the gravity DAO and what we're gonna work on. 
+Now what we're currently working on is we're working on constructing the DAO with the other gravitons and participating DAOs. You guys not only are from getting POAPs, but also get to influence the future direction of the Gravity DAO and what we're gonna work on. 
 
-Anything you'd like to add, Juan?  
+### Anything you'd like to add, Juan?  
 
 (00:25:35)    
 **Juan Carlos**:    For sure.The idea is to be able to bring communities and community members together, even in this agreement. What we are trying to do is also to normalize talking about conflicts and that makes us more competent to deal with it. 
@@ -218,10 +218,10 @@ It's true that we need larger contextualizing principles and on the trust creati
 
 If you're married, you have yourself and your partner, and then you have all your shared relationship and property and kids and all these other things in between you and it's caring for that. That is principle B and a lot of that negotiation and other things as principal C. 
 
-Then when things really aren't working, we then go into principal D but at each aspect of this, we're trying to transform the conflict into something which is greater so that we can get back to the first principle. Is that reasonable?  
+Then when things really aren't working, we then go into principal but at each aspect of this, we're trying to transform the conflict into something which is greater so that we can get back to the first principle. Is that reasonable?  
 
 (00:31:07)    
-**Juan Carlos**:    In this organizations where there is so much of a techno logical focus, sometimes we forget about the humanity and the human side and the human aspect of it. I feel that more and more, we are starting to talk about this because, these organizations are not only like enterprises, these organizations are also communities and these important for community members to support each other. 
+**Juan Carlos**:    In this organizations where there is so much of a technological focus, sometimes we forget about the humanity and the human side and the human aspect of it. I feel that more and more, we are starting to talk about this because, these organizations are not only like enterprises, these organizations are also communities and these important for community members to support each other. 
 
 In this context where we are spending so much time with people, we cannot feel that we only work and that we don't know the people who we are working with. Like we only know we only see avatars and we don't know about what the other persons struggle is. Our intention with this services is for people to request support in a variety of situations.  
 
@@ -230,12 +230,12 @@ Not only we have conflict with other people, sometimes we have internal conflict
 The idea is that the people that pass this training can be seen in the community as an easy access agent to request support in a variety of situations. Yeah, it is to enforce and to power empower the human aspect of dos. We cannot have like organizations that exploit the human or that they are not comprehensive to human needs, but rather we need to have more comprehensive dos and for people to have an and joyful experience by participating.  
 
 (00:33:22)    
-**Durgadas**:    And so, in terms of second order stuff, part of the thing to understand is that it gives you an advantage as an employee, as an employer, as a DAO to have this thing, anchoring your culture and it's a really excellent skill both personally and professionally, and as a cultural context to have this entire framework understood. Is there anything else you have, Juan? Can I open it up to questions from folks?  
+**Durgadas**:    And so, in terms of second order stuff, part of the thing to understand is that it gives you an advantage as an employee, as an employer, as a DAO to have this thing, anchoring your culture and it's a really excellent skill both personally and professionally, and as a cultural context to have this entire framework understood. Is there anything else you have, Juan?
 
 (00:34:03)    
 **Juan Carlos**:    I just would like to say that also, and this is something that I'm going to talk in my next session, but that in this organizations, we also reproduce and organization identity of false self, where, everyone should be happy. Everyone should be always available to carry more load of work. 
 
-Sometimes we are false. We don't voice out our concerns. The idea of having gravity in an organization is also to be able to have a safe space, to communicate and yeah. To talk about the things that normally we don't talk about and to feel that if something seems unfair, that there is people that is caring for the experience in people in their organization. 
+Sometimes we are false. We don't voice out our concerns. The idea of having Gravity in an organization is also to be able to have a safe space, to communicate and yeah. To talk about the things that normally we don't talk about and to feel that if something seems unfair, that there is people that is caring for the experience in people in their organization. 
 
 Not only, okay, we are going to exploit people and, we only care for you because if you work for us, but if you stop working for us, we don't care. Why not even, why did you stop like contributing? 
 
@@ -250,7 +250,9 @@ People wont feel comfortable if they don't have one, a safe space to communicate
 
 We're making tokens and things. Trust creation is almost the most important thing about this thing that we're talking about. Right. To having the reason why people put their money in banks is because they trust, they have a level of trust about that. 
 
-It's not just for the participation in the token engineering or an individual DW, but also just for the overall ethical culture and promotion of ethical culture within this particular area of work. Any other questions at this time let's maybe Livy or some of the, your words can start.  
+It's not just for the participation in the token engineering or an individual DW, but also just for the overall ethical culture and promotion of ethical culture within this particular area of work. 
+
+### Any other questions at this time?
 
 (00:38:03)    
 **Speaker 4**:    My name is Jovian. I just wanted to second what Juan was saying. I really feel like when there is a conflict, when what we see as a conflict, it's the opening up of a space for complexity to be added into the perspective, unfortunate the collective perspective. Unfortunately if you look at it at like in a binary, oh, it's a failure. 
@@ -264,10 +266,10 @@ Unfortunately, the hurriedness to resolve or brush under the rug, or decide a wi
 
 This is actually what I was saying before about gravitons, we'll figure out what are the different action modes that work in terms of this and exactly what you just said is allowing for complexity. Right. What often we, what often has happened is that we have these known familiar bucketized rigid version of things. 
 
-If you don't fit into that, then you end up falling off of this cliff and end up in chaos. Then if you can collect yourself and start experimenting with things then you can actually find solutions and then bring them back up and make more space in the known and familiar. In many ways, the token engineering comments, culture overall is working really hard to work backwards in this way. Even though things might seem chaotic in this space, we're experimenting on it, we're creating knowable things that might seem complicated and then bringing them a really tall ladder to make them clear and easier and simpler to understand. That's the DAO space in general., so that's our job as graviton is to help those people who are doing the complex. It's very beautiful that you actually recognize that. We'll get into that in session six that I'm teaching as well. Any other questions or comments?  
+If you don't fit into that, then you end up falling off of this cliff and end up in chaos. Then if you can collect yourself and start experimenting with things then you can actually find solutions and then bring them back up and make more space in the known and familiar. In many ways, the token engineering commons, culture overall is working really hard to work backwards in this way. Even though things might seem chaotic in this space, we're experimenting on it, we're creating knowable things that might seem complicated and then bringing them a really tall ladder to make them clear and easier and simpler to understand. That's the DAO space in general., so that's our job as graviton is to help those people who are doing the complex. It's very beautiful that you actually recognize that. We'll get into that in session six that I'm teaching as well. Any other questions or comments?  
 
 (00:41:49)    
-**Speaker 5**:    I have a question. I'm new to all of this. I'm learning about, I didn't know what a DAO was. I had to look that up a few days ago in preparation for come into this, I'm loving what I'm reading. I'm really excited to be a part of it. I appreciate dull putting this together. I'm also just curious the way that you're presenting this,, is that I'm trying to figure out if gravity or, if all of this will be more applicable or make more sense if we're also part of another decentralized organization this would, this is my first interaction with this whole idea in general. I don't, I just wanted to, maybe if you could address that or if this something is something that can stand alone.
+**Speaker 5**:    I have a question. I'm new to all of this. I didn't know what a DAO was. I had to look that up a few days ago in preparation for come into this, I'm loving what I'm reading. I'm really excited to be a part of it. I appreciate dull putting this together. I'm also just curious the way that you're presenting this, is that I'm trying to figure out if all of this will be more applicable or make more sense if we're also part of another decentralized organizations. This is my first interaction with this whole idea in general. I don't, I just wanted to, maybe if you could address that or if this something is something that can stand alone.
 
 (00:42:31)    
 **Durgadas**:    My job initially here is just to give the highest level of context. Each one of these four principles has a massive amount of really cool and very practically applicable things. Ostrom's principles, for example, is extremely useful in sorting out how to avoid things like the prisoners dilemma in your organizations, how to speak about and resolve conflicts, both interpersonally, but also in other ways, NVC can help. 
@@ -277,96 +279,76 @@ Cool thing is that each one of these things cross pollinate. The developmental t
 Do you see what I mean? And so you can see that all of these have incredible amounts of relationships to each other. What I said before is if you're in a DAO, what the DAO educates is, what it becomes and what it values. If you take a look at the, any other do might be in, you can very clearly see what's their priority is by, based on what they spend their time educating. 
 
 (00:44:04)    
-**Speaker 5**:    Ahead if I'm sorry to interrupt, but I'm not a part of any other DAO like this, I can't quite tell if this is intended to be something where we're expected as gravitons to be in a DAO outside of gravity.  
-
---- pause ---
+**Speaker 6**:    I'm sorry to interrupt, but I'm not a part of any other DAO like this, I can't quite tell if this is intended to be something where we're expected as gravitons to be in a DAO outside of Gravity.  
 
 (00:44:20)    
-**Juan Carlos**:    I can answer that. Yeah, here in the participating people, there are people from a lot of DAOs and it's great because we are kinda like spreading this message through other DAOs. If you are new to the do space, this becoming a graviton can also help you enter other DAO because you will gain like these tools, which will let you contribute in this cultural aspect of other DAO. Yeah, if right now you're not part of a DAO after becoming a graviton, for sure. You will find some community where you can like contribute. I also, one of the things that I love about gravity it's also that it is an alternative for people who is not so tech related to collaborate in DAOs because, sometimes we only think like DAOs are like for the tech guys, but it's also important to have this social aspect.  
+**Juan Carlos**:    I can answer that. Yeah, here in the participating people, there are people from a lot of DAOs and it's great because we are spreading this message through other DAOs. If you are new to the DAO space, this becoming a graviton can also help you enter other DAO because you will gain like these tools, which will let you contribute in this cultural aspect of other DAO. 
 
-(00:45:43)    
-**Juan Carlos**:    And when you get trained in this skills any doubt that would love to implement gravity, you could like collaborate with them. Yeah. From a human side and not from only from the tech side, because yeah, and this is a distinction that I love that the TC makes and is that we have soft governance and hard governance. We have like this software governance where, things are so hard to change because they are in code and they are like a te, but that technology is put into place within a human organization. It, you can have a perfect code, but if the community that is going to deploy that code is broken the code is just going to be, yeah. Bits in the cloud.  
+If right now you're not part of a DAO. After becoming a graviton, you will find some community where you can contribute. I also, one of the things that I love about Gravity it's also that it is an alternative for people who is not so tech related to collaborate in DAOs because, sometimes we only think like DAOs are like for the tech guys, but it's also important to have this social aspect.  
 
-(00:46:48)    
-**Juan Carlos**:    But the idea is to be able to empower these new institutions so that they are not only better than our regular institutions in the sharpness that they have in how much, how many transactions can they have per second, but also that we can have these institutions to be more comprehensive to human needs than the ones that we have right now. That's why it's so important to have support in a community. I cannot see myself collaborating in a community where I am only seen like as a number or as a product. , where I cannot talk to the people about maybe if I have a conflict in my life and, and feel supported because we, when we are the most productive is when we are, when we feel fulfilled, when we feel comfortable and this is also something that can help to improve the workflow of organizations, because sometimes we see that the organization is having like a roadmap and then as a conflict happens, and then everything gets screwed.  
+When you get trained in this skills any DAO that would love to implement Gravity, you could like collaborate with them from a human side and not from only from the tech side. This is a distinction that I love that the TEC makes and is that we have soft governance and hard governance. 
 
-(00:48:04)    
-**Juan Carlos**:    The idea with having projects like gravity in inside DAO is that, okay, you can have a conflict that can create polarizing a scenario, but there will be people inside the community that will be working so that the community doesn't split in the first decision. Maybe if the best decision is to split, that would be something that would be like a lot put a lot of thought, but it's not like the first decision out of our rage instinct of, yeah.  
+We have this software governance where, things are so hard to change because they are in code and they are TE, but that technology is put into place within a human organization. You can have a perfect code, but if the community that is going to deploy that code is broken the code is just going to be 'bits in the cloud'.
+
+The idea is to be able to empower these new institutions so that they are not only better than our regular institutions in the sharpness that they have in how much, how many transactions can they have per second, but also that we can have these institutions to be more comprehensive to human needs than the ones that we have right now. 
+
+That's why it's so important to have support in a community. I cannot see myself collaborating in a community where I am only seen like as a number or as a product. Or, where I cannot talk to the people about maybe if I have a conflict in my life and, and need to feel supported. 
+
+We are the most productive is when we we feel fulfilled, when we feel comfortable, and this is also something that can help to improve the workflow of organizations, because sometimes we see that the organization is having like a roadmap and then as a conflict happens and then everything gets screwed.  
+
+The idea with having projects like Gravity in inside DAO is that, you can have a conflict that can create polarizing a scenario, but there will be people inside the community that will be working so that the community doesn't split in the first decision. Maybe if the best decision is to split, that would be something that would be like a lot put a lot of thought, but it's not like the first decision out of our rage instinct.
 
 (00:48:40)    
-**Durgadas**:    To answer your very specific question, this is also the first hour I ever participated in. I had no idea if I was ever gonna be able to contribute anything to this group. I'm almost famously clueless about cryptocurrency in general, but somehow, because of the nature of the cultural context that I found here, it's you'll notice it around the outside of this is radical inclusion. This idea that people can come and show up, and it's not just about conflicts. It's also about how do you actually absorb people with a really diverse set of skills into your community. That makes it inherently better as a community. Yeah, I'm a little surprised, frankly, that I'm able to participate in any real way. I've tried to participate in other DAOs, but I just keep coming back to here and I find myself lost, and I find that the costs of participating in other DAOs can be high. I continue to be included more here than perhaps in the other DAOs that I've tried to participate in. Yeah, I hope that answered your question. Thank you so much. RTU one, is it possible to ask another question? Yep. May I ask one more? Okay. Well, first of all, thank you so much for the clear introduction. It's been very enlighting. I'd like to ask a question about what your opinion is about the decentralized software on the making  
+**Durgadas**:    To answer your very specific question, this is also the first DAO I ever participated in. I had no idea if I was ever gonna be able to contribute anything to this group. I'm almost famously clueless about cryptocurrency in general, but somehow, because of the nature of the cultural context that I found here.
 
-(00:50:27)    
-**Speaker 6**:    For conflict resolution, such as Claro, for example, how that maybe can be in addition or maybe have another view on it. If that's, yeah. If that would also be helpful.  
+You'll notice it around the outside of this is radical inclusion. This idea that people can come and show up, and it's not just about conflicts. It's also about how do you actually absorb people with a really diverse set of skills into your community. That makes it inherently better as a community. 
+
+I'm a little surprised, frankly, that I'm able to participate in any real way. I've tried to participate in other DAOs, but I just keep coming back to here and I find myself lost, and I find that the costs of participating in other DAOs can be high. 
+
+I continue to be included more here than perhaps in the other DAOs that I've tried to participate in. Yeah, I hope that answered your question. 
+
+**Speaker 6**:    Thank you so much. Is it possible to ask another question? Yep. First of all, thank you so much for the clear introduction. It's been very enlighting. I'd like to ask a question about what your opinion is about the decentralized software on the making for conflict resolution, such as Claro, for example, how that maybe can be in addition or maybe have another view on it. If that's, yeah. If that would also be helpful.  
 
 (00:50:42)    
-**Juan Carlos**:    I love, yeah. We to answer that question.  
+**Juan Carlos**:    I love, yeah. We to answer that question. There are different dispute resolution mechanisms and Claro applies arbitration where the third part acts like a judge and states who the winner is in a conflict. The change we want to have is to is that we foster self-compositive conflict management. 
 
-(00:50:46)    
-**Speaker 6**:    That  
+That is that the outcomes of the dispute depend on the parties. We are more like mediators we facilitate dialogue and we facilitate that the parties like make an agreement, but we cannot enforce any solution. Yeah, that's the main difference between other dispute resolution mechanisms. 
 
-(00:50:46)    
-**Juan Carlos**:    Go ahead. It's like there are different dispute resolution mechanisms and Claro applies arbitration where the third part acts like a judge and states who the winner is in a conflict. The change we want to have is to is that we foster self C compos conflict management. That is that the outcomes of the dispute are on like our, on the parties. They depend on the parties. We, as we are more like mediators we facilitate dialogue and we facilitate that the parties like make an agreement, but we cannot enforce any solution. Yeah, that's the main difference between other dispute resolution mechanisms. Because when you have, in these traditional justice systems, you have a clear winner and a clear loser. That also states in the duality of winner losing left. Through gravity, what we want to foster is communication and dialogue, so that we can have more integrative solutions to disputes instead of one clear winner and one clear loser. Like that fosters also adversarial positions like you are my enemy, but the idea of this of gravity is to be able to stand from a non-ad adversarial point to search for common beneficial solutions for the parties.  
+Because when you have, in these traditional justice systems, you have a clear winner and a clear loser. That also states in the duality of winner losing left. Through Gravity, what we want to foster is communication and dialogue, so that we can have more integrative solutions to disputes instead of one clear winner and one clear loser. 
+
+That fosters also adversarial positions like you are my enemy, but the idea of this of Gravity is to be able to stand from a non-ad adversarial point to search for common beneficial solutions for the parties.  
 
 (00:52:34)    
-**Speaker 6**:    Dialogue before arbitration.  
+**Speaker 6**:    Dialogue before arbitration? 
 
 (00:52:38)    
-**Juan Carlos**:    Like if parties don't reach an agreement through dialogue, we can scale to arbitration mechanisms like Claro, as you're saying, but this is a step so that there's no, not a clear winner or a clear loser, but rather than that, we can find better solutions through compromise. It's based a lot in, also in the prisoners dilemma. If you have few communication, you are, you're going to, or few information, you're going to take a decision that can be rushed. If we foster dialogue, what we want is to more, make the conflict more clear, to be able to see other alternatives and yeah. Through coordination search for a, for an alternative that can be beneficial for both sides and not only for one side over the other.  
+**Juan Carlos**:    Like if parties don't reach an agreement through dialogue, we can scale to arbitration mechanisms like Claro, as you're saying, but this is a step so that there's no, not a clear winner or a clear loser, but rather than that, we can find better solutions through compromise. It's based also in the prisoners dilemma. If you have few communication, you're going to have few information, you're going to take a decision that can be rushed. 
+
+If we foster dialogue, what we want is to make the conflict more clear, and through coordination search for an alternative that can be beneficial for both sides and not only for one side over the other.  
 
 (00:53:37)    
-**Durgadas**:    And it's also true that you can see that this is heavily weighted toward making absolutely every effort to avoid that thing. Do what I mean? Like three out of our four things, it's incredibly detailed ways of attempting to avoid getting to that point. Obviously there are situations that people just come in game systems and create conflict or advantage things or leverage things or exploit. That's very clear. Thank you. You know? Yeah.  
+**Durgadas**:    It's also true that you can see that this is heavily weighted toward making absolutely every effort to avoid that thing. Three out of our four things are incredibly detailed ways of attempting to avoid getting to that point. Obviously there are situations that people just come in game systems and create conflict or advantage things or leverage things or exploit. That's very clear. 
 
 (00:54:14)    
-**Speaker 7**:    I would like to say a comment and to questions. If I may, we'll be very  
-
-(00:54:19)    
-**Juan Carlos**:    Quickly, please. Yes.  
+**Speaker 7**:    I would like to say a comment and to questions. 
 
 (00:54:21)    
-**Speaker 7**:    Thank you very much. I'm very happy to see the avatars that I already know as people. Thanks for inviting. I also am very happy to be here because I see the potential of gravity as a training for cyber physical commons prior than just for the house. This is something that may resonate with what Nick was saying at the beginning. I say cyber physical, because the gravity tone training that you are explaining here is the sheriff role or the GRA the graviton role is the sheriff role within cooperatives, which responsibilities to monitor the code of conduct. In cooperative, they lack the training and function to manage conflicts as well as the function to create, maintain, and re regenerate trust. Yeah, I been very excited to learn and apply this within competitive community that I am part of as well in other. Thanks for inviting.  
+**Speaker 7**:    Thank you very much. I'm very happy to see the avatars that I already know as people. Thanks for inviting. I also am very happy to be here because I see the potential of Gravity as a training for cyber physical commons prior than just for the house. This is something that may resonate with what Nick was saying at the beginning. I say cyber physical, because the Gravity tone training that you are explaining here is the sheriff role or the graviton role is the sheriff role within cooperatives, which responsibilities to monitor the code of conduct. In cooperative, they lack the training and function to manage conflicts as well as the function to create, maintain, and re regenerate trust. Yeah, I been very excited to learn and apply this within competitive community that I am part of as well in other. Thanks for inviting.  
 
 (00:55:16)    
-**Durgadas**:    I have to, I have some other resources and books for you around that from the foundation for intentional community and other stuff. I'm aware of those things too. I just didn't include them here as resources.  
-
-(00:55:31)    
-**Speaker 7**:    Great. That would be awesome. Two questions. What should we expect from, are there any goals art by, for every session? I say this because it helps me a lot to know the scope of every session in goals. I know with questions to frame in my mind when learning and another thing is, will the gravity tone develop this, the gravity doubt components that you are showing us skills? Those are my, and I lost the documentation regarding the course. If you could share it again, one with me will be great.  
-
-(00:56:19)    
-**Durgadas**:    What you're referring to is gonna be in the gravity channel as far as links, and what's gonna be in each individual training. You can have a look at that. Each actually, the way we framed it was, there's some things you can watch beforehand and then there's gonna be the training and then there's some follow up from that. It's a pretty comprehensive document that includes a lot of this stuff that you're asking about.  
-
-(00:56:51)    
-**Speaker 7**:    Okay, great. Thank you. I will look at that.  
+**Durgadas**:    I have some other resources and books for you around that from the foundation for intentional community and other stuff. I'm aware of those things too. I just didn't include them here as resources.  
 
 (00:56:55)    
 **Durgadas**:    Okay. We're at the top of the hour, I'm willing to hang around for another few minutes, if you have further questions or anything, but if you guys have other groups to get to, then we're happy to let you go.  
 
-(00:57:12)    
-**Speaker 4**:    Can I be heard, 
-
-(00:57:14)    
-**Durgadas**:    Please?  
-
 (00:57:18)    
-**Speaker 4**:    Hey, it's was just I just wanted to say something. I heard the term earlier and I noticed it raised a flag for me. Okay. It was the term sheriff, and I just wanna like I wanna engage in this space and be open to communicating about language when it comes up. I wanna be mindful all of this work that none of us are policing. Carrying that conditioning. I just wanna like name it as I'm feeling it. That's  
+**Speaker 4**:    Hey, it's was just I just wanted to say something. I heard the term earlier and I noticed it raised a flag for me. Okay. It was the term sheriff, and I just wanna like I wanna engage in this space and be open to communicating about language when it comes up. I wanna be mindful all of this work that none of us are policing. Carrying that conditioning. I just wanna like name it as I'm feeling it.
 
 (00:57:54)    
-**Durgadas**:    All. That's no, that's very good. I was gonna bring that up. It, this isn't enforcement mechanism, it's in fact, it's, we've consciously chosen to not be an enforcement mechanism and to allow the individual DAOs or participants in the token engineering commons. We do have certain our own for enforcement thing, but I would say that's a bit separate from the main intention of gravity.  
-
-(00:58:23)    
-**Speaker 1**:    The, 
-
-(00:58:23)    
-**Speaker 4**:    The, I would love to say something.  
-
-(00:58:25)    
-**Durgadas**:    Yep.  
+**Durgadas**:    That's very good. I was gonna bring that up. It, this isn't enforcement mechanism, it's in fact, it's, we've consciously chosen to not be an enforcement mechanism and to allow the individual DAOs or participants in the token engineering commons. We do have certain our own for enforcement thing, but I would say that's a bit separate from the main intention of Gravity.  
 
 (00:58:26)    
 **Speaker 4**:    Okay. Hi, this is Ryder. Thank you so much, AEs. Cuz hi, cuz my flag also went up and I just appreciate that being named it's hard to slow things down sometimes, especially with so much information. Thank you to our presenters today. I also wanna add that, I don't know who used the word sheriff, but it just really points to me. It's a reminder of living in a police environment and that we don't have, sometimes we might not have the right examples or like metaphors to use to describe what a graviton is because we don't see a lot of it in the mainstream. I just wanted to, there's no like wrongdoing there, but it's just, it's a Testament to living in a police state. I, it's interesting cause I'm in a international space and I'm an American, so I'm, I'm wondering how I speak. I'm trying to make it not to American centric, but it's also, police state probably rings true. Mosts important to person. I do see, I do see graviton training and education as an abolitionist mechanism, at least an example of it. Yeah. That's just what I stand with that they're gonna, I cut you off a bit there.  
-
-(00:59:47)    
-**Durgadas**:    Oh no, it's okay.  
 
 (00:59:49)    
 **Speaker 7**:    I just want to say something before someone else says that the flag I said about the share, but that is a different context because it's willing competitives. In the cooperatives realm, the sheriff is someone that enforces and can ban for example, the president of the cooperative, if the president signs something that is affecting the whole cooperative, because it's a corrupt decision, the sheriff can ban that signature and then immediately call the whole cooperative to a general assembly to take action into that and can bring dispute mechanisms, but they not have these regenerative trust. Maintainance that graviton was saying that's why, that's why I said, I'm really happy to have this training because it's adding to what the competitive, the environment lacks. I that's a 2.0, that's it. Well, 
@@ -375,37 +357,25 @@ Do you see what I mean? And so you can see that all of these have incredible amo
 **Durgadas**:    And it's actually an interesting study for what you just said because in the context of the place where you're used to that word has a very specific definition and meaning and for aloes to bring it up and I was gonna bring it up too, was just to understand that word might have a different meaning to other people. It is from this contextualization that we're having now in this discussion that we're having now. The reason why we have three alternatives to even mediation or alternate dis dispute resolution or illegal remedies, we really go a long way and spend a long time parsing this stuff just to make it so that everyone has a shared understanding and a shared language and a shared vernacular for managing all of this stuff. The more shared that stuff is the lower cost dispute resolution is according to post from principles. On, the whole thing just rolls up and it's just benefit after benefit, trust after trust beauty after beauty that you get from caring enough to spend time and parse those things and make  
 
 (01:02:09)    
-**Juan Carlos**:    Those decisions. Also, I want to say that the graviton training is designed. Yeah, we start here. This is the first session and we are contextualizing, we are also setting expectations of what are we going to be talking about? But during the 10 sessions, we will have some core, some sessions that will be more in depth into organizational identity. We will have other sessions that we will, that will be more in depth about dispute resolution mechanisms. We will also deep dive on the gravity process. We will also have sessions about non-violent communication. Yeah the whole course we will have a course about leadership, a session about leadership. Yeah, the whole course like rounds up to have like a very general overview of what a mediator or a conflict management agent in the DAOs space could look like.  
+**Juan Carlos**:    Those decisions. Also, I want to say that the graviton training is designed. Yeah, we start here. This is the first session and we are contextualizing, we are also setting expectations of what are we going to be talking about? But during the 10 sessions, we will have some core, some sessions that will be more in depth into organizational identity. We will have other sessions that we will, that will be more in depth about dispute resolution mechanisms. We will also deep dive on the Gravity process. We will also have sessions about non-violent communication. Yeah the whole course we will have a course about leadership, a session about leadership. Yeah, the whole course like rounds up to have like a very general overview of what a mediator or a conflict management agent in the DAOs space could look like.  
 
 (01:03:16)    
-**Juan Carlos**:    And how through our, the processes that we are proposing, we are yeah. Giving an alternative to organizations so that they have their own justice and monitoring systems like also gravity is not that you should take what we are doing and do it as the same. I know that there are people here from different organizations and you can like iterate on this model. , we have a registry where we map and where we keep the count of the different disputes that we have addressed. I strongly feel that each organization should have their own registry. , there will, there should be at least like five people that can be visible people to, for people to request taxes, to request support. Also that there should be variety within this group. That it's not like one unilateral thinking implemented, but it's also like a collective intelligence that the develops the, 
+**Juan Carlos**:    And how through our, the processes that we are proposing, we are yeah. Giving an alternative to organizations so that they have their own justice and monitoring systems like also Gravity is not that you should take what we are doing and do it as the same. I know that there are people here from different organizations and you can like iterate on this model. , we have a registry where we map and where we keep the count of the different disputes that we have addressed. I strongly feel that each organization should have their own registry. , there will, there should be at least like five people that can be visible people to, for people to request taxes, to request support. Also that there should be variety within this group. That it's not like one unilateral thinking implemented, but it's also like a collective intelligence that the develops the, 
 
 (01:04:40)    
-**Durgadas**:    And I just wanna say one other foundational thing about this and in my discovery of working on my own compassionate self, that the we're gonna, as gravitons one of the things that I'm asking you is somebody who's holding this training thing is to understand that there's a principle involved where the degree to which you extends compassion to yourself is the degree to which then you'll be able to extend it to others. This is a cultural dynamic that I'm really interested in educating and propagating it. This is part of it. It's you have to realize that there is that axiomatic thing going on there. The degree to which you have a facility with conflict resolution, and therefore you're going to fairly amazingly discover that you're going to want to proactively create trust creation within yourself. Do you see what I'm saying? And then the more trust creation you principles you create within your own life and your own mind and in your own relationships, then you're gonna then be able to extend those things out into the communities in which you participate. That's a basic Axiom that I've, I've noted in my own life. Through this process of gravity, trying to talk to you all about so that the culture can improve itself through the improvement of each of its individual members.  
+**Durgadas**:    And I just wanna say one other foundational thing about this and in my discovery of working on my own compassionate self, that the we're gonna, as gravitons one of the things that I'm asking you is somebody who's holding this training thing is to understand that there's a principle involved where the degree to which you extends compassion to yourself is the degree to which then you'll be able to extend it to others. This is a cultural dynamic that I'm really interested in educating and propagating it. This is part of it. It's you have to realize that there is that axiomatic thing going on there. The degree to which you have a facility with conflict resolution, and therefore you're going to fairly amazingly discover that you're going to want to proactively create trust creation within yourself. Do you see what I'm saying? And then the more trust creation you principles you create within your own life and your own mind and in your own relationships, then you're gonna then be able to extend those things out into the communities in which you participate. That's a basic Axiom that I've, I've noted in my own life. Through this process of Gravity, trying to talk to you all about so that the culture can improve itself through the improvement of each of its individual members.  
 
 (01:06:18)    
 **Speaker 4**:    Can I just add something on a related this Issa here? Hi. Hi, DGA. Thank you. Thank you for this wonderful first session. I just wanted to say that I wanted to say thank you. On a related note, just to say, happy international world day of peace to everyone today. That's all, 
 
-(01:06:44)    
-**Juan Carlos**:    Thanks, SGA. I feel  
-
-(01:06:46)    
-**Durgadas**:    That's where I wore my t-shirt.  
-
-(01:06:50)    
-**Speaker 4**:    Yeah, we can't see ya.  
-
-(01:06:52)    
-**Juan Carlos**:    I feel that  
-
 (01:06:53)    
-**Juan Carlos**:    The main goal of gravity would be to contribute to building peace in the world. We see so much conflict in not only in DAOs, but in the whole world that being able to collaborate in conflict management in DAOs and also spreading the world about conflict management. It's going to be good, not only for Arabic for the organization that you represent, but also for yourself. I say this as someone who like made a major in conflict management and I, every day I practice these things and it's always easier to talk about them than to practice them. When I get mad, my girlfriend always tell me, oh, that's the conflict management that you're talking about. We are people we are not perfect. It's a lie to say that we are not going to have conflict management instead of avoiding conflict is to be able to face it and to transform it. It's a practice that is everyday practice and everyday learning. It's something that you can practice within yourself within your relationship with others within your organization. Yeah, this course is also something that can bring you like valuable things to your life.  
+**Juan Carlos**:    The main goal of Gravity would be to contribute to building peace in the world. We see so much conflict in not only in DAOs, but in the whole world that being able to collaborate in conflict management in DAOs and also spreading the world about conflict management. It's going to be good, not only for Arabic for the organization that you represent, but also for yourself. I say this as someone who like made a major in conflict management and I, every day I practice these things and it's always easier to talk about them than to practice them. When I get mad, my girlfriend always tell me, oh, that's the conflict management that you're talking about. We are people we are not perfect. It's a lie to say that we are not going to have conflict management instead of avoiding conflict is to be able to face it and to transform it. It's a practice that is everyday practice and everyday learning. It's something that you can practice within yourself within your relationship with others within your organization. Yeah, this course is also something that can bring you like valuable things to your life.  
 
 (01:08:18)    
 **Durgadas**:    It's a living wisdom really. What you're talking about is perfectly aligned with that. Do we have any other questions or comments?  
 
 (01:08:30)    
-**Speaker 4**:    I had a, I had a, another comment I'm sorry to trail on for so long. Okay. The part of the unit that's about justice or like the resolution, it seems to put the perspective of the organization, or like what's best for the organization or the community. Almost like that's like the point of view of the graviton, or, that's the more important point of view or that's what we're negotiating for. Whereas when you have a conflict, it's more like you just have a multiplicity of perspectives. It's like an opening up of, you have individual one individual B and you have the organization, and then there's dis there's dispute because there's a different idea of, what's right. There's also a different idea of, what's just, what is justice for the individual versus the organization might actually be different.  
+**Speaker 4**:    The part of the unit that's about justice or like the resolution, it seems to put the perspective of the organization, or like what's best for the organization or the community. Almost like that's like the point of view of the graviton, or, that's the more important point of view or that's what we're negotiating for. Whereas when you have a conflict, it's more like you just have a multiplicity of perspectives. It's like an opening up of, you have individual one individual B and you have the organization, and then there's dis there's dispute because there's a different idea of, what's right. There's also a different idea of, what's just, what is justice for the individual versus the organization might actually be different.  
 
 (01:09:38)    
 **Speaker 4**:    I hope that the individual's justice is also, and maybe I'll stay. I will stay on, but I will look, I'll be looking for the, how the individuals that might, how the individuals are going to be assisted in during mediation or conflict resolution, because just solving for the organization and sewing up loose ends and deciding what's in, what's out, that might not be what's best for the individual. Then how can this other support system validate the journey of that individual, maybe by giving them extra time or resources or other like things to help them like realign or recover. It's also really difficult to be an individual engaged in a conflict. It's, it's almost like a chosen role. You are chosen because if of your difference to represent a conflict, that can be a learning moment for the organization, but it can ha it can be a heavy burden on that individual while they're engaged in the conflict to express how they've been hurt the pain they're in and what they need to repair. It's also important to not just like mediate and then enact justice, but rather find out what are the best paths for individuals and organizations and how can there be like a, how can there be a champion for the individuals as, and a support for the individuals as well as, just figuring out what's best for the organization.  
@@ -414,10 +384,10 @@ Do you see what I mean? And so you can see that all of these have incredible amo
 **Durgadas**:    Yeah, of course. That's why we have so many things that sort of, what you're talking about was, is down to the principle D thing. But at the same time we have all this other stuff that would come beforehand. Principal C is about nonviolent communication is almost completely focused on the individual and providing them with that support. Right. So, and it really depends if that person's issue is related to some tragedy of the commons and that would, we would be looking at the relationship between the principal C and the principal B before we ever got to the point of having to, and I like to think that by trying to have such a complex and interwoven and interconnected, that's why I have all these different colored lines around here is because it is all very intertwined in the sense that it is the complex system. I would hope that we would not reduce any one conflict down to a zero sum game of the individual versus the organization.  
 
 (01:12:31)    
-**Juan Carlos**:    And also this is something that we feel that the reach of gravity is not like imposing any action exactly. O over a conflict, but more to deliver a set of tools that can be applied. I also strongly recommend organizations and DAO, as I was telling before that each human group has justice system. There are a lot of DAO that they don't have any justice system that they or they don't have like a policy around how are they going to manage certain situations, or they don't have like a code of conduct. That's why it's not easy to implement a conflict management mechanism in an organization that doesn't have like code of conduct. It's important for gravitons in each organization to be pushing the development of these documents that create rules and boundaries.  
+**Juan Carlos**:    And also this is something that we feel that the reach of Gravity is not like imposing any action exactly. O over a conflict, but more to deliver a set of tools that can be applied. I also strongly recommend organizations and DAO, as I was telling before that each human group has justice system. There are a lot of DAO that they don't have any justice system that they or they don't have like a policy around how are they going to manage certain situations, or they don't have like a code of conduct. That's why it's not easy to implement a conflict management mechanism in an organization that doesn't have like code of conduct. It's important for gravitons in each organization to be pushing the development of these documents that create rules and boundaries.  
 
 (01:13:49)    
-**Juan Carlos**:    And that gives sense to the interaction. Yeah, it, sometimes I, we hear, Hey, can you ate in this conflict? And when we gather more information about the conflict, we don't have any objective document from the organization saying who like who of the parts acted against the community values. Then when we don't have these documents that set the boundaries, everything is subjective. Like everyone has is right. Everyone has the reason because they are seeing it from their point of view. It's also important to have the organizational point of view to have like a set of rules of what can be the expected outcomes of a dispute. Those documents are not imposed by gravity. Each organization should have like their own code of conduct.  
+**Juan Carlos**:    And that gives sense to the interaction. Yeah, it, sometimes I, we hear, Hey, can you ate in this conflict? And when we gather more information about the conflict, we don't have any objective document from the organization saying who like who of the parts acted against the community values. Then when we don't have these documents that set the boundaries, everything is subjective. Like everyone has is right. Everyone has the reason because they are seeing it from their point of view. It's also important to have the organizational point of view to have like a set of rules of what can be the expected outcomes of a dispute. Those documents are not imposed by Gravity. Each organization should have like their own code of conduct.  
 
 (01:14:59)    
 **Juan Carlos**:    Each organization should say, which actions do they promote? And which actions do they disencourage. That is not like the same equation for all, for every organization. There are more organizations like each organization can have like their own boundaries. That's why also we rely on the part of the Ostrom's principles. We are going also to deep dive in the next sessions about Ostrom's principles, because yeah, the actually the first principle is that is to have set clear boundaries and rules. How can you have like the fourth and, or the sixth principle that is conflict management without having the first principle that is clear rule rules and boundaries and yeah, it's something that you, in order to have like conflict management, you need to have like some previous steps. That's why it's not only to let's have mediators it's to have competence with within the organization and to build cultural practices that allow for conflict resolution.  
@@ -429,7 +399,7 @@ Do you see what I mean? And so you can see that all of these have incredible amo
 **Speaker 4**:    It really does make sense. What both of you said makes sense is in like that set of rules can consist hopefully continuously be built upon, through, making it as robust as possible. Then like with every case study of a person, helping a person be productive in the community, you can add to that set of rules. You can add clarity, you can account for difference. It is a diff it is difficult though. When that line is established, oh, this is too much accounting for difference. Oh, I don't wanna negotiate for this much difference. That's like a place where I've seen organizations be, Hey, we'll just let people leave, you know? Right. It's, oh, it's, oh, that's sad. Then you're, sure, you're just letting people leave because you're not like allowing the organization to create a case study. You're looking at situations as fringe cases or as bad, or like something else like external. At the same  
 
 (01:18:51)    
-**Durgadas**:    Time, people have agency to be able to leave if they want to. We've, we've had situations like that in this organization where people said this is a line for me and I'm just not willing to participate at that. Right. So, and part of the reason why I put this to pink thing in here was so that you could understand that it is a generative thing and you can go around and round in this thing and people like gravity or soca or depending on whatever the context is of the working group, they all have a moderated role. They have what we've done already, which is the curated side of the picture. Then that living yes. Or what about this problem, that problem. Then very cool. Then it's just it's a, it's a, and the whole point of it. The reason why I have on the left side is living wisdom. It's, it is a thing which is alive. Right. It seems to me that is actually part of a being a graviton is to assist in the life of organizations by helping create and moderate this type of thing.  
+**Durgadas**:    Time, people have agency to be able to leave if they want to. We've, we've had situations like that in this organization where people said this is a line for me and I'm just not willing to participate at that. Right. So, and part of the reason why I put this to pink thing in here was so that you could understand that it is a generative thing and you can go around and round in this thing and people like Gravity or soca or depending on whatever the context is of the working group, they all have a moderated role. They have what we've done already, which is the curated side of the picture. Then that living yes. Or what about this problem, that problem. Then very cool. Then it's just it's a, it's a, and the whole point of it. The reason why I have on the left side is living wisdom. It's, it is a thing which is alive. Right. It seems to me that is actually part of a being a graviton is to assist in the life of organizations by helping create and moderate this type of thing.  
 
 (01:20:04)    
 **Durgadas**:    In nonviolent communication, it's literally called a language of life and that's why it is one of the four cornerstones of this process so hopefully amazing helps any I'm gonna say I've, I'm gonna cut it another seven minutes. It looks like we got one more question here and I can yeah. Or comment, and then we can stop.  
