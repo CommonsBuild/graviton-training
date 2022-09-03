@@ -1,5 +1,8 @@
 # Season 2 - Session 7
 
+* [Session #7: Psychology on the human leadership, led Mount Manu](https://www.youtube.com/watch?v=FxJcs6QlfTg&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=7)
+* [Masterclass on The Psychology of Human Leadership](https://docs.google.com/document/d/18GEmubW_Lco_fSCIIEzMq4WyMkCintKDRnOuji6plUc/edit)
+
 ## Transcription
 
 (00:00:03)    
