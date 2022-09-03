@@ -1,6 +1,7 @@
 # Session 5 - Alternative Dispute Resolution - Human resources in DAOs (not humans as resources, but resources for humans) - Lorelei Loie
 
 * [Session #5: Conflict Revolution, led by Lowie](https://www.youtube.com/watch?v=CdyyLDHcoBQ&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=5) youtube
+* [Loie's 2nd Graviton Lesson](https://docs.google.com/presentation/d/1PTumFqoM81WtrFOBsAHwvM4BP9UkChaqOWAIHYH6v6E/edit#slide=id.p)
 
 ### PRE-LEARNING
 
