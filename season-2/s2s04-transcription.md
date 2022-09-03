@@ -1,5 +1,8 @@
 # Season 2 - Session 4
 
+* [Gravity Session #4 Season 2 • Marshall Rosenbergs Nonviolent Communication](https://docs.google.com/presentation/d/1FVJQjmhQSHsJJ-OufHdBxpYCVB5PjhLBaoQf_buGJZY)
+* [Session #4: Nonviolent comunication, led by Dan](https://www.youtube.com/watch?v=f9hroSJ2mMw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=4) youtube
+
 ## Transcription
 
 (00:00:00)    
