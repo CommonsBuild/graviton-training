@@ -78,6 +78,8 @@ Marshall Rosenberg believed that thinking in a binary way, in terms of good/bad,
 Walter Wink noticed a pattern in the structure of stories where a hero suffers under a bad guy, and must defeat the bad guy to restore order. 
 
 They never reconcile or figure out creative ways to solve their problems, but forever repeat this same pattern.
+
+https://www2.goshen.edu/~joannab/women/wink99.pdf
  
 ### Walter Wink
 
@@ -110,7 +112,7 @@ It's amazing how long standing conflicts can be resolved fairly easily, when we 
  
 Nonviolent communication suggest we make clear observations that tell people when their actions are meeting our needs, and when their actions are not meeting our needs.
 
-![](https://i.imgur.com/jdQDo0w.png) 
+![](https://i.imgur.com/0eVGOeq.png) 
  
 https://www.dailynvc.com/my-definition-of-nonviolent-communication
 
