@@ -4,13 +4,15 @@ A selection of quotes, images and other materials gathered from the session note
 
 * [Session #1: NVC, Spiral dynamics and unified thinking!](https://www.youtube.com/watch?v=K1atKOM4lcE) youtube
 
-## TOC
+## Contents
 
 * [Nonviolent Communication](#nonviolent-communication)
 * [Spiral Dynamics](#spiral-dynamics)
 * [Divided & Unified Thinking](#divided---unified-thinking)
 
-## Nonviolent Communication
+## [First Graviton Training Study Plan](https://forum.tecommons.org/t/first-graviton-training/217)
+
+### Nonviolent Communication
 
 **a) [Brief summary of Non Violent Communication by Marshall Rosenberg](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf)**
 
@@ -35,7 +37,7 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 >@durgadas' explanation actually how feelings only arise when needs are met or not - was one breakthrough for need-based modeling we use for [Invisible Economy / DADA](https://powerdada.medium.com/the-invisible-economy-db46897d4f07)
 ![](https://i.imgur.com/SkWtIR0.png)
 
-### NVC Taught by Marshall Rosenberg
+#### NVC Taught by Marshall Rosenberg
 
 * [Giraffe Language and Jackal Language - Nonviolent Communication explained by Marshall Rosenberg](https://www.youtube.com/watch?v=Xov5z_GJ9Zs) (5 minutes)
 * [Giraffe Fuel for Life](https://www.youtube.com/watch?v=RSwEC4yvrb0) (1 hour)
@@ -47,7 +49,7 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 * [NVC Audio Archive](https://anchor.fm/nvc-archive) Marshall Rosenberg Podcast
 * [@MBR_Quotes](https://twitter.com/MBR_Quotes) - Marshall Rosenberg Twitter Quote Bot
 
-### NVC Taught by Others
+#### NVC Taught by Others
 
 ![](https://i.imgur.com/Nc5ZyXh.png)
 
@@ -62,7 +64,7 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 * [Oren Jay Sofer - Audio](https://www.orenjaysofer.com/audio)
   > Oren Jay Sofer teaches mindfulness, meditation and Nonviolent Communication in both secular and Buddhist contexts.
 
-## Spiral Dynamics
+### Spiral Dynamics
 
 **c) [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)**
 
@@ -91,7 +93,7 @@ This is a chapter outline of key points related in Marshall Rosenberg's [Nonviol
 
 ![](https://i.imgur.com/xsJrfFr.png)
 
-## Divided & Unified Ways Of Thinking
+### Divided & Unified Ways Of Thinking
 
 ![](https://i.imgur.com/Z7QDVnx.png)
 
@@ -120,8 +122,7 @@ This video describes the experience of having a stroke, which allowed Jill Bolte
 * [The Three Gunas Explained - 10 Minutes with Dr. Marc Halpern](https://www.youtube.com/watch?v=XzIRZs-vrVc)
   > These three qualities are called sattva, rajas, and tamas, in sanskrit. These three gunas are responsible for the functioning of your mind, they also do affect the body. They affect everything in nature, but in our conversation, we usually bring it into the conversation about the mind. What is your mind like? Is your mind clear, like sattva? Is it turbulent, like rajas? Is it more inert and darker, like tamas?
 
-
-## Questions
+### Questions
 
 1. How does NVC help to build trust and prevent conflicts?
 2. What is Spiral Dynamics and how does it understand development?

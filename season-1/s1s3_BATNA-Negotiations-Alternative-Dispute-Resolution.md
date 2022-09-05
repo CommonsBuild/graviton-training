@@ -1,9 +1,23 @@
 # Session 3: BATNA, Negotiations & Alternative Dispute Resolution mechanisms
 
-[Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_9) Google Slides - Session 3
+* [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_9) Google Slides - Session 3
 * [Session #3: BATNA, Negotiations & Alternative dispute Resolution mechanisms](https://www.youtube.com/watch?v=Vd00bkV_Y6A) youtube
 
-## What is Alternative Dispute Resolution (ADR)
+## Contents
+- [What is Alternative Dispute Resolution (ADR)](#what-is-alternative-dispute-resolution-adr)
+- [Self-compositive ADR Mechanisms](#self-compositive-adr-mechanisms)
+- [Hetero-compositive ADR - Arbitration](#hetero-compositive-adr---arbitration)
+- [Steps for a mediation process](#steps-for-a-mediation-process)
+- [Negotiations & BATNA (building a bridge)](#negotiations--batna-building-a-bridge)
+- [How to sustain the bridge](#how-to-sustain-the-bridge)
+- [Keeping a calm mind](#keeping-a-calm-mind)
+- [Being a good third party](#being-a-good-third-party)
+- [Empathy is Key](#empathy-is-key)
+- [Ethical Standards and requirements for Gravitons](#ethical-standards-and-requirements-for-gravitons)
+- [Questions](#questions)
+
+## [First Graviton Training Study Plan](https://forum.tecommons.org/t/first-graviton-training/217)
+### What is Alternative Dispute Resolution (ADR)
 
 ADR means any method or mechanism of resolving disputes other than litigation. The theory behind ADR is that settling disputes as painlessly as possible requires good communication, that good communication requires some degree of trust, and that trust can be built where there is legitimacy on the actions taken.  
 
@@ -87,7 +101,6 @@ Restorative Justice Circles (“Circles”) provide an opportunity for community
 * **Supporting Parties** — friends or family of either the respondents or the affected parties
 * **Facilitators** — training OSCR staff who facilitate the Circle
 
-
 ### How to sustain the bridge
 
 ![](https://i.imgur.com/Dy9Zkl8.png)
@@ -112,7 +125,6 @@ As Jill Bolte-Taylor's noted, the physiological lifespan of an emotion in the bo
   > Anger is nothing but an expression of pain and expectation. Çré Saìkaräcärya confirms this in his writings. We expect certain things to happen and there is an obstruction between what to happen and ourselves. In other words, between the desirer and desired, there is an obstruction blocking the fulfillment of what is desirable. Because of this obstruction, this desire is deflected. The deflected form of desire or expectation is called anger.
 * [Anger Management & I Am NOT the Doer – Bhagavad Gītā Meaning (28)](https://www.yesvedanta.com/bg/lesson-28/)
   > Lesson 28 starts out by visually comparing Mind-Intellect-Ego of a samsari (life controlled by desires) – and of a self-actualized person (jīvanmuktaḥ). Then we correct common false notion of limiting Īśvara (God) to space-time. Finally, we discuss what it means to say “I am NOT the doer”. The real doer is Īśvara's laws-orders. This understanding is key to freedom.
-
 
 ### Being a good third party
 
@@ -146,7 +158,6 @@ Empathy brings us together and helps us to take rational and pacific decisions, 
 * **Rotation**: Three times a year, new training and selection processes will be run to encourage members of the community to become part of the Gravity team. One can only be in this group for three years in a row, to avoid accumulation of power.
 
 *See more*: [Gravity - Role design](https://forum.tecommons.org/t/gravity-role-design/174)
-
 
 ### Questions
 

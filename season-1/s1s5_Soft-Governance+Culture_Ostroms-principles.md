@@ -3,7 +3,24 @@
 ![](https://i.imgur.com/zF1aO1k.png)
 * [Session #5: Soft Gov & Culture](https://www.youtube.com/watch?v=BA97eWuv7lc)
 
-## [Soft Gov & Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/edit#slide=id.ga98e825200_0_50) Google Slides - Liviade
+## Contents
+- [First Graviton Training Study Plan](#soft-gov--culture---liviade)
+  - [Three Influential Models](#three-influential-models)
+  - [8 Principles for Governing the Commons](#8-principles-for-governing-the-commons)
+  - [Forgiving Rules](#forgiving-rules)
+  - [Monitoring](#monitoring)
+  - [Small acting workshop](#small-acting-workshop)
+  - [What is the need that soft gov addresses in the TEC](#what-is-the-need-that-soft-gov-addresses-in-the-tec)
+- [Slides](#slides)
+  - [Ostrom - Governing the Commons](#ostrom---governing-the-commons)
+  - [Deontic principles for rules](#deontic-principles-for-rules)
+  - [Institutional Change](#institutional-change)
+  - [Ostrom’s principles for enduring CPR institutions](#ostroms-principles-for-enduring-cpr-institutions)
+  - [Ostrom’s institutional change framework](#ostroms-institutional-change-framework)
+  - [Questions:](#questions)
+  
+## [First Graviton Training Study Plan](https://forum.tecommons.org/t/first-graviton-training/217) - Notes
+### [Soft Gov & Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/edit#slide=id.ga98e825200_0_50) - Liviade
 
 https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/
 
@@ -58,7 +75,7 @@ https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQ
 
 > “If individuals begin monitoring others and learn that others comply most of the time with a set of rules, they are more likely to be willing to adopt and/or continue contingent strategies.” 
 
-## Small acting workshop
+### Small acting workshop
 
 * *Acting* is a practice of empathy. You are preparing to welcome someone without judgement. 
 * There are tools to understand the other.
@@ -66,7 +83,7 @@ https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQ
 * Bringing *sensibility* to the body, lets you listen to your emotions.
 * Self understanding as a window to the other.
 
-## What is the need that soft gov addresses in the TEC 
+### What is the need that soft gov addresses in the TEC 
 
 * *Manage* behavior challenges
 * How we need to deconstruct / break down assumptions
@@ -76,7 +93,10 @@ https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQ
 * We are all finding it out *together*, that is the bond.
 * Unlearning to learn again.
 
-## [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_74) Google Slides - Session 5
+## Slides
+### Session 5: Soft Governance & Culture: Ostrom’s principles for enduring CPR Institutions
+
+[Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_74) Google Slides - Session 5
 
 **a) TEC Cultural build: soft Gov miro board**
 
@@ -90,7 +110,7 @@ https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQ
 > 
 > Government stimulus programs and the rescue of the biggest and sickest corporations will not alone resolve the problem. Companies need to reengage their people. The practice of both management and leadership needs to be rethought.
 
-## Ostrom - Governing the Commons
+### Ostrom - Governing the Commons
 
 > “The imposition of some sanctions reassures the rule-breakers that deviations by others are also likely to be discovered. Rules are forgiving of occasional lapses or errors and allows appropria­tors to avoid the high costs that can result from rigid application of uniform rules in a changing and uncertain environment.”
 
@@ -141,7 +161,7 @@ principles for sustainable governance of common-pool resources (CPR), and relate
 
 ![](https://i.imgur.com/0YMY3DL.png)
 
-## Questions:
+### Questions:
 
 1. What is the importance of having a strong cultural build in DAOs?
 2. What are the similarities between CPRs and DAOs?

@@ -4,7 +4,7 @@ A selection of quotes, images and other materials gathered from the session note
 
 * [Session #2: Conflict transformation](https://www.youtube.com/watch?v=7L78Gnrtkic) youtube
 
-## TOC
+## Contents
 
 * [What is Conflict?](#what-is-conflict)
 * [Lederach - Conflict Transformation](#lederach---conflict-transformation)
@@ -14,14 +14,16 @@ A selection of quotes, images and other materials gathered from the session note
 * [John Burton - Conflict Resolution](#john-burton---conflict-resolution)
 * [Metamodern Regenaissance](#metamodern-regenaissance)
 
-## What is Conflict?
+
+## [First Graviton Training Study Plan](https://forum.tecommons.org/t/first-graviton-training/217)
+### What is Conflict?
 
 ![](https://i.imgur.com/jqCyKcE.png)
 
 * [The Orange Story](http://www.mediationtools.com/articles/smbj9605.html) By Lee Jay Berman
   > In our society, we are raised to think that when there is a conflict, one person has to win and the other has to lose. We are not accustomed to working out win-win solutions. It is harder to do. It requires more effort. The outcome, however, is worth it. By working together, cooperatively and collaboratively, we can come up with better solutions, whether in parenting, in employment settings, in business transactions or even in lawsuits.
 
-## Lederach - Conflict Transformation
+### Lederach - Conflict Transformation
 
 **1. J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)**
 
@@ -31,7 +33,7 @@ A selection of quotes, images and other materials gathered from the session note
 > 
 > Conflict transformation is more than a set of specific techniques; it is a way of looking as well as seeing. Looking and seeing both require lenses. So conflict transformation suggests a set of lenses through which we view social conflict.
 
-### Conflict is... (_according to J.P Lederach_)
+#### Conflict is... (_according to J.P Lederach_)
 * Conflict can be understood as *that which keeps relationships and social structures honest, alive, and dynamically responsive to human needs*, aspirations, and growth.
 * Conflict flows from life. Rather than seeing conflict as a threat, we can understand it as providing opportunities to grow and increase our understanding of ourselves, of others, and of our social structures. 
 * Conflicts in relationships at all levels are the way life helps us to stop, assess, and take notice. 
@@ -40,7 +42,7 @@ A selection of quotes, images and other materials gathered from the session note
 
 ![](assets/conflict-is-everywhere.gif)
 
-### Transformative approach to conflicts
+#### Transformative approach to conflicts
 * Conflict is an opportunity, a gift. Conflict is normal in human relationships, and conflict is a motor of change.
 * Rather than seeing peace as a static “end-state, ” conflict transformation views peace as a continuously evolving and developing quality of relationship.
 * Conflict transformation is to envision and respond to the ebb and flow of social conflict as life-giving opportunities for creating constructive change processes that reduce violence, increase justice in direct interaction and social structures, and respond to real-life problems in human relationships.
@@ -72,15 +74,15 @@ A selection of quotes, images and other materials gathered from the session note
 >   - Identificar y entender los patrones culturales que contribuyen a la aparición de las expresiones violentas del conflicto.
 >   - Identificar y construir recursos y mecanismos dentro de un escenario cultural para responder constructivamente al conflicto y gestionarlo.
 
-### J.P. Lederach. Conflict Transformational platform
+#### J.P. Lederach. Conflict Transformational platform
 
 ![](https://i.imgur.com/ko6C6PF.png)
 
-### Framework for conflict analysis
+#### Framework for conflict analysis
 
 ![](https://i.imgur.com/FoMdGt1.png)
 
-## Antifragile, Nassim Nicholas Taleb
+### Antifragile, Nassim Nicholas Taleb
 
 > “Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder, and stressors and love adventure, risk, and uncertainty. Yet, in spite of the ubiquity of the phenomenon, there is no word for the exact opposite of fragile. Let us call it antifragile. 
 
@@ -95,7 +97,7 @@ A selection of quotes, images and other materials gathered from the session note
 > 
 > Antifragility makes us understand fragility better. Just as we cannot improve health without reducing disease, or increase wealth without first decreasing losses, antifragility and fragility are degrees on a spectrum.
 
-### Antifragile and conflicts / Breaking points
+#### Antifragile and conflicts / Breaking points
 
 ![](https://i.imgur.com/zFjwZZ2.png)
 
@@ -118,13 +120,13 @@ A selection of quotes, images and other materials gathered from the session note
 > The robust will have this payoff--it doesn't care--and the anti-fragile will have this payoff where harm is small and the big variations are positive, are favorable.
 So this is sort of like the idea or the general idea.
 
-### Examples of Antifragile
+#### Examples of Antifragile
 
 > “So we tend to over-technologize and underestimate the might of the equivalent of these small wheels on suitcases that will be staring at us for the next millennia.”
 
 ![](https://i.imgur.com/w7rPPqM.png)
 
-## Johan Galtung (Father of Peace Studies)
+### Johan Galtung (Father of Peace Studies)
 **7. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
 
 > We recognise that there are some similarities and overlaps between the concepts of conflict and violence as both conflict and violence can cause damage and harm. However, there are also some important differences. One of the most important differences is that while VIOLENCE is always negative and harmful, CONFLICT can sometimes be positive, if we respond to it in a constructive way.
@@ -135,7 +137,7 @@ So this is sort of like the idea or the general idea.
 
 **8. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
 
-### Collecting information from world religions ( Galtung’s Transcend Method )
+#### Collecting information from world religions ( Galtung’s Transcend Method )
 
 - *following Hindu thought*, remember: Conflict the Destroyer and Conflict the Creator; conflict as a source of violence and conflict as a source of development. The conflict worker has the third role as Preserver, transforming the conflict by avoiding violence, promoting development.
 - *following Buddhist thought*, remember: Codependent origination, everything grows together in mutual causation. Conflicts have no beginning and no end, we all share the responsibility; no single actor (like statesmen) carries all the responsibility (monopoly) and no single actor carries all the guilt.
@@ -144,7 +146,7 @@ So this is sort of like the idea or the general idea.
 - *following Islamic thought*, remember: The strength deriving from submitting together to a common goal, including the concrete responsibility for the wellbeing of all.
 - *following Judaic thought*, remember: The truth lies less in a verbal formula than in the dialogue to arrive at the formula, and that dialogue has no beginning and no end.
 
-### Conflict management as a political philosophy
+#### Conflict management as a political philosophy
 
 * **Conflict itself is not bad**. It is an expression of the diversity of interests, ideas and points of view. It arises in all human relationships and, like crises, can be excellent opportunities to grow, emerge stronger, learn and improve.
 * When assuming conflicts are negative, people and institutions tend to fear them and adopt one of these two attitudes: 
@@ -156,7 +158,7 @@ So this is sort of like the idea or the general idea.
 * [PeacePower: Johan Galtung's Transcend Approach: Confederation in Iraq and a Middle East Community for Israel/Palestine](http://calpeacepower.org/0201/galtung_transcend.htm)
   > Transcend believes that all conflicts are born equal and have the same right to transformation; no conflict is "higher level" than another. Whether the solution lies in a shared national park or the creation of a community of six states, this philosophy ensures that each conflict is addressed by Transcend in the same, principled, peaceful and creative way. Galtung's visions for the peaceful solution of these current violent Middle Eastern conflicts represent peaceful, realistic and therefore compelling alternatives.     
 
-## Francisco A. Muñoz - Qué son los conflictos
+### Francisco A. Muñoz - Qué son los conflictos
 
 **9. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
 
@@ -167,13 +169,13 @@ So this is sort of like the idea or the general idea.
 ![](https://i.imgur.com/yJ7vknC.png)
 
 
-## John Burton - Conflict Resolution
+### John Burton - Conflict Resolution
 
 **10. [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/download/pdf/51092982.pdf)** 
 
 > Societies remain power-elite dominated. The diversion of resources to provide education and other services on an equitable basis is being increasingly resisted. Funds are being cut. There is a retreat to specialization, and a holistic approach to problems is politically unpopular. But if civilizations are to survive the contemporary trend towards increased crime and violence at all social levels has to be dealt with by means which eliminate it, rather than merely contain it within less privileged regions. Civilizations must, if they are to survive, move from power-elite politics to problem-solving. It is the responsibilities of universities in particular to bring these issues to attention, and to give students in all disciplines the opportunity to question, to explore and to innovate. This new a-disciplinary study, Conflict Resolution, provides an opportunity
 
-## Metamodern Regenaissance
+### Metamodern Regenaissance
 
 (shared, by @durgadas, in chat as related)
 
@@ -202,7 +204,7 @@ So this is sort of like the idea or the general idea.
 > * **Co-Development** — which is a kind of political thinking that works across parties, works to keep ego-issues and emotional investments and biased opinions in check, and seeks to improve the general climate of political discourse: “I develop if you develop. Even if we don’t agree, we come closer to the truth if we create better dialogues and raise the standards for how we treat one another.”
 > * **The Nordic Ideology** — this is my name for the political structure that would support the long-term creation of the listening society and make room for co-development. It is called the Nordic ideology because its early sprouts are cropping up in and around Scandinavia. It includes a vision of six new forms of politics, all of which work together to profoundly recreate society. A large part of this has to do with how to defend citizens from new sources of oppression that can emerge as a side-effect of a “deeper” society. These new forms of oppression are generally of a more subtle and more psychological kind than what we have seen in the 20th century.”
 
-## Questions
+### Questions
 
 1. What is a conflict transformation platform according to J. P. Lederach?
 2. What are the key points of the transcend method as proposed by J. Galtung?
