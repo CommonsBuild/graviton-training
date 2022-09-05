@@ -3,6 +3,7 @@
 * [Gravity Session #4 Season 2 • Marshall Rosenbergs Nonviolent Communication](https://docs.google.com/presentation/d/1FVJQjmhQSHsJJ-OufHdBxpYCVB5PjhLBaoQf_buGJZY)
 * [Session #4: Nonviolent comunication, led by Dan](https://www.youtube.com/watch?v=f9hroSJ2mMw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=4) youtube
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING
 
 - [NVC Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf) (M. Rosenberg)
@@ -14,7 +15,9 @@
 - Exercise [(praise or non-praise examples) 2](https://hackmd.io/hE7kUhrKTT2u4t6hncQZLQ)
 - Continued education and practice: Join thursdays NVC study club
 
-## Marshall Rosenberg’s Nonviolent Communication 
+## Slides
+
+#### Marshall Rosenberg’s Nonviolent Communication 
 #### Gravity Session 4 Season 2
  
  
@@ -73,13 +76,11 @@ Retributive justice judges people as right or wrong, good or bad - if you are ju
 
 Marshall Rosenberg believed that thinking in a binary way, in terms of good/bad, right/wrong, normal/abnormal, appropriate/inappropriate, mentally fit/mentally ill, combined with retributive justice based on punishment and reward, is at the heart of violence on our planet.
 
-### Myth of Redemptive Violence
+### [Myth of Redemptive Violence](https://www2.goshen.edu/~joannab/women/wink99.pdf)
 
 Walter Wink noticed a pattern in the structure of stories where a hero suffers under a bad guy, and must defeat the bad guy to restore order. 
 
 They never reconcile or figure out creative ways to solve their problems, but forever repeat this same pattern.
-
-https://www2.goshen.edu/~joannab/women/wink99.pdf
  
 ### Walter Wink
 

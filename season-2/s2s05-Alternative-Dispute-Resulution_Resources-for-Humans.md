@@ -3,6 +3,7 @@
 * [Session #5: Conflict Revolution, led by Lowie](https://www.youtube.com/watch?v=CdyyLDHcoBQ&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=5) youtube
 * [Loie's 2nd Graviton Lesson](https://docs.google.com/presentation/d/1PTumFqoM81WtrFOBsAHwvM4BP9UkChaqOWAIHYH6v6E/edit#slide=id.p)
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING
 
 - [Restorative justice circles 1](https://oscr.umich.edu/article/restorative-justice-circles)
@@ -33,3 +34,4 @@ Restorative Justice Theory: Dispute resolution can be fully decentralized, and w
 
 - A conflict res survey (tbd)
 
+## Presentatoin

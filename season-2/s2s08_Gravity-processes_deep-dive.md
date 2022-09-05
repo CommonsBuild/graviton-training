@@ -4,6 +4,7 @@ https://docs.google.com/presentation/d/1jW2zJhU33HpI8WGvMp33VG-OLo6Bn2_ime6TmAD3
 
 * [Session #8: BATNA, Negotiations & Alternative Dispute Resolution, led by Juan](https://www.youtube.com/watch?v=s-S-Vgt5X_I&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=8) youtube
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING
 
 - William Ury, [Getting to yes in challenging times](https://www.youtube.com/watch?v=-2lcXp-MiVQ&t=749s).

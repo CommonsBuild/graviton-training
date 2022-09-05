@@ -2,6 +2,7 @@
 
 * [Session #1: Contextualization, led by Durgadas](https://www.youtube.com/watch?v=D7rq_QZ3D0U&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=1) youtube
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING:
 
 - [Integral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)

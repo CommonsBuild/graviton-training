@@ -4,6 +4,7 @@
 
 Ostrom on another perspective - how can we express our full selfs and bring them to the organizations we are part of, shifting work into passion. Decisions are a reflection of your psychological state. Agency in collaborative environments.
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING:
 
 - [Governing the commons 1](https://wtf.tw/ref/ostrom_1990.pdf) - E. Ostrom
@@ -19,11 +20,7 @@ Ostrom on another perspective - how can we express our full selfs and bring them
     
     ![https://forum.tecommons.org/images/emoji/win10/telescope.png?v=10](https://forum.tecommons.org/images/emoji/win10/telescope.png?v=10)
     
-[Graviton training Ostrom's principles](https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/)
-
-
-https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/
-
+## Slides - [Graviton training Ostrom's principles](https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/)
 
 ## Relational Insights to Govern the Commons 
 

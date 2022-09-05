@@ -3,6 +3,7 @@
 * [Session #3: Organization design, led Anna Marie & Nate](https://www.youtube.com/watch?v=RJHPStgQoIw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=3) - youtube
 * [Gravity Session 3: Organizational Design and Creating Pathways for All](https://docs.google.com/presentation/d/1AniRrctVNqnDgib5h1EFA3-vXvh0EkaeCV1MA0eLZj0) - Presentation
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING
 
 - [Full circle leadership 5](https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248)

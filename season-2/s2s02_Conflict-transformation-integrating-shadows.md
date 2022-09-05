@@ -3,7 +3,8 @@
 * [Session #2: Conflict transformation as a political philosophy, led by Juan](https://www.youtube.com/watch?v=s-5FHo-bPtI&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=2) youtube
 * [Second Graviton Training](https://docs.google.com/presentation/d/1jW2zJhU33HpI8WGvMp33VG-OLo6Bn2_ime6TmAD3x8U/edit#slide=id.p)
 
-## PRE-LEARNING
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
+### PRE-LEARNING
 
 - [The Window of tolerance](https://worthit2bme.com/fightflightimmobolize/therapeutic-window-of-tolerance/)
 - [Little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf) (Lederach)
@@ -21,17 +22,13 @@
 - [Fill the gravity survey: 5](https://the-commons-stack.typeform.com/to/reUmcsJ6)
 - Gravity’s [first blog post 2](https://medium.com/token-engineering-commons/why-is-gravity-relevant-in-token-engineering-e28ae4a5b5a1) and [second blog post 24](https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d)
 
-## Second Graviton Training
-
-https://docs.google.com/presentation/d/1jW2zJhU33HpI8WGvMp33VG-OLo6Bn2_ime6TmAD3x8U/edit#slide=id.p
+## Slides
+### [Season 2 Session 2 - Conflict Competence in the DAOspace](https://docs.google.com/presentation/d/1jW2zJhU33HpI8WGvMp33VG-OLo6Bn2_ime6TmAD3x8U/edit#slide=id.p)
+### [Educational support for all, and coaching for induviduals as needed](https://docs.google.com/presentation/d/1jW2zJhU33HpI8WGvMp33VG-OLo6Bn2_ime6TmAD3x8U/edit#slide=id.p)
 
 ![](https://i.imgur.com/ke68U0n.png)
 
-
-### Conflict Competence in the DAOspace
-#### Educational support for all, and coaching for induviduals as needed
-
-This character of personal deevlopment expectation for the workplace is quite a tall order. On a practical level, personnel require two types of developmental support: firstly, training for everyone in conflict competence, and secondly, individual coaching where it is warranted.
+This character of personal development expectation for the workplace is quite a tall order. On a practical level, personnel require two types of developmental support: firstly, training for everyone in conflict competence, and secondly, individual coaching where it is warranted.
 
 #### Dispute Resolution Services
 

@@ -2,6 +2,7 @@
 
 * [Session #6: Decolonization of the mind, led by Durgadas](https://www.youtube.com/watch?v=qqktzC-Wrv0&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=6) youtube
 
+## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 ### PRE-LEARNING
 
 - [How not to manage complexity](https://www.youtube.com/watch?v=gaFQJaQTXhY)
