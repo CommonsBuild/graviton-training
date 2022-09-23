@@ -1,5 +1,8 @@
 # Season 2 - Session 6
 
+* [Session #6: Decolonization of the mind, led by Durgadas](https://www.youtube.com/watch?v=qqktzC-Wrv0&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=6) youtube
+* [I AM THE PROBLEM](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc/edit#slide=id.gfb34f9771a_2_77)
+
 ## Transcription
 
 (00:00:03)    
