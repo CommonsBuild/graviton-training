@@ -1,6 +1,19 @@
-# Graviton Training - Season 1 - Conflict Management Study Companion 
+# Graviton Training - Season 1 - Conflict Management Study Companinion 
 
 ![](https://i.imgur.com/ykGFt7J.jpeg)
+
+## Directory
+
+- [s1e1  Nonviolent Communication & Spiral dynamics](s1e1_Nonviolent-Communication+Spiral-dynamics.md)
+  - [s1e1b I AM THE PROBLEM Responsibility & Freedom in a Post Colonized World with Durgadas](s1e1b_I-AM-THE-PROBLEM_Responsibility+Freedom-Post-Colonized-World_Durgadas_2021-01-13.md)
+- [s1e2 Theories of conflict Antifragility & Conflict Management](s1e2_Theories-of-conflict_Antifragility+Conflict-Management.md)
+- [s1e3 BATNA Negotiations & Alternative Dispute Resolution](s1e3_BATNA-Negotiations-Alternative-Dispute-Resolution.md)
+- [s1e4 Negotiation Role Play](s1e4_Negotiation-Role-Play.md)
+- [s1e5 Soft Governance & Culture - Ostroms principles](s1e5_Soft-Governance+Culture_Ostroms-principles.md)
+- [s1e6 Gravitons in Community Management, Conduct & Requirements](s1e6_Gravitons-in-Community-Management_Conduct+Requirements.md)
+  - [s1e6 notes](s1e6-notes.md)
+- [s1e7 Gravity-process-deep-dive](s1e7_Gravity-process-deep-dive.md)
+- [s1e8 Practice case (group conflicts)](s1e8-transcript.md)
 
 ## First Graviton Training: Course Outline
 
