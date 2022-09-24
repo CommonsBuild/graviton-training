@@ -1,13 +1,43 @@
-# Season 2 - Session 4
+# Session 4 - Nonviolent Communication - David Danforth
 
-* [Gravity Session #4 Season 2 • Marshall Rosenbergs Nonviolent Communication](https://docs.google.com/presentation/d/1FVJQjmhQSHsJJ-OufHdBxpYCVB5PjhLBaoQf_buGJZY)
-* [Session #4: Nonviolent comunication, led by Dan](https://www.youtube.com/watch?v=f9hroSJ2mMw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=4) youtube
-
-## Transcription
+* [Presentation](https://docs.google.com/presentation/d/1FVJQjmhQSHsJJ-OufHdBxpYCVB5PjhLBaoQf_buGJZY)
+* [Youtube](https://www.youtube.com/watch?v=f9hroSJ2mMw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=4) youtube
+* [Forum Post](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 
 ![](https://i.imgur.com/WOSsjrA.png)
 
-### Introduction
+## Contents
+- [Notes](#notes)
+  - [PRE-LEARNING](#pre-learning)
+  - [WORKSHOP](#workshop)
+- [Transcription](#transcription)
+  - [Origin](#origin)
+    - [Marshall Rosenberg](#marshall-rosenberg)
+    - [Myth of Redemptive Violence](#myth-of-redemptive-violence)
+    - [Walter Wink](#walter-wink)
+  - [Process](#process)
+      - [OFNR](#ofnr)
+      - [Observation](#observation)
+      - [Feelings](#feelings)
+      - [Feelings when Needs are Met](#feelings-when-needs-are-met)
+      - [Feelings when Needs are Not Met](#feelings-when-needs-are-not-met)
+      - [(We all share the same universal) Needs](#we-all-share-the-same-universal-needs)
+      - [Requests](#requests)
+  - [thoughts, questions.](#thoughts-questions)
+
+## Notes
+### PRE-LEARNING
+
+- [NVC Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf) (M. Rosenberg)
+- [Say what you mean 2](https://www.youtube.com/watch?v=GpZMcFzO4eo), mindful approach to NVC: Oren J. Sofer
+
+### WORKSHOP
+
+- [Dishing praise with NVC model 2](https://docs.google.com/presentation/d/1rDKlZ7BGbsNxgspIJImmtP9t5aUCRW5hTZ-tl2W1ej8/edit#slide=id.gdf723d17d0_0_4)
+- Exercise [(praise or non-praise examples) 2](https://hackmd.io/hE7kUhrKTT2u4t6hncQZLQ)
+- Continued education and practice: Join thursdays NVC study club
+
+## Transcription
 
 (00:01:57)    
 **ddan**:    I'm not an expert in the practice of nonviolent communication but I've seen how becoming more fluent in these teachings will help me to meet my need to connect with the people in my life, more compassionately. 

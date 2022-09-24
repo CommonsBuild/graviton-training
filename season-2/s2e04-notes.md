@@ -1,26 +1,13 @@
-# Session 4 - Nonviolent Communication - David Danforth
+# Season 2 - Session 4
 
 * [Gravity Session #4 Season 2 • Marshall Rosenbergs Nonviolent Communication](https://docs.google.com/presentation/d/1FVJQjmhQSHsJJ-OufHdBxpYCVB5PjhLBaoQf_buGJZY)
 * [Session #4: Nonviolent comunication, led by Dan](https://www.youtube.com/watch?v=f9hroSJ2mMw&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=4) youtube
-
-## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
-### PRE-LEARNING
-
-- [NVC Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf) (M. Rosenberg)
-- [Say what you mean 2](https://www.youtube.com/watch?v=GpZMcFzO4eo), mindful approach to NVC: Oren J. Sofer
-
-### WORKSHOP
-
-- [Dishing praise with NVC model 2](https://docs.google.com/presentation/d/1rDKlZ7BGbsNxgspIJImmtP9t5aUCRW5hTZ-tl2W1ej8/edit#slide=id.gdf723d17d0_0_4)
-- Exercise [(praise or non-praise examples) 2](https://hackmd.io/hE7kUhrKTT2u4t6hncQZLQ)
-- Continued education and practice: Join thursdays NVC study club
 
 ## Slides
 
 #### Marshall Rosenberg’s Nonviolent Communication 
 #### Gravity Session 4 Season 2
- 
- 
+  
 ### TLDR
 This presentation includes selected quotations and ideas from [Marshall Rosenberg’s Nonviolent Communication Training Workshop](https://www.youtube.com/watch?v=GZnXBnz2kwk&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3) with some help from [cognitivetech/Marshall-Rosenberg-NVC](https://github.com/cognitivetech/Marshall-Rosenberg-NVC)
 See also: this [online course from Sounds True, that includes and is based-upon the same workshop recordings](https://nonviolent-communication-sfm.soundstrue.com/?sq=1).
@@ -358,4 +345,3 @@ We want to restore the situation by replacing the education that led to this beh
 There is nothing more fulfilling for people than when they exercise their power to enrich life and then receive confirmation that they have. 
 
 This allows them to experience how their efforts have benefited others.
-

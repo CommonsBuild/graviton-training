@@ -1,9 +1,72 @@
-# Season 2 - Session 5
+# Session 5 - Alternative Dispute Resolution - Human resources in DAOs (not humans as resources, but resources for humans) - Lorelei Loie
 
-* [Session #5: Conflict Revolution, led by Lowie](https://www.youtube.com/watch?v=CdyyLDHcoBQ&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=5) youtube
-* [Loie's 2nd Graviton Lesson](https://docs.google.com/presentation/d/1PTumFqoM81WtrFOBsAHwvM4BP9UkChaqOWAIHYH6v6E/edit#slide=id.p)
+* [Video](https://www.youtube.com/watch?v=CdyyLDHcoBQ&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=5) youtube
+* [Presentation](https://docs.google.com/presentation/d/1PTumFqoM81WtrFOBsAHwvM4BP9UkChaqOWAIHYH6v6E/edit#slide=id.p)
+* [Forum Post](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 
 ![](https://i.imgur.com/0qieHT2.png)
+
+## Contents
+- [Notes](#notes)
+- [Transcription](#transcription)
+  - [Conflict revolution.](#conflict-revolution)
+  - [Acknowledgement - Many have come before us.](#acknowledgement---many-have-come-before-us)
+  - [Navajo Peacemaking](#navajo-peacemaking)
+  - [Accountability](#accountability)
+  - [Dominic Barter](#dominic-barter)
+  - [Check In](#check-in)
+  - [Restorative Justice Theory](#restorative-justice-theory)
+  - [Who knows the most about how a conflict should be resolved?](#who-knows-the-most-about-how-a-conflict-should-be-resolved)
+    - [The folks involved closely in it](#the-folks-involved-closely-in-it)
+  - [How are people most likely to follow an action plan/restitution/sentencing?](#how-are-people-most-likely-to-follow-an-action-planrestitutionsentencing)
+    - [If they are a part of creating it](#if-they-are-a-part-of-creating-it)
+  - [Quick Question](#quick-question)
+  - [Why is it important to resolve conflicts?](#why-is-it-important-to-resolve-conflicts)
+    - [To cure the illness that led to the conflict (a symptom)](#to-cure-the-illness-that-led-to-the-conflict-a-symptom)
+    - [Brainstorm: what types of conflict resolution can you think of?](#brainstorm-what-types-of-conflict-resolution-can-you-think-of)
+  - [Breakout rooms](#breakout-rooms)
+  - [Why doesn't centralization work?](#why-doesnt-centralization-work)
+  - [Practical Implementation](#practical-implementation)
+  - [How to set up a conflict res process in your org](#how-to-set-up-a-conflict-res-process-in-your-org)
+    - [Selecting a method](#selecting-a-method)
+    - [Selecting Facilitators](#selecting-facilitators)
+    - [Team agreement to use the method](#team-agreement-to-use-the-method)
+    - [Time resolving conflict is paid time](#time-resolving-conflict-is-paid-time)
+    - [Company culture: Celebrate conflict!](#company-culture-celebrate-conflict)
+  - [Conflict Resolution in Practice](#conflict-resolution-in-practice)
+    - [The Kwanlin Dun Community Justice Project is a community-based program in the Yukon that facilitates offenders and victims through the process of circle sentencing. The process involves seven steps:](#the-kwanlin-dun-community-justice-project-is-a-community-based-program-in-the-yukon-that-facilitates-offenders-and-victims-through-the-process-of-circle-sentencing-the-process-involves-seven-steps)
+  - [Questions](#questions)
+
+## Notes
+### PRE-LEARNING
+
+- [Restorative justice circles 1](https://oscr.umich.edu/article/restorative-justice-circles)
+- [Accountability by For The People organizing collective 1](https://forthepeople.earth/accountability/)
+- [Dominic Barter on why to have conflicts](https://www.youtube.com/watch?v=xhi8sxCPkvo&ab_channel=NonviolentCommunicationNVC)
+
+### PRESENTATION / WORKSHOP
+
+Intro: Acknowledgement of our teachers & the legacy of circle-based justice built by millenia of pre-colonial cultures
+
+Restorative Justice Theory: Dispute resolution can be fully decentralized, and what does fully decentralized mean
+
+- Are you in an org currently? Do you have a stated conflict process? Would you know what to do if a team conflict arose?
+- Brainstorm what types of conflict resolution can you think of? Is there a centralized party in each of these?
+- Why doesn’t centralization work? (Review current justice systems)
+- Go over quotes from FTP and D. Barter
+
+### Practical Implementation: How to set up a conflict res process in your org
+
+- Selecting a method
+- Facilitators
+- Training for Facilitators
+- Team agreement to use the method
+- Time resolving conflict is paid time
+- Company culture: Celebrate conflict!
+
+### HOMEWORK
+
+- A conflict res survey (tbd)
 
 ## Transcription
 

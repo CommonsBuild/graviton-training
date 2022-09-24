@@ -1,10 +1,40 @@
-# Season 2 - Session 1 - Gravity brings us together
-
-
-* [Session #1: Contextualization, led by Durgadas](https://www.youtube.com/watch?v=D7rq_QZ3D0U&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=1) youtube
-* [GRAVITON TRAINING #2 GRAVITY BRINGS US TOGETHER!](https://docs.google.com/presentation/d/1LsOtqG3UopuEstzCy5y8k5F23Y5t5pmevT4XQsfVuqM/edit#slide=id.gf230a4e74b_2_130) Presentation
+# Contextualization, unified thinking. We become what we practice, DDOs - Regis Chapman
 
 ![](https://i.imgur.com/aTBNZdm.png)
+
+**Session**
+* [Presentation](https://docs.google.com/presentation/d/1LsOtqG3UopuEstzCy5y8k5F23Y5t5pmevT4XQsfVuqM/edit#slide=id.gf230a4e74b_2_130) 
+* [Video](https://www.youtube.com/watch?v=D7rq_QZ3D0U&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=1) youtube
+
+**Season**
+* [Forum Post](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
+
+## Contents
+- [Notes](#notes)
+  - [PRE-LEARNING:](#pre-learning)
+  - [PRESENTATION:](#presentation)
+  - [HOMEWORK:](#homework)
+- [Transcription](#transcription)
+  - [GRAVITON TOOLS: POLARITY MAPS](#graviton-tools-polarity-maps)
+  - [Anything you'd like to add, Juan?](#anything-youd-like-to-add-juan)
+  - [Any other questions at this time?](#any-other-questions-at-this-time)
+
+## Notes
+### PRE-LEARNING:
+
+- [Integral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)
+- [Polarity wisdom](https://www.youtube.com/watch?v=842Kw5RSPug)
+- [My stroke of insight](https://www.youtube.com/watch?v=UyyjU8fzEYU&feature=emb_logo) - Jill Bolte Taylor
+- [Deliberately developmental organizations (DDO)](https://orghacking.files.wordpress.com/2016/06/thedeliberatelydevelopmentalorganization.pdf)
+
+### PRESENTATION:
+
+- Background information - Unified and divided (high level) 4 graphics
+
+### HOMEWORK:
+
+- [Building trust and resolving conflict25](http://textbooks.whatcom.edu/healthprofessionalism/chapter/building-trust-and-resolving-conflict/)POAP password:
+
 
 ## Transcription
 
