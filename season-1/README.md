@@ -4,7 +4,7 @@
 
 ## Directory
 
-- [s1e1  Nonviolent Communication & Spiral dynamics](s1e1_Nonviolent-Communication+Spiral-dynamics.md)
+- [s1e1 Nonviolent Communication & Spiral Dynamics](s1e1_Nonviolent-Communication+Spiral-dynamics.md)
   - [s1e1b I AM THE PROBLEM Responsibility & Freedom in a Post Colonized World with Durgadas](s1e1b_I-AM-THE-PROBLEM_Responsibility+Freedom-Post-Colonized-World_Durgadas_2021-01-13.md)
 - [s1e2 Theories of conflict Antifragility & Conflict Management](s1e2_Theories-of-conflict_Antifragility+Conflict-Management.md)
 - [s1e3 BATNA Negotiations & Alternative Dispute Resolution](s1e3_BATNA-Negotiations-Alternative-Dispute-Resolution.md)
