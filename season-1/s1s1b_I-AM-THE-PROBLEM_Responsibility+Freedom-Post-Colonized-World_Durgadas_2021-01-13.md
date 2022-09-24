@@ -1,5 +1,27 @@
 # I AM THE PROBLEM Responsibility and Freedom in a Post-Colonized World - Durgadas 2021-01-13
 
+## Notes
+
+**THE LEGACY OF NARCISSISM**
+
+**ASSERTION:** COLONIZATION IS A WORLDWIDE FINANCIAL & GOVERNANCE-LEVEL EXPRESSION OF NARCISSISTIC ABUSE
+
+One can see this as the following approaches to recovery from Narcissistic Abuse are identical in approach, different in context:
+
+- A person escaping an abusive partner (intimate relationships)
+- A person recovering from being raised by a narcissist (family relationships)
+- A person recovering from being indoctrinated by education facilities, [colleges](https://www.theguardian.com/news/2021/jan/14/rhodes-must-fall-oxford-colonialism-zimbabwe-simukai-chigudu) and other “public” instruction.
+- Social justice movements- ([who are protesting the horrific, genocidal and normalized colonized cultural violence](https://www.economist.com/open-future/2018/08/09/black-lives-matter-is-not-a-terrorist-organisation) of our working people, everywhere; and are [thus labeled “terrorists”](https://fee.org/articles/thomas-sowell-social-justice-philosophy-is-a-blank-check-for-government-power/)) to the [now-pervasive perjorative SJW term.](https://fee.org/articles/thomas-sowell-social-justice-philosophy-is-a-blank-check-for-government-power/) How Social Justice (the idea that “
+[1) things are not right and that 2) the government should make them right. Where right all too often means cosmic justice, trying to set things right means writing a blank check for a never-ending expansion of government power.”](https://fee.org/articles/thomas-sowell-social-justice-philosophy-is-a-blank-check-for-government-power/)) itself has been co-opted to mean “expansion of government power”.
+- Environmentalist movements ([who are protesting the horrific, genocidal and normalized colonized cultural violence of our planet](https://grist.org/article/the-term-eco-terrorist-is-back-and-its-killing-climate-activists/), everywhere and are thus [labeled “terrorists”](https://www.sciencedirect.com/book/9780128014783/environmental-and-animal-rights-extremism-terrorism-and-national-security#book-description))
+- [Animal rights movements](https://www.tandfonline.com/doi/abs/10.1080/17539150903010715?scroll=top&needAccess=true&journalCode=rter20) (who are [protesting the horrific, genocidal and normalized colonized cultural violence](https://www.tandfonline.com/doi/abs/10.1080/17539150903010715?scroll=top&needAccess=true&journalCode=rter20) of animals everywhere and [thus labeled “terrorists”](https://www.tandfonline.com/doi/abs/10.1080/17539150903010715))
+- The MANY countries who have declared Independence Days from England and other European countries ***“World-wide, British Leaving Day is never out of season.” –Walter Russell Mead***
+- **['Colonialism had never really ended': my life in the shadow of Cecil Rhodes](https://www.theguardian.com/news/2021/jan/14/rhodes-must-fall-oxford-colonialism-zimbabwe-simukai-chigudu?utm_source=pocket-newtab)**
+
+    It’s important to note that ALL co-opted institutions from such countries are conscripted to enforce this violent, exclusionary and often genocidal warfare to ensure compliance, and this is a feature of narcissistic abuse at every level of its expression from intimate relationships to the entire world.
+
+    It is easy to see this just by looking at current events.
+
 ## Transcript
 (00:00)    
 **Speaker 0**:    Present now I do see it.  
