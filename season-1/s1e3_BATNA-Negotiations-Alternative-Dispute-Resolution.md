@@ -1,13 +1,13 @@
 # Session 3: BATNA, Negotiations & Alternative Dispute Resolution mechanisms
 
-![](https://i.imgur.com/sQgjQtC.png)
-
 **Session**
 * [Video](https://www.youtube.com/watch?v=Vd00bkV_Y6A) youtube
 
 **Season**
 * [Forum Post](https://forum.tecommons.org/t/first-graviton-training/217)
 * [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_9) Google Slides - Session 3
+
+![](https://i.imgur.com/sQgjQtC.png)
 
 ## Contents
 

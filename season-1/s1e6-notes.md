@@ -4,14 +4,13 @@
 
 > Gravitons participation in Community management -> focus in this last two sessions is to understand that the purpose of gravity (and gravitons) is to bring us together.
 
-![](assets/gravity.gif)
-
 **Session**
 * [Video](https://www.youtube.com/watch?v=qj_XK9zx0Po)
 
 **Season**
 * [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_110)
 
+![](assets/gravity.gif)
 
 ## Contents
 

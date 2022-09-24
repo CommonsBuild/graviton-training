@@ -1,7 +1,5 @@
 # Session 2: Theories of conflict, Antifragility and Conflict Management
 
-![](https://i.imgur.com/iTdjdlp.png)
-
 **Session**
 * [Video](https://www.youtube.com/watch?v=7L78Gnrtkic)
 * [Presentation](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114)
@@ -9,6 +7,8 @@
 **Season**
 * [Forum Post](https://forum.tecommons.org/t/first-graviton-training/217)
 * [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114)
+
+![](https://i.imgur.com/iTdjdlp.png)
 
 ## Contents
 

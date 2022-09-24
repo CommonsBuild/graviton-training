@@ -1,13 +1,13 @@
 # Session 7: Gravity process deep dive (forms, graduated sanctions) (MARCH 4)
 
-![](https://i.imgur.com/EYbyAhk.png)
-
 **Session**
 * [Video](https://www.youtube.com/watch?v=D6oTmDESKbU)
 
 **Season**
 * [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_136)
 * [First Graviton Training Study Plan](https://forum.tecommons.org/t/first-graviton-training/217)
+
+![](https://i.imgur.com/EYbyAhk.png)
 
 ## Notes
 

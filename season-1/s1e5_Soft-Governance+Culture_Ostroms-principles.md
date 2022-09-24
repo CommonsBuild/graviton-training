@@ -1,7 +1,5 @@
 # Session 5: Soft Governance & Culture: Ostrom’s principles for enduring CPR Institutions - Liviade
 
-![](https://i.imgur.com/zF1aO1k.png)
-
 **Session**
 - [Video](https://www.youtube.com/watch?v=BA97eWuv7lc)
 - [Ostroms Principles](https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/)
@@ -10,6 +8,8 @@
 **Season**
 - [Forum Post](https://forum.tecommons.org/t/first-graviton-training/217)
 - [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/)
+
+![](https://i.imgur.com/zF1aO1k.png)
 
 ## Contents
 
