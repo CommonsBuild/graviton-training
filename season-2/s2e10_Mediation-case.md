@@ -1,8 +1,7 @@
-# Session 10 - Mediation case - Juan Carlos Bell
+# Session 10 - POAPs, multisig and mediation rolepay - Juan Carlos Bell
 
-## [Season 2 Graviton Training Study Plan - notes](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
-
-* [Session #10: Poaps, multisig and rolepay , led by Juan](https://www.youtube.com/watch?v=brUeK4313G8&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=10) youtube
+* [Forum Post](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
+* [Youtube](https://www.youtube.com/watch?v=brUeK4313G8&list=PLusWL9gf0FIR0H9kyss3Dotwx7Mjr2p_h&index=10) youtube
 
 Binder Kadeer roleplay ([mediation in workplace case](https://drive.google.com/file/d/1pqkJURXKL95PSdVL2Qi_9U2qwO04E7TK/view?usp=sharing))
 
