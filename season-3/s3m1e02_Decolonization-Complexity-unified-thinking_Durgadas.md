@@ -9,6 +9,14 @@
   - [How not to manage complexity 6](https://www.youtube.com/watch?v=gaFQJaQTXhY)
   - [Jungian shadow work 2](https://scottjeffrey.com/shadow-work/)
 
+## Previous Drafts
+- [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
+- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
+  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
+- [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
+- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+
+
 **Gravity Season 3 Module 1 Session 02**
 
 ## Introduction
