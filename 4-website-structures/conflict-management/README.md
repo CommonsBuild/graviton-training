@@ -1,66 +1,42 @@
 # Conflict Management
 
-
 ![](https://i.imgur.com/guO2mKm.png)
 
->  We are preparing with this knowledge of techniques to understand conflict and to overcome and to transform it into something healthy. That is the purpose of gravity. 
-> 
-> The purpose of this training is for you to be able to practice in your everyday life techniques to handle conflict, to communicate mindfully and to make the best of a challenging situation.
-
-* [Dana Caspersen’s 17 principles of conflict resolution Summary](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201501/17-rules-guide-you-through-any-conflict)**
-  > Conflicts trigger our deepest emotions. Just watch two young children battle over the same toy. Filled with sheer rage, they each grab at the toy, and each other, until one of them prevails (or the toy breaks).  Such conflicts set the stage for all of our adult struggles. The words we use may become more sophisticated, but the underlying feelings remain strikingly similar.
-  > 
-  > The key feature of the new Dana Caspersen’s book, [Changing the Conversation: The 17 Principles of Conflict Resolution](https://danacaspersen.com/book/), in my opinion, is its emphasis on these underlying emotions. This graphically-oriented how-to book takes the reader through her 17 principles in a way that allows you to understand each principle, its “anti-principle,” its focus, specific examples, a way to put it into practice, and the choice it presents.  Drawing from examples that range from relationships to office politics to parenting, Caspersen gives you the chance to understand what’s behind life’s everyday conflicts and how best, in turn, to consider handling them.
-
-### Lederach - Conflict Transformation
-
-**1. J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)**
-
-> As a starting point, let us explore the differences between the terms look and see. To look is to draw attention or to pay attention to something. In everyday language we often say, “Would you look over here please!” or “Look at that!” In other words, looking requires lenses that draw attention and help us become aware. To see, on the other hand, is to look beyond and deeper. Seeing seeks insight and understanding. In everyday language we say, “Do you see what I mean?” Understanding is the process of creating meaning. Meaning requires that we bring something into sharper focus.
-> 
-> **Conflict transformation is a way of looking as well as seeing.**
-> 
-> Conflict transformation is more than a set of specific techniques; it is a way of looking as well as seeing. Looking and seeing both require lenses. So conflict transformation suggests a set of lenses through which we view social conflict.
-
-#### Transformative approach to conflicts
-* Conflict is an opportunity, a gift. Conflict is normal in human relationships, and conflict is a motor of change.
-* Rather than seeing peace as a static “end-state, ” conflict transformation views peace as a continuously evolving and developing quality of relationship.
-* Conflict transformation is to envision and respond to the ebb and flow of social conflict as life-giving opportunities for creating constructive change processes that reduce violence, increase justice in direct interaction and social structures, and respond to real-life problems in human relationships.
-* Transformation’s guiding question is this: How do we end something not desired and build something we do desire?
-
-![](assets/Embrace.gif)
-
-**2. Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese**
-
-> *what are useful lenses* that bring varying aspects of conflict complexity into focus and at the same time create a picture of the whole? *This essay will suggest three*.
-> 
-> **First**, we need a lens to see the immediate situation.
-> **Second**, we need a lens to see past the immediate problems and view the deeper relationship patterns that form the context of the conflict. This goes beyond finding a quick solution to the problem at hand, and seeks to address what is happening in human relationships at a deeper level.
-> **Third**, we need a lens that helps us envision a framework that holds these together and creates a platform to address the content, the context, and the structure of the relationship. From this platform, parties can begin to find creative responses and solutions. 
-
-**3. (Español) [Resumen del libro de Lederach](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)** 
-
-> [Objetivos del cambio en la transformación del conflicto](https://translate.google.com/?sl=auto&tl=en&text=Objetivos%20del%20cambio%20en%20la%20transformaci%C3%B3n%20del%20conflicto%0A%0APersonal%0A%0A-%20Minimizar%20los%20efectos%20destructivos%20del%20conflicto%20social%20y%20maximizar%20el%20potencial%20de%20crecimiento%20y%20bienestar%20de%20las%20personas%20como%20seres%20humanos%20individuales%20en%20el%20terreno%20f%C3%ADsico%2C%20emocional%2C%20intelectual%20y%20espiritual.%20%0A%0ARelacional%0A%0A-%20Minimizar%20la%20comunicaci%C3%B3n%20que%20funciona%20de%20forma%20pobre%20y%20maximizar%20la%20comprensi%C3%B3n.%0A-%20Sacar%20a%20la%20luz%20los%20miedos%20y%20esperanzas%20relacionadas%20con%20las%20emociones%20y%20la%20interdependencia%20de%20las%20relaciones%20y%20trabajarlas.%0A%0AEstructural%0A%0A-%20Entender%20y%20afrontar%20las%20ra%C3%ADces%20de%20las%20causa%20y%20las%20condiciones%20sociales%20que%20provoquen%20la%20aparici%C3%B3n%20de%20expresiones%20violentas%20y%20nocivas%20del%20conflicto.%0A-%20Promueve%20mecanismos%20no-violentos%20que%20reduzcan%20la%20confrontaci%C3%B3n%20y%20que%20minimicen%20y%20en%20%C3%BAltima%20instancia%20eliminen%20la%20violencia.%0A-%20Promover%20el%20desarrollo%20de%20estructuras%20para%20satisfacer%20las%20necesidades%20humanas%20b%C3%A1sicas%20(justicia%20substantiva)%20y%20para%20maximizar%20la%20participaci%C3%B3n%20de%20la%20gente%20en%20las%20decisiones%20que%20afectan%20sus%20vidas%20(justicia%20procesal).%0A%0ACultural%0A%0A-%20Identificar%20y%20entender%20los%20patrones%20culturales%20que%20contribuyen%20a%20la%20aparici%C3%B3n%20de%20las%20expresiones%20violentas%20del%20conflicto.%0A-%20Identificar%20y%20construir%20recursos%20y%20mecanismos%20dentro%20de%20un%20escenario%20cultural%20para%20responder%20constructivamente%20al%20conflicto%20y%20gestionarlo.&op=translate)
-> ##### Personal
->   - Minimizar los efectos destructivos del conflicto social y maximizar el potencial de crecimiento y bienestar de las personas como seres humanos individuales en el terreno físico, emocional, intelectual y espiritual.
-> ##### Relacional
->   - Minimizar la comunicación que funciona de forma pobre y maximizar la comprensión.
->   - Sacar a la luz los miedos y esperanzas relacionadas con las emociones y la interdependencia de las relaciones y trabajarlas.
-> ##### Estructural
->   - Entender y afrontar las raíces de las causa y las condiciones sociales que provoquen la aparición de expresiones violentas y nocivas del conflicto.
->   - Promueve mecanismos no-violentos que reduzcan la confrontación y que minimicen y en última instancia eliminen la violencia.
->   - Promover el desarrollo de estructuras para satisfacer las necesidades humanas básicas (justicia substantiva) y para maximizar la participación de la gente en las decisiones que afectan sus vidas (justicia procesal).
-> ##### Cultural
->   - Identificar y entender los patrones culturales que contribuyen a la aparición de las expresiones violentas del conflicto.
->   - Identificar y construir recursos y mecanismos dentro de un escenario cultural para responder constructivamente al conflicto y gestionarlo.
-
-#### J.P. Lederach. Conflict Transformational platform
-
-![](https://i.imgur.com/ko6C6PF.png)
-
-#### Framework for conflict analysis
-
-![](https://i.imgur.com/FoMdGt1.png)
+## Contents
+- [Steps for Alternative Dispute Resolution](#steps-for-alternative-dispute-resolution)
+- [THE 4 P’s - FRAMEWORK FOR CONFLICT ANALYSIS](#the-4-ps---framework-for-conflict-analysis)
+  - [The 4 Ps key factors](#the-4-ps-key-factors)
+  - [Gravity Mediation Process](#gravity-mediation-process)
+  - [GUIDING QUESTIONS](#guiding-questions)
+  - [GRAVITY FORMS](#gravity-forms)
+  - [MAPPING OBSERVATION PROCESS BATNA](#mapping-observation-process-batna)
+  - [KEEPING A REGISTRY FOR TRANSPARENCY AND ACCOUNTABILITY](#keeping-a-registry-for-transparency-and-accountability)
+  - [Designing an agreement](#designing-an-agreement)
+  - [OFNR + 4 Ps](#ofnr--4-ps)
+- [Conflict Transformation](#conflict-transformation)
+  - [Theories of Conflict, Antifragility and Conflict management](#theories-of-conflict-antifragility-and-conflict-management)
+  - [Conflict Transformation Platform](#conflict-transformation-platform)
+- [Assorted](#assorted)
+- [Steps Typically Used by a Private ADR Center](#steps-typically-used-by-a-private-adr-center)
+  - [Identify bright lines for formal legal process (including mediation/appeal)](#identify-bright-lines-for-formal-legal-process-including-mediationappeal)
+- [Scalability of disputes](#scalability-of-disputes)
+  - [Johan Galtung (Father of Peace Studies)](#johan-galtung-father-of-peace-studies)
+    - [Collecting information from world religions ( Galtung’s Transcend Method )](#collecting-information-from-world-religions--galtungs-transcend-method-)
+    - [Conflict management as a political philosophy](#conflict-management-as-a-political-philosophy)
+  - [Francisco A. Muñoz - Qué son los conflictos](#francisco-a-muñoz---qué-son-los-conflictos)
+  - [John Burton - Conflict Resolution](#john-burton---conflict-resolution)
+  - [The Dialectic Cycle](#the-dialectic-cycle)
+  - [Lederach - Conflict Transformation](#lederach---conflict-transformation)
+  - [Transformative approach to conflicts](#transformative-approach-to-conflicts)
+  - [J.P. Lederach. Conflict Transformational platform](#jp-lederach-conflict-transformational-platform)
+  - [Framework for conflict analysis](#framework-for-conflict-analysis)
+  - [J.P. Lederach. Conflict Transformational platform](#jp-lederach-conflict-transformational-platform-1)
+    - [Conflict management as a political philosophy](#conflict-management-as-a-political-philosophy-1)
+- [Conflict experiences](#conflict-experiences)
+  - [Trusting the process](#trusting-the-process)
+  - [Avoiding conflict is avoiding evolution](#avoiding-conflict-is-avoiding-evolution)
+- [Resources](#resources)
+- [references](#references)
 
 ## Steps for Alternative Dispute Resolution
 
@@ -110,7 +86,7 @@ The 4 Ps are an iteration of the PPP model [https://www.law.ox.ac.uk/business-la
 | | Short term responses | immediate actions with a direct impact on solving the dispute |
 | | Long term transformative actions | Strategies that can help to prevent conflict and build trust | 
 
-## Gravity Mediation Process
+### Gravity Mediation Process
 
 <img src="images/8_gravity-mediation-guide.png" width=75% height=75% align="left">
 
@@ -119,7 +95,7 @@ The 4 Ps are an iteration of the PPP model [https://www.law.ox.ac.uk/business-la
 - We make caucuses (private meetings) with all the parties involved to identify common ground and prepare a joint conversation
 - The post mediation process can be outlined in settlement agreements, but also gains legitimacy from follow up and implementation 
 
-## GUIDING QUESTIONS 
+### GUIDING QUESTIONS 
 
 Not talking about the past
 Not pointing out individual responsibilities, avoid focusing on names
@@ -138,7 +114,7 @@ It's not necessary to make all the questions at once, when people start opening,
 - What can we learn from this?
 - How can we apply these learnings?
 
-## GRAVITY FORMS 
+### GRAVITY FORMS 
 (FREE TO USE - JUST FORK THEM)
 
 **First approach**: Hello XXXX How are you? my name is XXXX and Im a facilitator of conflict management in DAOs. Thank you for your input to the Gravity typeform. I'm reaching out with the intention of supporting meaningful communication processes, and building common ground for possible agreements that meet the needs of the parts involved. Would you be interested in having a meeting to talk on the issue? 
@@ -147,14 +123,14 @@ It's not necessary to make all the questions at once, when people start opening,
 - [Mediation form](https://docs.google.com/document/d/1RgL9QANBhq6KqtETCYEEEsFSJvHUw0K5VD58qWPUBTk/edit)
 - [Venn Diagram (OFNR + 4Ps)](https://docs.google.com/presentation/d/1vZsWR6mO8aFRvpjuILmfVYlQXRVg_SxTvuvErjtinCg/edit?usp=sharing)
 
-## MAPPING OBSERVATION PROCESS BATNA
+### MAPPING OBSERVATION PROCESS BATNA
 
 ![](images/9_batna.png)
 
-## KEEPING A REGISTRY FOR TRANSPARENCY AND ACCOUNTABILITY
+### KEEPING A REGISTRY FOR TRANSPARENCY AND ACCOUNTABILITY
 We use [Dework](https://app.dework.xyz/gravity-dao/trust-creation-trai), integrated with zenhub and Discord
 
-## Designing an agreement
+### Designing an agreement
 
 Google docs are ok, but we are soon moving to Unbreakable vows
 
@@ -162,19 +138,47 @@ https://unbreakable-vows.on.fleek.co/#/create
 
 ![](images/11_unbreakable-vows.png)
 
-## Conflict Transformation Platform
-
-![](images/12_conflict-transformation-platform.png)
-
-## OFNR + 4 Ps
+### OFNR + 4 Ps
 
 ![](images/13_ONFR-4Ps.png)
 
+## Conflict Transformation
+- [Little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf) (Lederach)
+- [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
+- [Conflict Transformation by Peaceful Means](https://www.issuelab.org/resources/19719/19719.pdf)
+- [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
+- [Comentando el libro “Transformación de Conflictos” Pequeño manual de uso de John Paul Lederach.](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)
+
+### Theories of Conflict, Antifragility and Conflict management
+**1. J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)**
+**2. Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese**
+**3. (Español) [Resumen del libro de Lederach](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)** 
+**4. Taleb, [Antifragile. Things that gain from disorder](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)**
+**5. (Video) [Antifragile](https://www.youtube.com/watch?v=S3REdLZ8Xis)**
+**6. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
+**7. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
+**8. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
+**9. [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/DAOnload/pdf/51092982.pdf)** 
+
+### Conflict Transformation Platform
+
+![](images/12_conflict-transformation-platform.png)
+
+## Assorted
+
+>  We are preparing with this knowledge of techniques to understand conflict and to overcome and to transform it into something healthy. That is the purpose of gravity. 
+> 
+> The purpose of this training is for you to be able to practice in your everyday life techniques to handle conflict, to communicate mindfully and to make the best of a challenging situation.
+
+* [Dana Caspersen’s 17 principles of conflict resolution Summary](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201501/17-rules-guide-you-through-any-conflict)**
+  > Conflicts trigger our deepest emotions. Just watch two young children battle over the same toy. Filled with sheer rage, they each grab at the toy, and each other, until one of them prevails (or the toy breaks).  Such conflicts set the stage for all of our adult struggles. The words we use may become more sophisticated, but the underlying feelings remain strikingly similar.
+  > 
+  > The key feature of the new Dana Caspersen’s book, [Changing the Conversation: The 17 Principles of Conflict Resolution](https://danacaspersen.com/book/), in my opinion, is its emphasis on these underlying emotions. This graphically-oriented how-to book takes the reader through her 17 principles in a way that allows you to understand each principle, its “anti-principle,” its focus, specific examples, a way to put it into practice, and the choice it presents.  Drawing from examples that range from relationships to office politics to parenting, Caspersen gives you the chance to understand what’s behind life’s everyday conflicts and how best, in turn, to consider handling them.
 ## Steps Typically Used by a Private ADR Center
 
 ![](https://i.imgur.com/VIgqu4B.png)
 
-## Identify bright lines for formal legal process (including mediation/appeal)
+### Identify bright lines for formal legal process (including mediation/appeal)
 
 * optional/restorative/compulsory community service
 * correct/muting/removal of prior communications on social channels
@@ -207,30 +211,17 @@ Following alternative mechanisms of conflict management, we can propose strategi
 Based on: https://dialnet.unirioja.es/descarga/articulo/4182033.pdf
 
 
-## Trusting the process
-(01:08:18)
-**Durgadas**:    As somebody who has participated in a lot of nonviolent communication practice groups, I've had a lot of situations in which, for example, one of the practice groups that I had, there was just a guy annoying the hell outta me. I just didn't know why. After about eight meetings, I was like, look, man, you're just irritating as hell to me. I don't know why. I had to trust the process to, to have a difficult conversation with that person. and to have the group assist me in figuring out why that was so that I could overcome it. Then he was no longer annoying. This is the power of inclusion. This is the power of using the duality against itself, the power of using the SOIC approach to something, to work against the hiding and the projecting power of the mind.
-
-## Avoiding conflict is avoiding evolution
-(01:09:35)
-**Juan Carlos**:    I want to compliment also on something and that this all connects with what we are going to see next week on the theories of conflict, because conflict is somehow like the expression of an ENT duality. How can we transform an toity that arises between two people into something that can be better for, for the, for both of them.  
-
-(01:10:06)
-**Durgadas**:    that, and that's specifically what this evolution is showing, right? It's actually conflict that creates a person's evolution along the different colors.  
-
-(01:10:17)
-**Juan Carlos**:    So it, it, sometimes we, when we hear the word conflict, we tend to like avoid it. Yeah. Avoiding a conflict is avoiding evolution. Yes. Because is expression of, of different points of view, it's expression of needs that are not met. An approach that we're promoting here is to see is to not go into conflict with everything, but see conflict with compassion, with, as a process that has a lot of knowledge in need. I am also going into this next session, but it's also a dialectic process, a process that comes from a thesis and antithesis, and then it a synthesis that it's like what we are seeing here in this, in these graphs.  
 
 ### Johan Galtung (Father of Peace Studies)
-**7. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
 
-> We recognise that there are some similarities and overlaps between the concepts of conflict and violence as both conflict and violence can cause damage and harm. However, there are also some important differences. One of the most important differences is that while VIOLENCE is always negative and harmful, CONFLICT can sometimes be positive, if we respond to it in a constructive way.
-> 
-> Here is an example of positive outcomes associated with conflict described by children and young people in Asia: Through conflicts we can sometimes learn from our mistakes... conflict can encourage new thinking patterns and positive change.... the conflict response can lead to more justice.
+* [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)
+  > We recognise that there are some similarities and overlaps between the concepts of conflict and violence as both conflict and violence can cause damage and harm. However, there are also some important differences. One of the most important differences is that while VIOLENCE is always negative and harmful, CONFLICT can sometimes be positive, if we respond to it in a constructive way.
+  > 
+  > Here is an example of positive outcomes associated with conflict described by children and young people in Asia: Through conflicts we can sometimes learn from our mistakes... conflict can encourage new thinking patterns and positive change.... the conflict response can lead to more justice.
 
 ![](https://i.imgur.com/00SUwBL.png)
 
-**8. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
+* Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)
 
 #### Collecting information from world religions ( Galtung’s Transcend Method )
 
@@ -255,21 +246,19 @@ Based on: https://dialnet.unirioja.es/descarga/articulo/4182033.pdf
 
 ### Francisco A. Muñoz - Qué son los conflictos
 
-**9. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
-
-> Hay un aspecto inicial que nos gustaría abordar. Si, como hemos visto en el apartado anterior, las personas y los grupos humanos estamos afrontando cotidianamente situaciones de conflictividad, que abordamos en la mayoría de los casos sin apenas esfuerzo y sin ser conscientes de ello, es decir si estamos continuamente regulando conflictos que colaboran a nuestro bienestar, no podemos ahora olvidarnos de ellos, hacer como si no existieran. 
-> 
-> [Una preocupación seria debe ser estudiarlos lo más rigurosamente posible para disponer de mayores recursos para la paz.](https://translate.google.com/?sl=auto&tl=en&text=Hay%20un%20aspecto%20inicial%20que%20nos%20gustar%C3%ADa%20abordar.%20Si%2C%20como%20hemos%20visto%20en%20el%20apartado%20anterior%2C%20las%20personas%20y%20los%20grupos%20humanos%20estamos%20afrontando%20cotidianamente%20situaciones%20de%20conflictividad%2C%20que%20abordamos%20en%20la%20mayor%C3%ADa%20de%20los%20casos%20sin%20apenas%20esfuerzo%20y%20sin%20ser%20conscientes%20de%20ello%2C%20es%20decir%20si%20estamos%20continuamente%20regulando%20conflictos%20que%20colaboran%20a%20nuestro%20bienestar%2C%20no%20podemos%20ahora%20olvidarnos%20de%20ellos%2C%20hacer%20como%20si%20no%20existieran.%20%0A%0AUna%20preocupaci%C3%B3n%20seria%20debe%20ser%20estudiarlos%20lo%20m%C3%A1s%20rigurosamente%20posible%20para%20disponer%20de%20mayores%20recursos%20para%20la%20paz.%0A&op=translate) 
+* (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing) - Francisco A. Muñoz
+  > Hay un aspecto inicial que nos gustaría abordar. Si, como hemos visto en el apartado anterior, las personas y los grupos humanos estamos afrontando cotidianamente situaciones de conflictividad, que abordamos en la mayoría de los casos sin apenas esfuerzo y sin ser conscientes de ello, es decir si estamos continuamente regulando conflictos que colaboran a nuestro bienestar, no podemos ahora olvidarnos de ellos, hacer como si no existieran. 
+  > 
+  > [Una preocupación seria debe ser estudiarlos lo más rigurosamente posible para disponer de mayores recursos para la paz.](https://translate.google.com/?sl=auto&tl=en&text=Hay%20un%20aspecto%20inicial%20que%20nos%20gustar%C3%ADa%20abordar.%20Si%2C%20como%20hemos%20visto%20en%20el%20apartado%20anterior%2C%20las%20personas%20y%20los%20grupos%20humanos%20estamos%20afrontando%20cotidianamente%20situaciones%20de%20conflictividad%2C%20que%20abordamos%20en%20la%20mayor%C3%ADa%20de%20los%20casos%20sin%20apenas%20esfuerzo%20y%20sin%20ser%20conscientes%20de%20ello%2C%20es%20decir%20si%20estamos%20continuamente%20regulando%20conflictos%20que%20colaboran%20a%20nuestro%20bienestar%2C%20no%20podemos%20ahora%20olvidarnos%20de%20ellos%2C%20hacer%20como%20si%20no%20existieran.%20%0A%0AUna%20preocupaci%C3%B3n%20seria%20debe%20ser%20estudiarlos%20lo%20m%C3%A1s%20rigurosamente%20posible%20para%20disponer%20de%20mayores%20recursos%20para%20la%20paz.%0A&op=translate) 
 
 ![](https://i.imgur.com/yJ7vknC.png)
 
 
 ### John Burton - Conflict Resolution
 
-**10. [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/download/pdf/51092982.pdf)** 
-
-> Societies remain power-elite dominated. The diversion of resources to provide education and other services on an equitable basis is being increasingly resisted. Funds are being cut. There is a retreat to specialization, and a holistic approach to problems is politically unpopular. But if civilizations are to survive the contemporary trend towards increased crime and violence at all social levels has to be dealt with by means which eliminate it, rather than merely contain it within less privileged regions. Civilizations must, if they are to survive, move from power-elite politics to problem-solving. It is the responsibilities of universities in particular to bring these issues to attention, and to give students in all disciplines the opportunity to question, to explore and to innovate. This new a-disciplinary study, Conflict Resolution, provides an opportunity
-
+* [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/download/pdf/51092982.pdf)
+  > Societies remain power-elite dominated. The diversion of resources to provide education and other services on an equitable basis is being increasingly resisted. Funds are being cut. There is a retreat to specialization, and a holistic approach to problems is politically unpopular. But if civilizations are to survive the contemporary trend towards increased crime and violence at all social levels has to be dealt with by means which eliminate it, rather than merely contain it within less privileged regions. Civilizations must, if they are to survive, move from power-elite politics to problem-solving. It is the responsibilities of universities in particular to bring these issues to attention, and to give students in all disciplines the opportunity to question, to explore and to innovate. This new a-disciplinary study, Conflict Resolution, provides an opportunity
+  
 Maybe when you had that conflict, it seemed something really big and something that wasn't going to solve. Now, you can see that conflict as a gift, as an opportunity that taught you something as an and as an opportunity for you to grow. 
 
 ### The Dialectic Cycle
@@ -295,6 +284,46 @@ It's like a change of paradigm that we are, that we are still, and even to under
 I think this is something that is amazing. and to live in this moment, because this whole boom of UBIs and this Bo boom of the centralized economies and of dos is something that is also looking to change that the way we distribute the resources in our, in our economy, and also the way how we value humans. 
 
 I feel more valued in this community, in this decentralized community of the TC that I feel in my own country. For me, this is a very good way to avoid some of the, of the, of the conflicts that we have right now with our institutions and with our government.  
+
+
+### Lederach - Conflict Transformation
+
+* J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
+  > As a starting point, let us explore the differences between the terms look and see. To look is to draw attention or to pay attention to something. In everyday language we often say, “Would you look over here please!” or “Look at that!” In other words, looking requires lenses that draw attention and help us become aware. To see, on the other hand, is to look beyond and deeper. Seeing seeks insight and understanding. In everyday language we say, “Do you see what I mean?” Understanding is the process of creating meaning. Meaning requires that we bring something into sharper focus.
+  > 
+  > **Conflict transformation is a way of looking as well as seeing.**
+  > 
+  > Conflict transformation is more than a set of specific techniques; it is a way of looking as well as seeing. Looking and seeing both require lenses. So conflict transformation suggests a set of lenses through which we view social conflict.
+
+### Transformative approach to conflicts
+* Conflict is an opportunity, a gift. Conflict is normal in human relationships, and conflict is a motor of change.
+* Rather than seeing peace as a static “end-state, ” conflict transformation views peace as a continuously evolving and developing quality of relationship.
+* Conflict transformation is to envision and respond to the ebb and flow of social conflict as life-giving opportunities for creating constructive change processes that reduce violence, increase justice in direct interaction and social structures, and respond to real-life problems in human relationships.
+* Transformation’s guiding question is this: How do we end something not desired and build something we do desire?
+
+![](assets/Embrace.gif)
+
+* Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese
+  > *what are useful lenses* that bring varying aspects of conflict complexity into focus and at the same time create a picture of the whole? *This essay will suggest three*.
+  > 
+  > **First**, we need a lens to see the immediate situation.\
+  > **Second**, we need a lens to see past the immediate problems and view the deeper relationship patterns that form the context of the conflict. This goes beyond finding a quick solution to the problem at hand, and seeks to address what is happening in human relationships at a deeper level.\
+  > **Third**, we need a lens that helps us envision a framework that holds these together and creates a platform to address the content, the context, and the structure of the relationship. From this platform, parties can begin to find creative responses and solutions. 
+
+* (Español) [Resumen del libro de Lederach](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing) 
+  > [Objetivos del cambio en la transformación del conflicto](https://translate.google.com/?sl=auto&tl=en&text=Objetivos%20del%20cambio%20en%20la%20transformaci%C3%B3n%20del%20conflicto%0A%0APersonal%0A%0A-%20Minimizar%20los%20efectos%20destructivos%20del%20conflicto%20social%20y%20maximizar%20el%20potencial%20de%20crecimiento%20y%20bienestar%20de%20las%20personas%20como%20seres%20humanos%20individuales%20en%20el%20terreno%20f%C3%ADsico%2C%20emocional%2C%20intelectual%20y%20espiritual.%20%0A%0ARelacional%0A%0A-%20Minimizar%20la%20comunicaci%C3%B3n%20que%20funciona%20de%20forma%20pobre%20y%20maximizar%20la%20comprensi%C3%B3n.%0A-%20Sacar%20a%20la%20luz%20los%20miedos%20y%20esperanzas%20relacionadas%20con%20las%20emociones%20y%20la%20interdependencia%20de%20las%20relaciones%20y%20trabajarlas.%0A%0AEstructural%0A%0A-%20Entender%20y%20afrontar%20las%20ra%C3%ADces%20de%20las%20causa%20y%20las%20condiciones%20sociales%20que%20provoquen%20la%20aparici%C3%B3n%20de%20expresiones%20violentas%20y%20nocivas%20del%20conflicto.%0A-%20Promueve%20mecanismos%20no-violentos%20que%20reduzcan%20la%20confrontaci%C3%B3n%20y%20que%20minimicen%20y%20en%20%C3%BAltima%20instancia%20eliminen%20la%20violencia.%0A-%20Promover%20el%20desarrollo%20de%20estructuras%20para%20satisfacer%20las%20necesidades%20humanas%20b%C3%A1sicas%20(justicia%20substantiva)%20y%20para%20maximizar%20la%20participaci%C3%B3n%20de%20la%20gente%20en%20las%20decisiones%20que%20afectan%20sus%20vidas%20(justicia%20procesal).%0A%0ACultural%0A%0A-%20Identificar%20y%20entender%20los%20patrones%20culturales%20que%20contribuyen%20a%20la%20aparici%C3%B3n%20de%20las%20expresiones%20violentas%20del%20conflicto.%0A-%20Identificar%20y%20construir%20recursos%20y%20mecanismos%20dentro%20de%20un%20escenario%20cultural%20para%20responder%20constructivamente%20al%20conflicto%20y%20gestionarlo.&op=translate)
+  > ##### Personal
+  >   - Minimizar los efectos destructivos del conflicto social y maximizar el potencial de crecimiento y bienestar de las personas como seres humanos individuales en el terreno físico, emocional, intelectual y espiritual.
+  > ##### Relacional
+  >   - Minimizar la comunicación que funciona de forma pobre y maximizar la comprensión.
+  >   - Sacar a la luz los miedos y esperanzas relacionadas con las emociones y la interdependencia de las relaciones y trabajarlas.
+  > ##### Estructural
+  >   - Entender y afrontar las raíces de las causa y las condiciones sociales que provoquen la aparición de expresiones violentas y nocivas del conflicto.
+  >   - Promueve mecanismos no-violentos que reduzcan la confrontación y que minimicen y en última instancia eliminen la violencia.
+  >   - Promover el desarrollo de estructuras para satisfacer las necesidades humanas básicas (justicia substantiva) y para maximizar la participación de la gente en las decisiones que afectan sus vidas (justicia procesal).
+  > ##### Cultural
+  >   - Identificar y entender los patrones culturales que contribuyen a la aparición de las expresiones violentas del conflicto.
+  >   - Identificar y construir recursos y mecanismos dentro de un escenario cultural para responder constructivamente al conflicto y gestionarlo.
 
 ### J.P. Lederach. Conflict Transformational platform
 
@@ -381,55 +410,48 @@ The common pool resources, institutions, and settings, is really critical to how
 **Juan Carlos**:    And I didn't have like that economical sustain that the restaurant gave me. It was really hard for me, but right now I can see that conflict that I had as a gift, because that has brought me to enter into the academic world in universities, and also to be entering here in this, in, in this, the community. Yes, it, it is something that you all can do, like privately and just talk, talk to yourself like that, like how a conflict or a situation just made you better, you learn from it. that is like the workshop that I want you to do. If someone wants to share it's free and if you don't want to share, there's no problem.  
 
 (01:04:12)
-**Griff**:    I can definitely share. We can just go around. Yeah. I, you, I have a couple big ones. I mean, the DAO was obviously quite the conflict, but I'll let that one go. I had another conflict, but the DAO was great, cuz I was, I became a community leader through it and it was very nice, but there's another, before the DAO, I was a community org save our Sonics organization, which was a, it was an effort to keep this NBA basketball team that I was obsessed with in Seattle. I was basically general of the fans and I rallied the troops, got people, sign, you know, petitions and all of these things, we even had this, I helped organize this, you know, giant rally at a courthouse where there was a, there was a moment where we were really going to win. There was a, basically the Seattle city made a deal with the Seattle Supersonics that they would upgrade key arena.  
+**Griff**:    I can definitely share. We can just go around. I have a couple big ones. I mean, The DAO was obviously quite the conflict, but I'll let that one go. I had another conflict, but the DAO was great, cuz I was, I became a community leader through it and it was very nice. 
 
-(01:05:32)
-**Griff**:    And, but there was a clause that said they had to stay there for 15 years. They'd only been there for 12 years. and the guy who bought the Sonic was gonna take the team away. So, I mean, I got to meet like all my favorite heroes from the NBA team. We had a rally at the courthouse to like make this, to show the support of the city. And, but then the day the judge was gonna give the verdict, it was actually postponed and not done because the mayor just decided to sign away the team and the team left. There was nothing we could do about it. Despite like basically we had one as a community, but it didn't matter because the mayor was able to, you know, circumvent the courts and let the team leave. I was distraught. I was, it was a, it was a major turning point in my life. I decided to basically become a nomad and travel the world and discover cryptocurrency, not feel like I was attached to the Seattle Supersonics or this or the United States in general. I, you know, became a leader in other communities that were actually way more basketball team, like who cares? Right. So, and I think this just shows, I think a lot of people could speak to this, that a lot of the times, the worst things that happen to people are the best things that happen to people.  
+There's another, before the DAO, I was a community org "Save our Sonics" organization, which was an effort to keep this NBA basketball team that I was obsessed with in Seattle. I was basically general of the fans and I rallied the troops, got people, sign petitions and all of these things, we even had this, I helped organize this giant rally at a courthouse where there was a, there was a moment where we were really going to win. There was a, basically the Seattle city made a deal with the Seattle Supersonics that they would upgrade key arena.  
 
-(01:07:04)
-**Speaker 7**:    Holy shit, Griff. Like that was a crazy thing that happened, dude. You guys did it, dude. I remember the super dude. I remember, wow. I won't bother this call. That's get insane, man.  
+But there was a clause that said they had to stay there for 15 years. They'd only been there for 12 years. and the guy who bought the Sonic was gonna take the team away. So, I mean, I got to meet like all my favorite heroes from the NBA team. We had a rally at the courthouse to like make this, to show the support of the city. 
+
+The day the judge was gonna give the verdict, it was actually postponed and not done because the mayor just decided to sign away the team and the team left. There was nothing we could do about it. Despite what we had done as a community, the mayor was able to circumvent the courts and let the team leave. I was distraught. It was a major turning point in my life. I decided to basically become a nomad and travel the world and discover cryptocurrency, not feel like I was attached to the Seattle Supersonics or this or the United States in general. I became a leader in other communities that were actually way more basketball team, like who cares? I think a lot of people could speak to this, that a lot of the times, the worst things that happen to people are the best things that happen to people.  
 
 (01:07:27)
-**Juan Carlos**:    Yeah. It's, it's normal. I mean, all of us have, have conflicts and I mean, we wouldn't be human if we, if we don't have conflicts and conflict is what keeps us like changing and motivating and alive. It's just very, yeah. Humans said that we have conflicts and that, and that we are always going to keep them having them. and it's important just to see them as an expression of how can we improve and how can we learn so well, if anyone wants to share another story, it's okay. If they don't want to share another story, I will just go into talking about what we are going to cover in the next session and to invite all of you to claim your pop.  
+**Juan Carlos**:    Yeah. All of us have, have conflicts and I mean, we wouldn't be human if we don't have conflicts and conflict is what keeps us changing and motivating and alive. It's just very, yeah. Humans said that we have conflicts and that, and that we are always going to keep them having them. 
+
+It's important just to see them as an expression of how can we improve and how can we learn so well, if anyone wants to share another story.
 
 (01:08:32)
-**Speaker 8**:    I guess I would share a comment. Just that. Yeah. I mean, I can think of several instances over the years on my journey where I've had a challenge or a conflict. At the time I think now I'm able to reflect. Even in current situations that may be challenging. I can look at them more objectively and I see where I think everybody has triggers around different things and different assumptions and different, you know, ways that they've been conditioned or raised to handle conflict. I think what I love most about your work one and in this group and having a space is to normalize this and what you're saying about, you know, this is completely normal. I think like 90% of the population has this tendency to contract, to avoid and to, you know, yeah. Mostly avoid. I think, and the more we can like open to this, but to be able to open, you have to feel like safe to be vulnerable.  
+**Speaker 8**:    I can think of several instances over the years on my journey where I've had a challenge or a conflict. At the time I think now I'm able to reflect. Even in current situations that may be challenging. I can look at them more objectively and I see where I think everybody has triggers around different things and different assumptions and different ways that they've been conditioned or raised to handle conflict. 
 
-(01:09:38)
-**Speaker 8**:    And also like this level of comfort is different with different people and different relationships. But I think like one on one it's okay. But I feel like the more people you add to like a space or the more people you add, the kind of maybe the less trust or the more contraction, because it feels like, oh, is it okay to really open to these people? And I think part of that, is it okay? Yeah. It has to be like the right space and environment and the intention of the group going in like, okay, we're gonna, this might be awkward. This might be really uncomfortable, but let's go into it because probably we're gonna have, I like this ability to transform it to a place where disconnection can become connection. Thanks for holding this space for us. I hope that reflection is, I dunno, helpful for some people, or  
+I think what I love most about your work one and in this group and having a space is to normalize this and what you're saying about this is completely normal. I think like 90% of the population has this tendency to contract, to avoid and to yeah. Mostly avoid. I think, and the more we can like open to this, but to be able to open, you have to feel like safe to be vulnerable.  
 
-(01:10:36)
-**Durgadas**:    Can I tell you about conflict  
+This level of comfort is different with different people and different relationships. But I think like one on one it's okay. But I feel like the more people you add to like a space or the more people you add, the kind of maybe the less trust or the more contraction, because it feels like, is it okay to really open to these people?
 
-(01:10:40)
-**Juan Carlos**:    Please?  
-
-(01:10:42)
-**Durgadas**:    So the very first nonviolent communication group that I founded in Seattle when I left di Ashra, there was a guy who was just there. For the first moment that I was just irritated to hell with him. I just don't know why, you know, everything he said and did was just irritating to me. and at some point I realized that, you know, I'm in a nonviolent communication group, I should actually be able to trust the process to sort out what that it was, but it did take quite a lot of courage for me to sort of learn, to trust the process and to ignore this kind of violence that I had learned to exist with in my own head and within the different social structures that I work with. It was, it was weird because once I did just finally say, okay, look, you know, I've gotta deal with this with you.  
-
-(01:11:37)
-**Durgadas**:    You know, we were able to talk it out and trust the process and go through the observations, feelings needs and requests, and then, you know, sort out what, what that was all about. It ended up really well, but it was it. Yeah, for me, it was a bit like cracking the shell of an egg. Now, you know, I haven't looked back and I realize that my own maturity as a person is basically dependent on my willingness to continue sort of cracking those individual eggs as I encounter them. Now it's just, all I really do is look for ways in which to crack those eggs and get to the meaty stuff that's that's inside of them, you know? So that's all,  
-
-(01:12:22)
-**Juan Carlos**:    Well, thank you. Yes. The idea is that we understand that conflict is normal. We all have conflicts and is normal also to reach and to ask for help, if you have a conflict that's very normal. That is one of the main principles of this graviton training. This session was to understand conflict as a, the, as a whole, but in the next session, we are going to go really like on the process of handling a dispute. We are going about that is the best to negotiated agreement. We negotiations and we like practice to promote conflict resolution. The idea of this whole training that is based on in eight sessions is that first. Yeah, we understand non communication and prevention, and now we understand about conflicts. Now in the next session, we are going to talk about how to manage conflict and some of like really easy techniques and tips to transform a situation or to, or to be a third part in a, in a conflict, because as asking for help should be normalized, like going to a psychology, doesn't make you crazy.  
-
-(01:13:56)
-**Juan Carlos**:    So if you talk with someone about a conflict that doesn't make you any more, any less human or any like fragile or something, when we talk to another person about the conflict, 
-
-ust looking to yeah. Get to a, to a better point. Well, but that also depends on who you talk to. That is also why's so important for us to be trained because we are not here to be like the gossip group. Like if anyone has a conflict, then they come to me and then I tell their conflicts to other people. No, it's to be like really 
-
-strategic people that wants the wellbeing of the community that come to conversations with people to address their conflicts and to turn them into something positive. For the next session, we are N would not, these are very practical.  
+I think part of that, is it okay? Yeah. It has to be like the right space and environment and the intention of the group going in like, okay, we're gonna, this might be awkward. This might be really uncomfortable, but let's go into it because probably we're gonna have, I like this ability to transform it to a place where disconnection can become connection. Thanks for holding this space for us.
 
 
+> The idea is to understand that conflict is normal, we all have conflicts, and also to reach and to ask for help. 
 
-(01:15:02)
-**Juan Carlos**:    And they, they are like based on, on the theories of hardware of program on negotiation and yeah, the it's like, I would 
+### Trusting the process
 
-like you to see this video Lederach to read what is alternative dispute resolution and how can we like be a third part to help on, on the health of our communities and to be a third part in other conflicts or even in our own conflict to address and to,Tansform 
+**Durgadas**:    The very first nonviolent communication group that I founded in Seattle when I left the Ashram, there was a guy who was just there. For the first moment that I was just irritated to hell with him. I just don't know why everything he said and did was just irritating to me. and at some point I realized that I'm in a nonviolent communication group, I should actually be able to trust the process to sort out what that it was.
 
-the conflict into something constructive. So, yes, that is like then of this session, the invitation to get to the next one, and that we are going to have really practical techniques to address conflict now that we understand that conflict is natural and that conflict is going to arrive always. That then now we are going to yeah. 
+After about eight meetings, I was like, look, man, you're just irritating as hell to me. I don't know why. I had to trust the process to have a difficult conversation with that person. We were able to talk it out and trust the process and go through the observations, feelings needs and requests, and then sort out what, what that was all about. It ended up really well, then he was no longer annoying. This is the power of inclusion.
 
-Understand How to easily manage conflict. We within other people and to become a negotiator, a negotiator and a mediator that is like the ultimate goal of this, of this trading for you, for these people that we are trading to be trusted people in their communities. to help on the wellbeing of the community as a whole.  
+It was a bit like cracking the shell of an egg. Now I haven't looked back and I realize that my own maturity as a person is basically dependent on my willingness to continue sort of cracking those individual eggs as I encounter them. Now it's just, all I really do is look for ways in which to crack those eggs and get to the meaty stuff that's that's inside of them.
+
+### Avoiding conflict is avoiding evolution
+(01:09:35)
+**Juan Carlos**:    I want to compliment also on something and that this all connects with what we are going to see next week on the theories of conflict, because conflict is somehow like the expression of an ENT duality. How can we transform an toity that arises between two people into something that can be better for, for the, for both of them.  
+
+(01:10:06)
+**Durgadas**:    that, and that's specifically what this evolution is showing, right? It's actually conflict that creates a person's evolution along the different colors.  
+
+(01:10:17)
+**Juan Carlos**:    So it, it, sometimes we, when we hear the word conflict, we tend to like avoid it. Yeah. Avoiding a conflict is avoiding evolution. Yes. Because is expression of, of different points of view, it's expression of needs that are not met. An approach that we're promoting here is to see is to not go into conflict with everything, but see conflict with compassion, with, as a process that has a lot of knowledge in need. I am also going into this next session, but it's also a dialectic process, a process that comes from a thesis and antithesis, and then it a synthesis that it's like what we are seeing here in this, in these graphs.  
 
 ## Resources
 
@@ -468,21 +490,3 @@ Understand How to easily manage conflict. We within other people and to become a
 - [Restorative Justice Circles](https://oscr.umich.edu/article/restorative-justice-circles)
 - https://docs.google.com/document/d/18GF3f130miEsaASw-TRCHR-qRtbL8y-UsfusV7pXuZg/edit# D2D reputation sharing
 - https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
-
-## Conflict Transformation
-- [Little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf) (Lederach)
-- [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
-- [Conflict Transformation by Peaceful Means](https://www.issuelab.org/resources/19719/19719.pdf)
-- [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
-- [Comentando el libro “Transformación de Conflictos” Pequeño manual de uso de John Paul Lederach.](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)
-
-### Theories of Conflict, Antifragility and Conflict management
-**1. J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)**
-**2. Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese**
-**3. (Español) [Resumen del libro de Lederach](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)** 
-**4. Taleb, [Antifragile. Things that gain from disorder](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)**
-**5. (Video) [Antifragile](https://www.youtube.com/watch?v=S3REdLZ8Xis)**
-**6. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
-**7. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
-**8. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
-**9. [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/DAOnload/pdf/51092982.pdf)** 
