@@ -1,17 +1,37 @@
 # Trust Creation
 
+- [The collective consciousness Iceberg](#the-collective-consciousness-iceberg)
+- [Liberating Structures Toolbox](#liberating-structures-toolbox)
+- [Ho Oponopono](#ho-oponopono)
+- [No difference between legitimacy of social law and other types of law.](#no-difference-between-legitimacy-of-social-law-and-other-types-of-law)
+- [Making rules is not just blindly following a system.](#making-rules-is-not-just-blindly-following-a-system)
+- [Correcting contradictory social law behavior](#correcting-contradictory-social-law-behavior)
+- [Promoting strategic nonviolent communication](#promoting-strategic-nonviolent-communication)
+  - [Group Activity](#group-activity)
+- [Gravity WG Practice](#gravity-wg-practice)
+- [Trust creation durgadas](#trust-creation-durgadas)
+- [CREATING A SAFE SPACE](#creating-a-safe-space)
+  - [Empathy is the key](#empathy-is-the-key)
+- [HELPING PEOPLE TO GET TO THEIR OPTIMAL AROUSAL ZONE](#helping-people-to-get-to-their-optimal-arousal-zone)
+- [Overcoming communication constraints](#overcoming-communication-constraints)
+  - [Nonviolent Communication (Giraffe / Wolf language)](#nonviolent-communication-giraffe--wolf-language)
+- [The four components of NVC](#the-four-components-of-nvc)
+  - [OFNR:](#ofnr)
+  - [Accountability](#accountability)
+
+## Resources
+
 - [Beyond Inclusion Beyond Empowerment : Primer](https://soundcloud.com/aloysious-x/beyond-inclusion-beyond-empowerment-primer) 
   > Beyond Inclusion, Beyond Empowerment, by Leticia Nieto Psy.D., and co-authors, brings a long-awaited breakthrough to the fields of liberation and cultural studies. Nieto offers a powerful analysis
 - [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
   > Let’s know a little bit more about each other!
 - [Building trust and resolving conflict25](http://textbooks.whatcom.edu/healthprofessionalism/chapter/building-trust-and-resolving-conflict/)
 
-
-## The collective consciousness Iceberg
+### The collective consciousness Iceberg
 
 ![](images/6_role-of-the-leader.png)
 
-## Liberating Structures Toolbox
+### Liberating Structures Toolbox
 
 Liberating Structures is an open tool-kit for facilitation.
 
@@ -29,12 +49,12 @@ Liberating Structures is an open tool-kit for facilitation.
 | [![](images/ls-discovery-and-action-dialogues.png)](https://www.liberatingstructures.com/10-discovery-action-dialogue/) <br> **Discovery & Action Dialogue** <br> Discover, spark & unleash local solutions to chronic problems | [![](images/ls-design-storyboards.png)](https://www.liberatingstructures.com/21-design-storyboards/) <br> **Design StoryBoards** <br> Define step-by-step elements for bringing projects to productive endpoints | [![](images/ls-celebrity-interview.png)](https://www.liberatingstructures.com/22-celebrity-interview/) <br> **Celebrity Interview** <br> Reconnect the experience of leaders and experts with people closest to the challenges at hand | 
 | [![](images/ls-shift-and-share.png)](https://www.liberatingstructures.com/11-shift-share/) <br> **Shift & Share** <br> Spread good ideas and make informal connections with innovators | [![](images/ls-social-network-webbing.png)](https://www.liberatingstructures.com/23-social-network-webbing/) <br> **Social Network Webbing** <br> Map informal connections & decide how to strengthen the network to achieve a purpose | [![](images/ls-purpose-to-practice.png)](https://www.liberatingstructures.com/33-purpose-to-practice-p2p/) <br> **Purpose-To-Practice** <br> Define the five elements that are essential for a resilient & enduring initiative |
 
-## Ho Oponopono
+### Ho Oponopono
 
-#### ありがとう - Te Amo - Désolé - I’m sorry
-#### Gracias - Je t’aime - Forgive me, ごめんなさい
-#### Thank you - 愛してる - Lo siento - Pardonnez-moi
-#### Merci - I love you - すみません - I’m Sorry
+* ありがとう - Te Amo - Désolé - I’m sorry
+* Gracias - Je t’aime - Forgive me, ごめんなさい
+* Thank you - 愛してる - Lo siento - Pardonnez-moi
+* Merci - I love you - すみません - I’m Sorry
 
 [https://www.youtube.com/watch?v=OAuWRuU4uzA](https://www.youtube.com/watch?v=OAuWRuU4uzA)
 
@@ -90,14 +110,14 @@ I suggest the queries can be sent to a bot or a typeform, that is associated to 
 > TRUST CREATION- Proactive Efforts to identify places to engender trust not only in participants but also in investors, regulatory bodies, systems, etc. 
 > - Cynefin- Frameworks Preceding Data (see graphic)
 > - Spiral Dynamics & Integral Theory
->   - Deep Methods to contextualize efforts, people, community and world.
+> - Deep Methods to contextualize efforts, people, community and world.
 > - Deliberately Developmental Organizations
->   - How To Reward What We Want To Educate
->   - What A Culture Educates Is What It Becomes
->   - Metamodernism- caring about all of the psychological health of the participants in the system
->   - OK, We’ve Decentralized. Now What?
->     - Do we continue to just have the attitude that “Decentralization Fixes EVERYTHING?”
->     - Systems Thinking Vs. Complexity Thinking
+> - How To Reward What We Want To Educate
+> - What A Culture Educates Is What It Becomes
+> - Metamodernism- caring about all of the psychological health of the participants in the system
+> - OK, We’ve Decentralized. Now What?
+>   - Do we continue to just have the attitude that “Decentralization Fixes EVERYTHING?”
+>   - Systems Thinking Vs. Complexity Thinking
 
 Principal a is basically the idea that all the other principles are contextualized into in terms of trust creation, Cynefin is a framework that in which we can understand what action mode is required. 
 
