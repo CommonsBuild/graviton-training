@@ -26,7 +26,7 @@ Nonviolent communication requires quite a transformation from how many of us hav
 
 #### I was working in one culture in Malaysia, that had a radically different language than the one I was taught. 
 
-My interpreter wanted to start the day by having a half hour with me. He said, I need to explain to you some things about our language which may be different than yours, that I'd like you to be aware of. Because if you're not aware of this, it will make my job as an interpreter more difficult. We met for a half an hour before the day started. He said, you know, Marshall, it's important to be aware that in our language, we have no verb to be in the sense of judging what people or their actions are. If you use any language today that judges people or their actions in that way, it will be very hard for me to interpret. I thought of this for a moment. 
+My interpreter wanted to start the day by having a half hour with me. He said, I need to explain to you some things about our language which may be different than yours, that I'd like you to be aware of. Because if you're not aware of this, it will make my job as an interpreter more difficult. We met for a half an hour before the day started. He said Marshall, it's important to be aware that in our language, we have no verb to be in the sense of judging what people or their actions are. If you use any language today that judges people or their actions in that way, it will be very hard for me to interpret. I thought of this for a moment. 
 
 I thought to myself, how can I go through a day without insulting people? **My brain had been programmed to think moment by moment in terms of what will people think of me.**
 

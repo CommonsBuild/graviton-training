@@ -283,7 +283,7 @@ If they don't work, we go to we to review our graduated sanctions and our framew
 ### Do you have any question until this moment?  
 
 (00:39:46)
-**Speaker 3**:    No, I would just say rather than strictly non-hierarchical, it might be said that it would be a better way to say it, to be that it's hierarchical, you know, in the sense that, you know, developmental levels of everyone and all of the levels engagement that exists within all of that. So, so to say that there's no hierarchy at all is not exactly true, but it's more of an radically inclusive version of that.  
+**Speaker 3**:    No, I would just say rather than strictly non-hierarchical, it might be said that it would be a better way to say it, to be that it's hierarchical in the sense that developmental levels of everyone and all of the levels engagement that exists within all of that. So, so to say that there's no hierarchy at all is not exactly true, but it's more of an radically inclusive version of that.  
 
 (00:40:29)
 **Juan Carlos**:    Okay. Yeah, that makes a lot of sense. Also the protocol, I think that can be updated and reviewed. So, I think it's also a valid and very good point that you're making during. 

@@ -350,7 +350,7 @@ He said, No. It's all about the future, mom.
 
 I really strained to hear what was he feeling and needing when he said it's all about the future. I started to get it. I said, you mean you're disappointed because you're not learning things that are really meeting your needs now. 
 
-Yeah, Mom, you know, they just say you have to learn this so that you'll get a good grade and then you'll be able to go into other classes and then eventually you'll get a better job. 
+Yeah, Mom they just say you have to learn this so that you'll get a good grade and then you'll be able to go into other classes and then eventually you'll get a better job. 
 
 She said, I could really see why it was so hard for him to want to go to school every day when it really wasn't meeting his need for something that was valid. When it was all about the future, how little energy he could have for wanting to go to school. 
 
@@ -448,7 +448,7 @@ And we suggest doing this by saying, excuse me, excuse me. To interrupt them whe
 
 > Always say, "Excuse me" and then what we say is to bring the conversation back to life, back to what is alive in this person at this moment, behind all the words. 
 
-For example, if somebody says to us, you know, I was in a department store yesterday, and the clerk was so rude. I mean, that clerk was so rude. And I thought, you know, that reminded me of my own father. You know, my father used to talk to me in the same way. I can recall a time when I was about six years, and then the person goes on to tell us this long story about what happened with their father. 
+For example, if somebody says to us I was in a department store yesterday, and the clerk was so rude. I mean, that clerk was so rude. And I thought that reminded me of my own father. You know, my father used to talk to me in the same way. I can recall a time when I was about six years, and then the person goes on to tell us this long story about what happened with their father. 
 
 #### Here's where I might interrupt, but I would interrupt to try to connect to what's alive and then now, behind all these words. 
 

@@ -143,7 +143,7 @@ I feel very sad at how many people seem to have that feeling, and how many peopl
 
 There's no space in that kind of thinking for sincere gratitude to be part of the workplace or the living environment. Many people not only think it's not necessary to say it, they don't see any reason why they should have to hear it. 
 
-If they know that it is their obligation, why bother to have to hear any gratitude, you just do the work because, you know, it is your obligation or duty. 
+If they know that it is their obligation, why bother to have to hear any gratitude, you just do the work because it is your obligation or duty. 
 
 ### Confirmation that we are serving life
 
@@ -223,11 +223,11 @@ I also asked him, I said, uncle, how did you learn to do that? How did you learn
 #### How have you managed to stay compassionate so well?
 
 22:40  
-He liked the question, and he thought for a while and he said, Well, you know, I was very fortunate to have good teachers. **I also happened to be around people who, I saw, enjoyed contributing to other people's well being. It was easy to learn from them**. 
+He liked the question, and he thought for a while and he said, Well I was very fortunate to have good teachers. **I also happened to be around people who, I saw, enjoyed contributing to other people's well being. It was easy to learn from them**. 
 
 I said, Could you give me an example who one of these people were? 
 
-He said, you know, the best teacher of all I had, it was your grandmother. Of course, when you lived with her, she was very ill. 
+He said the best teacher of all I had, it was your grandmother. Of course, when you lived with her, she was very ill. 
 
 When she wasn't ill, oh, how wonderful it was to be around her, and to see how she contributed to people's well being, and how much joy she felt in that, and how much people received from that and how much they enjoyed her presence. I learned so much from her. 
 
@@ -335,13 +335,13 @@ It was for that reason that I guess that it would be not easy for him to take hi
 
 But, I certainly wanted to be sure that he did take it in before, it was no longer possible for me to tell him. 
 
-The next time I met with him, we went out for a walk together, which we usually did. While we're on the walk, I said Dad, I'd like to express a deep gratitude. I for you, and before I went any further, just what I predicted would happen was starting to take place, **I could see he got very nervous and said, Oh, don't worry about expressing anything like that, you know, I mean, you're a good son**. 
+The next time I met with him, we went out for a walk together, which we usually did. While we're on the walk, I said Dad, I'd like to express a deep gratitude. I for you, and before I went any further, just what I predicted would happen was starting to take place, **I could see he got very nervous and said, Oh, don't worry about expressing anything like that I mean, you're a good son**. 
 
 I said, Dad, I really would like you to hear it. It's a very deep gratitude. And I really want to express it. I told him what this gratitude was, what he had done and how much it had enriched my life. 
 
 I saw it was hard for him to take in. But I could see in his eyes, something happened to him as a result of taking it in. And we continued on our walk silently for about 10 minutes after I express the gratitude. 
 
-Then he said to me, You know, I've been thinking, I can't remember ever hearing a gratitude from my own parents. 
+Then he said to me I've been thinking, I can't remember ever hearing a gratitude from my own parents. 
 
 I could understand from the life that he led as a child why that happened. My grandparents were very loving people, but they were all poor. Just doing the work that was required to survive took everybody's energy. Under those circumstances, it's often not easy for people to get out of their pain long enough to celebrate life and to express gratitude.
 
@@ -374,7 +374,7 @@ There are several other reasons why I find that it's very hard for many people t
 
 I've asked people what makes it so hard? 
 
-There's various reasons why, people give me, but some of the most popular ones, some people will say, well, it's my duty to do that, you know, **why should I feel good about it, or take it in? It's just what I was paid to do or what I'm supposed to do**. 
+There's various reasons why, people give me, but some of the most popular ones, some people will say, well, it's my duty to do that **why should I feel good about it, or take it in? It's just what I was paid to do or what I'm supposed to do**. 
 
 Just as it's hard for us to express gratitude, if we have this thinking of obligation, duty, and that's why you do things and that's all that's necessary. Just do what's right, because it's your obligation. 
 
@@ -639,7 +639,7 @@ I asked him, do you take time anytime in your meetings to express gratitude?
 
 A couple of the people kind of laughed, because even the thought of doing that seems strange to them. 
 
-The director of the program said to me, Marshall, we've got so many things to deal with each week in our meetings, that it's hard for us to figure out what to put in the agenda. We don't have time, you know, to stop and express gratitude. 
+The director of the program said to me, Marshall, we've got so many things to deal with each week in our meetings, that it's hard for us to figure out what to put in the agenda. We don't have time to stop and express gratitude. 
 
 I went back a month later, to that company. Before the day began, I was sitting in the director's office. And I asked him, I said, How are things going? Has the training helped in dealing with the conflicts that you were having? H
 

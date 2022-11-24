@@ -136,7 +136,7 @@ Especially when the person that we care for has some need that seems very strong
 
 **How do we say no under these very difficult conditions?** 
 
-For example, let's say that our partner looks at lonely and says, you know, I'm lonely this evening and I have a real need for some companionship. Would you be willing to put down that work you're doing? And just come and spend some time with me? 
+For example, let's say that our partner looks at lonely and says I'm lonely this evening and I have a real need for some companionship. Would you be willing to put down that work you're doing? And just come and spend some time with me? 
 
 How do we say no to that? 
 

@@ -138,7 +138,7 @@ I think I talked for 45 minutes and the three children, then aged four, or five 
 
 I had a neighbor who was an executive of a brewery, and when I would usually see him, it would be over the backyard fence. I would greet him and say, hi, an he would speak to me, Hey, what's going on, man, something like that. He was usually dressed, in the summer, in a pair of shorts and a T shirt and very easy person to connect with to enjoy. 
 
-Over time, we started the talk, and he found out the kind of work that I did. He said, you know, I think our brewery could use this kind of training. How about coming down to my office, and we'll talk further about you doing some training. I went down to his office, it was a large office because he had a high position. 
+Over time, we started the talk, and he found out the kind of work that I did. He said I think our brewery could use this kind of training. How about coming down to my office, and we'll talk further about you doing some training. I went down to his office, it was a large office because he had a high position. 
 
 Rather quickly, when I went into his office, it was though he was a different person instead of greeting me and the way he usually did. He was very formal. And I really had trouble believing this was the same person I had known for about a year. He looked different. He talked different, he was a whole different person. 
 
@@ -329,7 +329,7 @@ Then I worked with the men. I could see, very quickly, what the women were putti
 
 At one point, I got very emotional thinking of what these wives must go through, to live with people who are in this environment, and I got so emotional that I started to cry. 
 
-**I couldn't believe that I would cry in front of a group of top executives in a corporation** and when I looked up, I was expecting everybody to be contempt. And they were, I saw in everybody's eyes, you know. "What is wrong with this guy?" Especially the boss of the group, he just looked like, you know, how could any man cry in a setting like this? 
+**I couldn't believe that I would cry in front of a group of top executives in a corporation** and when I looked up, I was expecting everybody to be contempt. And they were, I saw in everybody's eyes, you know. "What is wrong with this guy?" Especially the boss of the group, he just looked like how could any man cry in a setting like this? 
 
 I was glad that I had my Nonviolent Communication skills because from the look on all of their faces, if I hadn't tried to empathize with what was going on in them, I could have easily taken it that I'm not a real human male, that I'm disgusting. 
 
@@ -355,7 +355,7 @@ We stopped at the hospital and I accompany her up to the room. And I stood out i
 
 My colleague sat and held the hand of this patient and talked with her for 20 minutes. Meanwhile, I was getting nervous because we had another workshop to do. 
 
-After this time, my colleague came out very annoyed, and she said, you see the women in that room? Did you see all that equipment she was hooked up to? Yes, yes. She said, you know, that woman has been in there for six hours and nobody has talked to her in that time. Can you imagine it? **A place that can be so skilled at knowing what equipment is necessary, but they don't know that people need human contact**.
+After this time, my colleague came out very annoyed, and she said, you see the women in that room? Did you see all that equipment she was hooked up to? Yes, yes. She said that woman has been in there for six hours and nobody has talked to her in that time. Can you imagine it? **A place that can be so skilled at knowing what equipment is necessary, but they don't know that people need human contact**.
 
 47:05  
 So many institutions that I work in, have a value system that dis-connects people from the humaneness of themselves and of the people with whom they work. *They'd get so caught up in productivity, which is important, but they get so caught up in the productivity, that they lose connection with human relationships.* Especially when they have titles that imply that they are superior, then especially it's hard for these people to relate in a human way. 

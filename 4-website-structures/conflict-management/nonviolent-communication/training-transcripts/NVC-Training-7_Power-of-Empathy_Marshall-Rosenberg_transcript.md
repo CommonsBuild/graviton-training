@@ -239,7 +239,7 @@ I said to him, Well, it's quite obvious your wife is really not connected to wha
 
 He said to me, Marshall, she's a wonderful mother, she's a wonderful wife, but when it comes to money, she's totally irresponsible. 
 
-She jumps in and says, you know, that's not fair. 
+She jumps in and says that's not fair. 
 
 See, I asked him what his needs were. He's like many people, they don't really know how to say their needs, but they're quite skilled at saying what's wrong with other people for not meeting their needs. 
 

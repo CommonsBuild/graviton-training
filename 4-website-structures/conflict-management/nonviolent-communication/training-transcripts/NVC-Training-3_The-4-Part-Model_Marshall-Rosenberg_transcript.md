@@ -52,7 +52,7 @@ In my session with these school principals, I suggested that they think of a tea
 
 One of the principles picked a teacher that, he said, is inconsiderate of other teachers. I pointed out that to *inconsiderate is what I would call an evaluation*. I was suggesting that *I was asking for an observation*. What does this person do, that lead you to interpret her as inconsiderate. 
 
-He thought for a while and he said, you know, she does what she wants, but doesn't think of how this might affect other people on the staff. I said again, excuse me, but you see, that is your evaluation. You're telling me what you think is going on in her, what she thinks about or doesn't think about. I was asking for specific behavior.
+He thought for a while and he said she does what she wants, but doesn't think of how this might affect other people on the staff. I said again, excuse me, but you see, that is your evaluation. You're telling me what you think is going on in her, what she thinks about or doesn't think about. I was asking for specific behavior.
 
 He thought, and thought, but was having trouble doing it.
 
@@ -187,7 +187,7 @@ Much of Nonviolent Communication training is designed to helping people develop 
 
 * We suggest that people write down those criticism, blaming words that they have used most in their lives of other people.
 
-They make a list of these words. For some people, selfish is one of the top words, you know, that's a selfish thing to do. Others will say, that's a stupid thing to do, or you had no right to do that. 
+They make a list of these words. For some people, selfish is one of the top words that's a selfish thing to do. Others will say, that's a stupid thing to do, or you had no right to do that. 
 
 * We get them to list those criticism and blaming statements they have probably made the most often, in the lives of other people. 
 
@@ -418,7 +418,7 @@ How do we do that without criticizing? Of course, we all know how to interrupt a
 
 One reason I have found that people use more words than anybody wants to hear is that the speaker is not conscious of what they want back. They don't understand what their own present request is, and so they keep going on and on. Trying to get what they want, when they're not even too sure what they want in the conversation. 
 
-I can recall a very close friend that I had would often tell me at great length things that were happening to her in her workplace. One day, I said to her, you know, I find it hard to follow you, when I hear you telling all of this, but I'm not sure what you're wanting back from me. Could you tell me what your request is of me, when you are telling me these things that happened to you at work? 
+I can recall a very close friend that I had would often tell me at great length things that were happening to her in her workplace. One day, I said to her I find it hard to follow you, when I hear you telling all of this, but I'm not sure what you're wanting back from me. Could you tell me what your request is of me, when you are telling me these things that happened to you at work? 
 
 She thought for a moment and she said, "*I thought it was important to say*" 
 

@@ -136,7 +136,7 @@ I thanked her for her kindness, but I gave her back the check. She said, Why are
 
 She said, Well, what would you do with it? I said I'd use it first to buy a car I could sleep in. Second, I would use it to buy a computer because I'm finding that these computers can help me make mailing lists and get a lot of the work I need to do to spread the word around. It could make it a lot easier. 
 
-She gave me back the check and she said, Please and buy a car and buy a computer. She said, but you know, **what would help if you had a not for profit organization. I could deduct that**. So it would be very helpful to me if you could do that. I said, Well, you know, some other people have been telling me there'd be some advantages to my forming a not for profit organization.
+She gave me back the check and she said, Please and buy a car and buy a computer. She said, but you know, **what would help if you had a not for profit organization. I could deduct that**. So it would be very helpful to me if you could do that. I said, Well some other people have been telling me there'd be some advantages to my forming a not for profit organization.
 
 *so I did,* 
 
