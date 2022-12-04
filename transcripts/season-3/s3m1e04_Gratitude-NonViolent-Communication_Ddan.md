@@ -1,6 +1,7 @@
 # Gratitude in Nonviolent Communication with ddan
 
-* [Thrid Graviton Training Module 1: NonViolent Communication](https://www.youtube.com/watch?v=Vw_PbB5AM8Q&list=PLusWL9gf0FIQkGz1kOK76gL8oapkppEZ9&index=4)
+* [Thrid Graviton Training Module 1: NonViolent Communication](https://www.youtube.com/watch?v=Vw_PbB5AM8Q&list=PLusWL9gf0FIQkGz1kOK76gL8oapkppEZ9&index=4) Youtube
+* [Gravity + NVC: Appreciating help meeting needs](https://docs.google.com/presentation/d/1WxHeHLR9Iv2icAVNgyPlLqCS8K2OJ3JQaDOIrO_A4G0/edit#slide=id.g1320e1a30d1_0_7) Slides
 
 **Gravity Season 03 Module 1 Session 04**
 
